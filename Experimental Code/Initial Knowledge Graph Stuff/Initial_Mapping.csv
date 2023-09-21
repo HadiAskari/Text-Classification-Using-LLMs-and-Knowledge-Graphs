@@ -1,0 +1,2001 @@
+left,right,score
+television,Television,0.9807333946228027
+television,Television,0.9807333946228027
+television,Television,0.9807333946228027
+television,Television,0.9807333946228027
+dogs,Dogs,0.9789137244224548
+toy,Children's Games and Toys,0.9781342148780823
+dessert,Desserts and Baking,0.9624428749084473
+bath,Bath and Shower,0.9504331350326538
+restaurant,Bars & Restaurants,0.9493370056152344
+restaurant,Bars & Restaurants,0.9493370056152344
+beach,Beach Travel,0.9459083676338196
+wallet,Women's Handbags and Wallets,0.9355251789093018
+skiing,Polar Travel,0.9292495250701904
+camera,Cameras and Camcorders,0.9254360198974609
+camera,Cameras and Camcorders,0.9254360198974609
+shower,Bath and Shower,0.9228623509407043
+shower,Bath and Shower,0.9228623509407043
+farm,Land and Farms,0.9118907451629639
+watch,Women's Jewelry and Watches,0.9057524800300598
+book,Books and Literature,0.8946719765663147
+book,Books and Literature,0.8946719765663147
+bar,Bars & Restaurants,0.8830657601356506
+pets,Pets,0.8688855767250061
+library,Houses,0.8682833909988403
+wig,Events and Attractions,0.8667955994606018
+ice_cream,Desserts and Baking,0.8655117750167847
+ice_cream,Desserts and Baking,0.8655117750167847
+trifle,Reptiles,0.8642606139183044
+driving_car,Movies,0.8633821606636047
+mule,Zoos & Aquariums,0.8630623817443848
+furniture,Home & Garden,0.8613683581352234
+purse,Women's Handbags and Wallets,0.860372006893158
+fireplace,Houses,0.8580337762832642
+furniture,Bath and Shower,0.8542875051498413
+dogs,Pets,0.8540708422660828
+furniture,Hotel Properties,0.853907585144043
+furniture,Bars & Restaurants,0.8538981080055237
+waffle_iron,Auto Body Styles,0.8535536527633667
+waffle_iron,Auto Body Styles,0.8535536527633667
+aquarium,Zoos & Aquariums,0.8526155352592468
+banana,Desserts and Baking,0.8525800704956055
+banana,Desserts and Baking,0.8525800704956055
+banana,Desserts and Baking,0.8525800704956055
+library,Zoos & Aquariums,0.8515366911888123
+tea,Bars & Restaurants,0.8511627316474915
+cocktail,Musical Instruments,0.8511540293693542
+file,Zoos & Aquariums,0.8511480093002319
+music,Music and Audio,0.8507645130157471
+bee_house,Retail Property,0.8497434258460999
+outside,Home & Garden,0.8483715653419495
+outside,Home & Garden,0.8483715653419495
+furniture,Zoos & Aquariums,0.8473994135856628
+furniture,Malls & Shopping Centers,0.847070574760437
+box_turtle,Convertible,0.8470093607902527
+opera,Theater Venues and Events,0.8468723297119141
+lotion,Beach Travel,0.8466514348983765
+stool,Bars & Restaurants,0.8456962704658508
+skull,Movies,0.8456230759620667
+hockey_puck,Reptiles,0.8452005386352539
+whack,Events and Attractions,0.8451293110847473
+shoe_shop,Women's Shoes and Footwear,0.8438120484352112
+shoe_shop,Women's Shoes and Footwear,0.8438120484352112
+bolete,Retail Property,0.8434728384017944
+starfish,Beauty,0.8434267044067383
+starfish,Beauty,0.8434267044067383
+bust,Zoos & Aquariums,0.8433096408843994
+candle,Bars & Restaurants,0.8430687785148621
+candle,Bars & Restaurants,0.8430687785148621
+opera,Music and Audio,0.8426992893218994
+furniture,Women's Handbags and Wallets,0.8424481153488159
+stable,Zoos & Aquariums,0.8423267006874084
+furniture,Theater Venues and Events,0.8423082232475281
+toilet,Bath and Shower,0.8413997888565063
+toilet,Bath and Shower,0.8413997888565063
+barn,Home & Garden,0.8413955569267273
+barn,Home & Garden,0.8413955569267273
+sabot,Auto Body Styles,0.8412322402000427
+ferret,Reptiles,0.8407043218612671
+doll,Children's Games and Toys,0.8405805230140686
+fireplace,Comedy Events,0.8400673270225525
+pastry,Desserts and Baking,0.8389562368392944
+yard,Home & Garden,0.8387919068336487
+underground,Convertible,0.8382648229598999
+using_computer,Movies,0.8376754522323608
+convertible,Convertible,0.8374338746070862
+furniture,Casinos & Gambling,0.8372698426246643
+caterpillar,Home & Garden,0.835875928401947
+furniture,Land and Farms,0.835335373878479
+bust,Comedy Events,0.8350285887718201
+grape,Bars & Restaurants,0.8349193930625916
+dining,Bars & Restaurants,0.8346757292747498
+piano,Music and Audio,0.8344542384147644
+piano,Music and Audio,0.8344542384147644
+rifle,Movies,0.8343269228935242
+rifle,Movies,0.8343269228935242
+doughnut,Desserts and Baking,0.8339409232139587
+bust,Land and Farms,0.8338184356689453
+furniture,Dogs,0.8335512280464172
+rubber,Reptiles,0.8332873582839966
+weapon,Zoos & Aquariums,0.8332430720329285
+singing,Music and Audio,0.8332016468048096
+singing,Music and Audio,0.8332016468048096
+mule,Birds,0.8331677913665771
+lynx,Hobbies & Interests,0.8329635858535767
+lynx,Hobbies & Interests,0.8329635858535767
+ferret,Zoos & Aquariums,0.8322270512580872
+funk,Zoos & Aquariums,0.8319576978683472
+crying,Minivan,0.8314543962478638
+crying,Minivan,0.8314543962478638
+fast_food,Bars & Restaurants,0.8313829302787781
+snowboarding,Polar Travel,0.8313590884208679
+furniture,Movies,0.8308923244476318
+underground,Events and Attractions,0.8308563232421875
+choir,Musical Instruments,0.830769956111908
+box_turtle,Reptiles,0.8307133316993713
+coconut,Home & Garden,0.8299767971038818
+kite,Birds,0.8296252489089966
+kite,Birds,0.8296252489089966
+kite,Birds,0.8296252489089966
+tea,Malls & Shopping Centers,0.829298198223114
+shed,Home & Garden,0.8292744755744934
+tank,Musical Instruments,0.8292410969734192
+tank,Musical Instruments,0.8292410969734192
+hook,Minivan,0.829234778881073
+rub,Cats,0.8291988968849182
+rubber,Birds,0.8290261030197144
+mosquito,Retail Industry,0.8287345170974731
+furniture,Education industry,0.8285939693450928
+lawn,Home & Garden,0.828278124332428
+rocker,Movies,0.8282515406608582
+nursery,Movies,0.8278871774673462
+nursery,Movies,0.8278871774673462
+furniture,Birds,0.827886700630188
+choir,Music and Audio,0.8276777267456055
+ferret,Houses,0.8273585438728333
+footwear,Women's Shoes and Footwear,0.827357292175293
+furniture,Children's Games and Toys,0.8266199231147766
+juice,Birds,0.8265432119369507
+domestic_animals,Wellness,0.8264806866645813
+piano,Musical Instruments,0.8261827826499939
+piano,Musical Instruments,0.8261827826499939
+rub,Land and Farms,0.8261431455612183
+barn,Zoos & Aquariums,0.8259791135787964
+barn,Zoos & Aquariums,0.8259791135787964
+furniture,Travel,0.825753390789032
+mosquito,Birds,0.8257342576980591
+outside,Movies,0.825394868850708
+outside,Movies,0.825394868850708
+bomb,Movies,0.825218677520752
+tea,Zoos & Aquariums,0.8250637054443359
+furniture,Houses,0.8245792984962463
+coconut,Zoos & Aquariums,0.8245602250099182
+thunderstorm,Events and Attractions,0.8244585990905762
+waiting_in_line,Women's Shoes and Footwear,0.8244240283966064
+furniture,Cats,0.8242617845535278
+mug,Bars & Restaurants,0.8242536187171936
+bowling,Musical Instruments,0.8242467641830444
+pizza,Bars & Restaurants,0.8241578340530396
+pizza,Bars & Restaurants,0.8241578340530396
+pizza,Bars & Restaurants,0.8241578340530396
+synthesizer,Auto Body Styles,0.8236868977546692
+fiddle,Music and Audio,0.8235504031181335
+fiddle,Music and Audio,0.8235504031181335
+rubber,Musical Instruments,0.8233961462974548
+mule,Bars & Restaurants,0.8230666518211365
+ski,Polar Travel,0.8229228258132935
+ski,Polar Travel,0.8229228258132935
+ski,Polar Travel,0.8229228258132935
+furniture,Games and Puzzles,0.8228350281715393
+rubber,Convertible,0.8227396011352539
+mule,Home & Garden,0.8226970434188843
+furniture,Music and Audio,0.8226615786552429
+underground,Movies,0.8226516246795654
+umbrella,Beach Travel,0.8226224780082703
+umbrella,Beach Travel,0.8226224780082703
+umbrella,Beach Travel,0.8226224780082703
+orchestra,Music and Audio,0.8224138021469116
+convenience_store,Beauty,0.8218733668327332
+playing_poker,Casinos & Gambling,0.8218536972999573
+shed,Zoos & Aquariums,0.8217151761054993
+jack,Zoos & Aquariums,0.821664571762085
+juice,Home & Garden,0.8214365243911743
+coo,Musical Instruments,0.821423351764679
+tea,Birds,0.8211928606033325
+tree_house,Auto Body Styles,0.8211408853530884
+tree_house,Auto Body Styles,0.8211408853530884
+banana,Land and Farms,0.8210902214050293
+banana,Land and Farms,0.8210902214050293
+banana,Land and Farms,0.8210902214050293
+weasel,Zoos & Aquariums,0.8208171725273132
+caterpillar,Zoos & Aquariums,0.8205652236938477
+silence,Music and Audio,0.8205453157424927
+juice,Bars & Restaurants,0.8203974962234497
+boathouse,Reptiles,0.8203763365745544
+boathouse,Reptiles,0.8203763365745544
+furniture,Concerts & Music Events,0.8203463554382324
+toy,Malls & Shopping Centers,0.8202818632125854
+underground,Reptiles,0.8200850486755371
+dike,Bars & Restaurants,0.8198428153991699
+tea,Home & Garden,0.8198295831680298
+restaurant,Hotel Properties,0.8196610808372498
+restaurant,Hotel Properties,0.8196610808372498
+orchestra,Musical Instruments,0.8196579217910767
+indoor_gymnasium,Single Life,0.8196300268173218
+hands,Movies,0.8196040391921997
+coconut,Land and Farms,0.8195241093635559
+box_turtle,Events and Attractions,0.8193561434745789
+file,Land and Farms,0.81927889585495
+attic,Home & Garden,0.8192417621612549
+napkin,Bars & Restaurants,0.8191292881965637
+tea,Movies,0.8187897801399231
+coconut,Desserts and Baking,0.8187657594680786
+crying,Flower Shopping,0.8185597658157349
+crying,Flower Shopping,0.8185597658157349
+stable,Movies,0.818440854549408
+quill,Music and Audio,0.818359911441803
+park,Home & Garden,0.8183541893959045
+crane,Card Games,0.8183308839797974
+rub,Casinos & Gambling,0.8183168768882751
+berth,Reptiles,0.8181561231613159
+container,Bars & Restaurants,0.8181001543998718
+ram,Zoos & Aquariums,0.8179734349250793
+strum,Minivan,0.8179190754890442
+file,Houses,0.8178951740264893
+furniture,Cooking,0.8178099989891052
+mule,Card Games,0.8177784085273743
+speaker,Zoos & Aquariums,0.8174865245819092
+outside,Events and Attractions,0.8174741268157959
+outside,Events and Attractions,0.8174741268157959
+reception,Bars & Restaurants,0.8172352313995361
+station_wagon,Station Wagon,0.8171692490577698
+mule,Malls & Shopping Centers,0.8171518445014954
+file,Movies,0.8169795274734497
+mule,Houses,0.8169265389442444
+inside,Zoos & Aquariums,0.8168867230415344
+inside,Zoos & Aquariums,0.8168867230415344
+inside,Zoos & Aquariums,0.8168867230415344
+park,Dogs,0.8167968988418579
+cinema,Cinemas and Events,0.8167611956596375
+coo,Prom,0.8165752291679382
+stool,Hotel Properties,0.8165510296821594
+perfume,Perfume and Fragrance,0.8164724707603455
+perfume,Perfume and Fragrance,0.8164724707603455
+tea,Bath and Shower,0.8163709044456482
+radish,Movies,0.8163505792617798
+harpsichord,Music and Audio,0.8162317276000977
+harpsichord,Music and Audio,0.8162317276000977
+stable,Theater Venues and Events,0.8161236643791199
+buzzer,Daycare and Pre-School,0.8160707354545593
+wallet,Zoos & Aquariums,0.8160482048988342
+tea,Casinos & Gambling,0.8157015442848206
+banjo,Musical Instruments,0.8155709505081177
+banjo,Musical Instruments,0.8155709505081177
+banjo,Musical Instruments,0.8155709505081177
+outside,Malls & Shopping Centers,0.8155422210693359
+outside,Malls & Shopping Centers,0.8155422210693359
+rock_climbing,Graduation,0.815403401851654
+mailbox,Zoos & Aquariums,0.8153538703918457
+supermarket,Malls & Shopping Centers,0.8152272701263428
+furniture,Pets,0.8151253461837769
+vegetable_garden,Home & Garden,0.8151179552078247
+file,Women's Handbags and Wallets,0.8151071071624756
+cart,Zoos & Aquariums,0.8150060176849365
+ferret,Men's Formal Wear,0.8150010108947754
+abacus,Houses,0.8149348497390747
+porch,Musical Instruments,0.8148400783538818
+porch,Musical Instruments,0.8148400783538818
+stool,Home & Garden,0.8147820830345154
+sofa,Home & Garden,0.8146998882293701
+sofa,Home & Garden,0.8146998882293701
+speaker,Malls & Shopping Centers,0.8146758675575256
+outside,Prom,0.8145925402641296
+outside,Prom,0.8145925402641296
+answering_questions,Landscaping,0.8145330548286438
+blues,Theater Venues and Events,0.814469039440155
+porch,Home & Garden,0.8144689798355103
+porch,Home & Garden,0.8144689798355103
+container,Casinos & Gambling,0.8142938017845154
+tool,Malls & Shopping Centers,0.8142892122268677
+tea,Retail Industry,0.8141998052597046
+fork,Bars & Restaurants,0.8141950964927673
+fork,Bars & Restaurants,0.8141950964927673
+bomb,Zoos & Aquariums,0.8141594529151917
+oven,Bars & Restaurants,0.8141281604766846
+oven,Bars & Restaurants,0.8141281604766846
+bomb,Cooking,0.8141266107559204
+pantry,Houses,0.8140760660171509
+furniture,Board Games and Puzzles,0.8139265179634094
+coconut,Shopping,0.8138077855110168
+mule,Land and Farms,0.8136175870895386
+penguin,Zoos & Aquariums,0.8134651184082031
+snowboarding,Comedy Events,0.8134515881538391
+speaker,Music and Audio,0.8134365081787109
+coconut,Bars & Restaurants,0.8134092092514038
+punk_rock,Music and Audio,0.8133987784385681
+restaurant,Malls & Shopping Centers,0.8133745789527893
+restaurant,Malls & Shopping Centers,0.8133745789527893
+rubber,Land and Farms,0.813357949256897
+bust,Polar Travel,0.8133422136306763
+dairy,Coupe,0.8133386373519897
+laughter,Coupe,0.8131864070892334
+toy,Zoos & Aquariums,0.8131199479103088
+weasel,Land and Farms,0.812894344329834
+abacus,Zoos & Aquariums,0.8128791451454163
+weasel,Home & Garden,0.8128737211227417
+rub,Malls & Shopping Centers,0.8128083944320679
+mezzanine,Theater Venues and Events,0.8127532005310059
+coconut,Malls & Shopping Centers,0.8127496242523193
+bullet,Casinos & Gambling,0.8126797080039978
+tea,Fitness and Exercise,0.8126711845397949
+furniture,Books and Literature,0.812624454498291
+driving_car,Daycare and Pre-School,0.8125962615013123
+pantry,Zoos & Aquariums,0.812515139579773
+coil,Television,0.8124213218688965
+tea,Hotel Properties,0.81239253282547
+cock,Movies,0.8123828768730164
+picnic_basket,Home & Garden,0.8123480081558228
+sniff,Graduation,0.8123159408569336
+sofa,Hotel Properties,0.8122177124023438
+sofa,Hotel Properties,0.8122177124023438
+picnic_basket,Musical Instruments,0.8121756911277771
+wing,Birds,0.8120260238647461
+outside,Bars & Restaurants,0.8119726777076721
+outside,Bars & Restaurants,0.8119726777076721
+comfort,Home & Garden,0.8119440078735352
+flute,Music and Audio,0.8119380474090576
+flute,Music and Audio,0.8119380474090576
+flute,Music and Audio,0.8119380474090576
+caterpillar,Women's Handbags and Wallets,0.8119276762008667
+glasses,Home & Garden,0.8118917346000671
+blues,Zoos & Aquariums,0.8118839263916016
+crane,Home & Garden,0.8118510842323303
+container,Home & Garden,0.8118155598640442
+cupboard_open_or_close,Retail Property,0.8118005394935608
+pole,Bars & Restaurants,0.8116762042045593
+tire,Zoos & Aquariums,0.8116334676742554
+bust,Children's Games and Toys,0.8116127848625183
+container,Bath and Shower,0.8115438222885132
+alley,Women's Shoes and Footwear,0.8114632964134216
+flamingo,Reptiles,0.811435341835022
+helix,Movies,0.8114168047904968
+rifle,Zoos & Aquariums,0.8113455772399902
+rifle,Zoos & Aquariums,0.8113455772399902
+kite,Reptiles,0.8112991452217102
+kite,Reptiles,0.8112991452217102
+kite,Reptiles,0.8112991452217102
+caterpillar,Birds,0.8111502528190613
+juice,Malls & Shopping Centers,0.8109824657440186
+sea_cucumber,Graduation,0.8109405636787415
+highway,Malls & Shopping Centers,0.8109317421913147
+park,Malls & Shopping Centers,0.8108907341957092
+fireplace,Land and Farms,0.8108394145965576
+worm,Birds,0.8107983469963074
+rubber,Polar Travel,0.8107614517211914
+inside,Movies,0.810742974281311
+inside,Movies,0.810742974281311
+inside,Movies,0.810742974281311
+toy,Home & Garden,0.8107290267944336
+stable,Home & Garden,0.8106694221496582
+rubber,Children's Games and Toys,0.8106375932693481
+tool,Home & Garden,0.8105615973472595
+outside,Birds,0.8105477690696716
+outside,Birds,0.8105477690696716
+scrape,Casinos & Gambling,0.8105030655860901
+cookie,Desserts and Baking,0.8104851841926575
+drip,Zoos & Aquariums,0.8104631900787354
+library,Women's Handbags and Wallets,0.8104079365730286
+underground,Pets,0.8103578090667725
+church_bell,Women's Shoes and Footwear,0.8102161884307861
+tea,Oral care,0.8101004362106323
+invertebrate,Beauty,0.8100744485855103
+shed,Bath and Shower,0.8098766207695007
+mailbox,Houses,0.8098496794700623
+pour,Oral care,0.8097740411758423
+grape,Malls & Shopping Centers,0.8097474575042725
+synthesizer,Minivan,0.8096330165863037
+bust,Women's Handbags and Wallets,0.8096145987510681
+mule,Women's Handbags and Wallets,0.8095947504043579
+thimble,Movies,0.8095900416374207
+harp,Music and Audio,0.8095818758010864
+harp,Music and Audio,0.8095818758010864
+harp,Music and Audio,0.8095818758010864
+harp,Music and Audio,0.8095818758010864
+using_computer,Daycare and Pre-School,0.8095629811286926
+file,Home & Garden,0.8095208406448364
+closet,Home & Garden,0.8094895482063293
+closet,Home & Garden,0.8094895482063293
+closet,Home & Garden,0.8094895482063293
+tool,Zoos & Aquariums,0.8094554543495178
+church_bell,Coupe,0.8094444274902344
+toy,Birds,0.8094044327735901
+kite,Children's Games and Toys,0.8093859553337097
+kite,Children's Games and Toys,0.8093859553337097
+kite,Children's Games and Toys,0.8093859553337097
+trousers,Movies,0.8093425631523132
+outside,Cats,0.8093169927597046
+outside,Cats,0.8093169927597046
+candle,Zoos & Aquariums,0.8091279864311218
+candle,Zoos & Aquariums,0.8091279864311218
+hummingbird,Convertible,0.8091212511062622
+hay,Events and Attractions,0.8091148138046265
+file,Education industry,0.8090735077857971
+screen,Oral care,0.8090664744377136
+fly,Air Travel,0.8090571761131287
+fly,Air Travel,0.8090571761131287
+beer,Bars & Restaurants,0.8090535402297974
+waffle_iron,Hobbies & Interests,0.8089355230331421
+waffle_iron,Hobbies & Interests,0.8089355230331421
+ram,Houses,0.8088064789772034
+spider's_web,Hobbies & Interests,0.8087851405143738
+mule,Children's Games and Toys,0.8087646961212158
+desk,Education industry,0.8087480068206787
+desk,Education industry,0.8087480068206787
+beaver,Zoos & Aquariums,0.8087111711502075
+building,Malls & Shopping Centers,0.8086887001991272
+pour,Casinos & Gambling,0.8085987567901611
+rub,Birds,0.8085697889328003
+screen,Movies,0.8085671663284302
+metro,Men's Formal Wear,0.8084688782691956
+tea,Women's Jewelry and Watches,0.8083924651145935
+outside,Card Games,0.8083449006080627
+outside,Card Games,0.8083449006080627
+crane,Events and Attractions,0.8082598447799683
+gown,Convertible,0.8082543611526489
+bedroom,Home & Garden,0.8082523941993713
+outside,Zoos & Aquariums,0.8081758618354797
+outside,Zoos & Aquariums,0.8081758618354797
+furniture,Remodeling & Construction,0.8081434965133667
+outside,Musical Instruments,0.8081358075141907
+outside,Musical Instruments,0.8081358075141907
+bathroom,Bath and Shower,0.808115541934967
+tap,Casinos & Gambling,0.8080512881278992
+tap,Casinos & Gambling,0.8080512881278992
+refrigerator,Bars & Restaurants,0.8080480098724365
+refrigerator,Bars & Restaurants,0.8080480098724365
+refrigerator,Bars & Restaurants,0.8080480098724365
+space_shuttle,Minivan,0.808016300201416
+furniture,Shopping,0.8080074191093445
+inside,Malls & Shopping Centers,0.8079501390457153
+inside,Malls & Shopping Centers,0.8079501390457153
+inside,Malls & Shopping Centers,0.8079501390457153
+shield,Desserts and Baking,0.8079283237457275
+cream,Desserts and Baking,0.8079140782356262
+park,Zoos & Aquariums,0.807894766330719
+pour,Movies,0.807877242565155
+chisel,Reptiles,0.8078001141548157
+pasture,Land and Farms,0.8077446222305298
+bench,Home & Garden,0.8077108860015869
+bench,Home & Garden,0.8077108860015869
+stable,Malls & Shopping Centers,0.8076897263526917
+crow,Zoos & Aquariums,0.8076424598693848
+pancake,Minivan,0.807621419429779
+hospital,Beauty,0.8073168992996216
+furniture,Oral care,0.8073123097419739
+pear,Bars & Restaurants,0.8072265386581421
+smash,Zoos & Aquariums,0.8072066903114319
+hen,Movies,0.8071935176849365
+chewing,Men's Formal Wear,0.8071863651275635
+bolete,Flower Shopping,0.8071795105934143
+speaker,Casinos & Gambling,0.8071737885475159
+container,Zoos & Aquariums,0.8070259094238281
+curtain,Movies,0.8070238828659058
+desk,Bars & Restaurants,0.807000994682312
+desk,Bars & Restaurants,0.807000994682312
+banana,Houses,0.806959867477417
+banana,Houses,0.806959867477417
+banana,Houses,0.806959867477417
+smash,Home & Garden,0.8069581985473633
+coconut,Travel,0.8069501519203186
+squirrel,Birds,0.8068145513534546
+beer,Casinos & Gambling,0.8066483736038208
+hack,Events and Attractions,0.8066416382789612
+bomb,Birds,0.8065731525421143
+human_body,Birds,0.8065319061279297
+screen,Malls & Shopping Centers,0.806446373462677
+coconut,Business and Finance,0.806435763835907
+barn,Events and Attractions,0.8064357042312622
+barn,Events and Attractions,0.8064357042312622
+window,Zoos & Aquariums,0.806422233581543
+container,Malls & Shopping Centers,0.80641108751297
+pant,Dogs,0.8064056038856506
+drum_and_bass,Movies,0.8063568472862244
+rub,Bars & Restaurants,0.8063464760780334
+drum,Music and Audio,0.8063145279884338
+drum,Music and Audio,0.8063145279884338
+drum,Music and Audio,0.8063145279884338
+tap,Zoos & Aquariums,0.8061330318450928
+tap,Zoos & Aquariums,0.8061330318450928
+park,Birds,0.8061268925666809
+combination_lock,Women's Shoes and Footwear,0.8060652613639832
+soul_music,Beauty,0.8060405254364014
+snack,Zoos & Aquariums,0.8059914708137512
+crib,Beauty,0.8059426546096802
+laughter,Movies,0.8059358596801758
+mailbox,Malls & Shopping Centers,0.8058598637580872
+furniture,Events and Attractions,0.8058170676231384
+pour,Bath and Shower,0.8058167099952698
+tea,Cooking,0.8057776093482971
+toy,Land and Farms,0.8057433366775513
+furniture,Women's Jewelry and Watches,0.8055657148361206
+yard,Bars & Restaurants,0.8054364919662476
+outside,Sedan,0.8053634166717529
+outside,Sedan,0.8053634166717529
+outside,Oral care,0.8053346276283264
+outside,Oral care,0.8053346276283264
+jack,Home & Garden,0.8053103685379028
+jack,Land and Farms,0.8053019046783447
+worm,Polar Travel,0.80524742603302
+file,Casinos & Gambling,0.8051953315734863
+silverware,Bars & Restaurants,0.805155336856842
+cannon,Zoos & Aquariums,0.8051425814628601
+cannon,Zoos & Aquariums,0.8051425814628601
+skateboard,Zoos & Aquariums,0.8050775527954102
+skateboard,Zoos & Aquariums,0.8050775527954102
+skateboard,Zoos & Aquariums,0.8050775527954102
+crying,Women's Shoes and Footwear,0.8050318360328674
+crying,Women's Shoes and Footwear,0.8050318360328674
+beaver,Home & Garden,0.8050307035446167
+smash,Bars & Restaurants,0.8048908114433289
+furniture,Television,0.8048794269561768
+nursery,Women's Formal Wear,0.8048494458198547
+nursery,Women's Formal Wear,0.8048494458198547
+fireplace,Zoos & Aquariums,0.8047671318054199
+bust,Houses,0.8047282695770264
+stool,Zoos & Aquariums,0.8047232627868652
+crane,Musical Instruments,0.804714024066925
+porch,Hotel Properties,0.8046238422393799
+porch,Hotel Properties,0.8046238422393799
+kite,Land and Farms,0.8045660257339478
+kite,Land and Farms,0.8045660257339478
+kite,Land and Farms,0.8045660257339478
+toy,Women's Handbags and Wallets,0.8045075535774231
+stable,Pets,0.8044784665107727
+icebox,Zoos & Aquariums,0.8043485879898071
+refrigerator,Home & Garden,0.8042823672294617
+refrigerator,Home & Garden,0.8042823672294617
+refrigerator,Home & Garden,0.8042823672294617
+crow,Music and Audio,0.8042324185371399
+inside,Women's Handbags and Wallets,0.8042292594909668
+inside,Women's Handbags and Wallets,0.8042292594909668
+inside,Women's Handbags and Wallets,0.8042292594909668
+speaker,Concerts & Music Events,0.8040980696678162
+butterfly,Women's Handbags and Wallets,0.8040797710418701
+belt,Movies,0.804057240486145
+pasture,Home & Garden,0.8040257096290588
+desk,Books and Literature,0.8039730787277222
+desk,Books and Literature,0.8039730787277222
+dishes,Reptiles,0.803874135017395
+tool,Travel,0.8038572072982788
+lizard,Beach Travel,0.8038266897201538
+container,Hotel Properties,0.8038152456283569
+silence,Bath and Shower,0.8037754893302917
+stable,Women's Handbags and Wallets,0.803720235824585
+desk,Home & Garden,0.8036968111991882
+desk,Home & Garden,0.8036968111991882
+stool,Birds,0.8036420941352844
+rubber,Cats,0.8035005927085876
+bomb,Retail Industry,0.8034985065460205
+silence,Casinos & Gambling,0.8034036755561829
+grape,Home & Garden,0.8033809065818787
+mail,Women's Handbags and Wallets,0.8032370805740356
+desk,Hotel Properties,0.8031853437423706
+desk,Hotel Properties,0.8031853437423706
+puff,Zoos & Aquariums,0.8031632304191589
+bomb,Bars & Restaurants,0.8030861616134644
+bolete,Women's Shoes and Footwear,0.8030855059623718
+basketball,Home & Garden,0.8030416965484619
+dishes,Pets,0.8030104637145996
+inside,Home & Garden,0.8030050992965698
+inside,Home & Garden,0.8030050992965698
+inside,Home & Garden,0.8030050992965698
+mule,Cats,0.8029935359954834
+closet,Hotel Properties,0.8029830455780029
+closet,Hotel Properties,0.8029830455780029
+closet,Hotel Properties,0.8029830455780029
+jeans,Events and Attractions,0.8029708862304688
+mailbox,Pets,0.8028396964073181
+file,Malls & Shopping Centers,0.8027973771095276
+pour,Fitness and Exercise,0.8026571273803711
+tool,Movies,0.8026517033576965
+outside,Hotel Properties,0.8025287389755249
+outside,Hotel Properties,0.8025287389755249
+ferret,Van,0.8025096654891968
+van,Van,0.8025084733963013
+dam,Malls & Shopping Centers,0.8024992942810059
+dam,Malls & Shopping Centers,0.8024992942810059
+porcupine,Wellness,0.8024704456329346
+porcupine,Wellness,0.8024704456329346
+barrel,Malls & Shopping Centers,0.802403450012207
+barrel,Malls & Shopping Centers,0.802403450012207
+pour,Hotel Properties,0.8023715615272522
+furniture,Sedan,0.8023537993431091
+mail,Zoos & Aquariums,0.8023461699485779
+stool,Cats,0.8023311495780945
+knot,Zoos & Aquariums,0.8021855354309082
+crane,Birds,0.8021729588508606
+container,Movies,0.8021607398986816
+hack,Zoos & Aquariums,0.8021538257598877
+juice,Oral care,0.8021074533462524
+vibration,Women's Shoes and Footwear,0.8020590543746948
+crying,Coupe,0.8020433187484741
+crying,Coupe,0.8020433187484741
+drawer,Home & Garden,0.8019843697547913
+cup,Bars & Restaurants,0.8019652366638184
+stool,Casinos & Gambling,0.80194491147995
+seahorse,Coupe,0.8019282817840576
+gown,Reptiles,0.8018866777420044
+smash,Land and Farms,0.8018823266029358
+dam,Birds,0.8018538951873779
+dam,Birds,0.8018538951873779
+kitchen,Bars & Restaurants,0.8018263578414917
+picnic_basket,Birds,0.8018236756324768
+harpsichord,Musical Instruments,0.8018147945404053
+harpsichord,Musical Instruments,0.8018147945404053
+sailing,Malls & Shopping Centers,0.801785945892334
+speaker,Houses,0.8017572164535522
+dice,Houses,0.8017521500587463
+speaker,Cooking,0.8017020225524902
+mail,Shopping,0.8016660213470459
+outside,Reptiles,0.8015888929367065
+outside,Reptiles,0.8015888929367065
+auditorium,Theater Venues and Events,0.801548957824707
+caterpillar,Malls & Shopping Centers,0.8015270829200745
+juice,Hotel Properties,0.8014777898788452
+caterpillar,Casinos & Gambling,0.8013806939125061
+sneeze,Fitness and Exercise,0.8013741374015808
+screen,Retail Industry,0.8013646006584167
+hack,Movies,0.8013373613357544
+banana,Birds,0.8013113141059875
+banana,Birds,0.8013113141059875
+banana,Birds,0.8013113141059875
+tool,Bars & Restaurants,0.8013110160827637
+bullet,Birds,0.8012999892234802
+bottle,Casinos & Gambling,0.8012831807136536
+bottle,Casinos & Gambling,0.8012831807136536
+outside,Pets,0.801266610622406
+outside,Pets,0.801266610622406
+table,Bars & Restaurants,0.8012620210647583
+hack,Travel,0.8012450933456421
+ding,Houses,0.8012120127677917
+tap,Bars & Restaurants,0.8011766672134399
+tap,Bars & Restaurants,0.8011766672134399
+bomb,Children's Games and Toys,0.8011722564697266
+bomb,Malls & Shopping Centers,0.8011599183082581
+vehicle,Travel,0.8011493682861328
+vehicle,Travel,0.8011493682861328
+stream,Zoos & Aquariums,0.800993800163269
+belt,Books and Literature,0.8009231090545654
+file,Games and Puzzles,0.8008853197097778
+singing,Birds,0.8008540868759155
+singing,Birds,0.8008540868759155
+mosquito,Oral care,0.800805926322937
+speaker,Women's Handbags and Wallets,0.8007605075836182
+hack,Home & Garden,0.8007410168647766
+stool,Dogs,0.8006919622421265
+tea,Medical Health,0.8006844520568848
+fork,Home & Garden,0.8006556630134583
+fork,Home & Garden,0.8006556630134583
+refrigerator,Malls & Shopping Centers,0.8005205988883972
+refrigerator,Malls & Shopping Centers,0.8005205988883972
+refrigerator,Malls & Shopping Centers,0.8005205988883972
+barn,Movies,0.8005115389823914
+barn,Movies,0.8005115389823914
+sunglasses,Beauty,0.8004526495933533
+sunglasses,Beauty,0.8004526495933533
+greenhouse,Zoos & Aquariums,0.8004344701766968
+fountain,Bath and Shower,0.8004172444343567
+fountain,Bath and Shower,0.8004172444343567
+fountain,Bath and Shower,0.8004172444343567
+rubber,Oral care,0.800390899181366
+screen,Casinos & Gambling,0.8003736734390259
+banana,Zoos & Aquariums,0.8003695607185364
+banana,Zoos & Aquariums,0.8003695607185364
+banana,Zoos & Aquariums,0.8003695607185364
+tea,Land and Farms,0.8003057241439819
+bedroom,Hotel Properties,0.8002168536186218
+camel,Desserts and Baking,0.800216555595398
+bob,Minivan,0.8002064824104309
+cock,Casinos & Gambling,0.8001949191093445
+doughnut,Malls & Shopping Centers,0.8001899719238281
+hook,Zoos & Aquariums,0.8001410961151123
+caterpillar,Music and Audio,0.8000620007514954
+furniture,Beach Travel,0.8000006079673767
+mule,Makeup and Accessories,0.7999935746192932
+kite,Makeup and Accessories,0.7999935746192932
+kite,Makeup and Accessories,0.7999935746192932
+kite,Makeup and Accessories,0.7999935746192932
+invertebrate,Reptiles,0.799906849861145
+seahorse,Women's Shoes and Footwear,0.7999019622802734
+otter,Zoos & Aquariums,0.7997561693191528
+otter,Zoos & Aquariums,0.7997561693191528
+hook,Musical Instruments,0.799752950668335
+picnic_basket,Bars & Restaurants,0.799750566482544
+underground,Men's Formal Wear,0.7996719479560852
+worm,Land and Farms,0.799575686454773
+rubber,Card Games,0.7995193004608154
+mail,Malls & Shopping Centers,0.799484133720398
+closet,Bars & Restaurants,0.7994606494903564
+closet,Bars & Restaurants,0.7994606494903564
+closet,Bars & Restaurants,0.7994606494903564
+hen,Zoos & Aquariums,0.799432635307312
+cock,Card Games,0.7994170784950256
+toy,Makeup and Accessories,0.799415111541748
+bee,Home & Garden,0.799403190612793
+bee,Home & Garden,0.799403190612793
+bee,Home & Garden,0.799403190612793
+bust,Malls & Shopping Centers,0.7993499636650085
+cookie,Zoos & Aquariums,0.7993431091308594
+bench,Bars & Restaurants,0.7992894649505615
+bench,Bars & Restaurants,0.7992894649505615
+worm,Malls & Shopping Centers,0.7992656826972961
+spider_web,Hobbies & Interests,0.799261212348938
+screen,Bars & Restaurants,0.7992359399795532
+ferret,Women's Handbags and Wallets,0.7992290258407593
+cricket,Home & Garden,0.7992098331451416
+cricket,Home & Garden,0.7992098331451416
+funk,Malls & Shopping Centers,0.7991268038749695
+pear,Cats,0.7991198897361755
+bust,Casinos & Gambling,0.799117386341095
+singing,Musical Instruments,0.7990944385528564
+singing,Musical Instruments,0.7990944385528564
+stool,Education industry,0.7989950180053711
+ferret,Coupe,0.7989928722381592
+comfort,Beauty,0.7989588975906372
+cream,Cooking,0.7989324927330017
+file,Education,0.79886394739151
+tower,Zoos & Aquariums,0.7988102436065674
+tower,Zoos & Aquariums,0.7988102436065674
+rub,Zoos & Aquariums,0.7987901568412781
+potato,Bars & Restaurants,0.7987765669822693
+liquid,Bath and Shower,0.798771321773529
+toy,Card Games,0.7987320423126221
+tool,Theater Venues and Events,0.7987062931060791
+kite,Malls & Shopping Centers,0.7986982464790344
+kite,Malls & Shopping Centers,0.7986982464790344
+kite,Malls & Shopping Centers,0.7986982464790344
+worm,Cats,0.7986981868743896
+inside,Reptiles,0.7985790371894836
+inside,Reptiles,0.7985790371894836
+inside,Reptiles,0.7985790371894836
+butterfly,Zoos & Aquariums,0.7985777854919434
+butterfly,Television,0.7985650897026062
+laughter,Daycare and Pre-School,0.7984402179718018
+bullet,Bars & Restaurants,0.7984198331832886
+grape,Birds,0.7984168529510498
+lamp,Hotel Properties,0.7983785271644592
+furniture,Musical Instruments,0.7983525991439819
+furniture,Retail Industry,0.798328697681427
+projector,Bath and Shower,0.7983242869377136
+inside,Pets,0.7983148097991943
+inside,Pets,0.7983148097991943
+inside,Pets,0.7983148097991943
+rubber,Malls & Shopping Centers,0.7982848286628723
+hen,Birds,0.798284649848938
+jack,Casinos & Gambling,0.7982760071754456
+stool,Malls & Shopping Centers,0.7982672452926636
+closet,Malls & Shopping Centers,0.7981806993484497
+closet,Malls & Shopping Centers,0.7981806993484497
+closet,Malls & Shopping Centers,0.7981806993484497
+goat,Birds,0.7981690764427185
+goat,Birds,0.7981690764427185
+vegetable_garden,Reptiles,0.7981455326080322
+file,Books and Literature,0.798127293586731
+speaker,Theater Venues and Events,0.7980936169624329
+puff,Malls & Shopping Centers,0.7980762124061584
+rocker,Zoos & Aquariums,0.7980706691741943
+shark,Zoos & Aquariums,0.7980371713638306
+tap,Music and Audio,0.7980301976203918
+tap,Music and Audio,0.7980301976203918
+trench,Events and Attractions,0.7980160713195801
+furniture,Style & Fashion,0.7979989051818848
+building,Hotel Properties,0.7978469133377075
+inside,Land and Farms,0.7977758646011353
+inside,Land and Farms,0.7977758646011353
+inside,Land and Farms,0.7977758646011353
+shed,Women's Handbags and Wallets,0.7977471351623535
+refrigerator,Hotel Properties,0.7977464199066162
+refrigerator,Hotel Properties,0.7977464199066162
+refrigerator,Hotel Properties,0.7977464199066162
+stable,Bath and Shower,0.7977259159088135
+mule,Casinos & Gambling,0.7977083921432495
+tool,Cooking,0.7976924777030945
+bust,Movies,0.7976635098457336
+stable,Houses,0.7976338863372803
+building,Home & Garden,0.7975506782531738
+screen,Card Games,0.7975308299064636
+cradle,Home & Garden,0.7974928021430969
+screen,Hotel Properties,0.7974550127983093
+building,Bars & Restaurants,0.7974152565002441
+silence,Theater Venues and Events,0.7974130511283875
+crane,Prom,0.7973942756652832
+blues,Music and Audio,0.797387421131134
+rocket,Movies,0.7973871827125549
+dairy,Movies,0.7973811030387878
+coconut,Dogs,0.7973639965057373
+stool,Women's Handbags and Wallets,0.797360897064209
+coast,Beach Travel,0.797321617603302
+coast,Beach Travel,0.797321617603302
+bubble,Bath and Shower,0.7973089814186096
+cattle,Land and Farms,0.7973007559776306
+cattle,Land and Farms,0.7973007559776306
+bust,Games and Puzzles,0.7972873449325562
+pear,Home & Garden,0.7972544431686401
+stable,Land and Farms,0.797248125076294
+furniture,Fitness and Exercise,0.7972392439842224
+worm,Comedy Events,0.7972331643104553
+library,Movies,0.7972108721733093
+opera,Movies,0.7970470786094666
+toy,Casinos & Gambling,0.7970470190048218
+trousers,Games and Puzzles,0.797029972076416
+outside,Children's Games and Toys,0.7970249056816101
+outside,Children's Games and Toys,0.7970249056816101
+scrape,Zoos & Aquariums,0.7970043420791626
+hook,Movies,0.797002375125885
+barn,Malls & Shopping Centers,0.7969928979873657
+barn,Malls & Shopping Centers,0.7969928979873657
+comfort,Hotel Properties,0.7969601154327393
+speaker,Land and Farms,0.7969493269920349
+spindle,Movies,0.7969338893890381
+pole_vault,Coupe,0.7968757152557373
+dessert,Malls & Shopping Centers,0.7967777848243713
+velvet,Zoos & Aquariums,0.7967730164527893
+toy,Musical Instruments,0.7967681288719177
+television,Comedy Events,0.7967599034309387
+television,Comedy Events,0.7967599034309387
+television,Comedy Events,0.7967599034309387
+television,Comedy Events,0.7967599034309387
+barrel,Home & Garden,0.7967398166656494
+barrel,Home & Garden,0.7967398166656494
+convenience_store,Prom,0.7966744899749756
+kettle,Movies,0.7966641187667847
+tap,Bath and Shower,0.7966151237487793
+tap,Bath and Shower,0.7966151237487793
+container,Children's Games and Toys,0.7965913414955139
+scrape,Cats,0.7965894341468811
+dyke,Zoos & Aquariums,0.7965726852416992
+inside,Retail Industry,0.7965478301048279
+inside,Retail Industry,0.7965478301048279
+inside,Retail Industry,0.7965478301048279
+elephant,Zoos & Aquariums,0.7965338826179504
+elephant,Zoos & Aquariums,0.7965338826179504
+rub,Concerts & Music Events,0.7965065240859985
+mule,Medical Health,0.7964441180229187
+cock,Home & Garden,0.7964189648628235
+hook,Parks & Nature,0.7964023351669312
+pour,Home & Garden,0.7963566780090332
+outside,Casinos & Gambling,0.796355128288269
+outside,Casinos & Gambling,0.796355128288269
+playing_violin,Music and Audio,0.7963536381721497
+kettle,Coupe,0.7963339686393738
+furniture,Business and Finance,0.7962597608566284
+nematode,Children's Games and Toys,0.7962355017662048
+barrel,Bars & Restaurants,0.7962215542793274
+barrel,Bars & Restaurants,0.7962215542793274
+clothing,Hotel Properties,0.7962068319320679
+vehicle,Automotive,0.7962020635604858
+vehicle,Automotive,0.7962020635604858
+dam,Bars & Restaurants,0.7961729168891907
+dam,Bars & Restaurants,0.7961729168891907
+supermarket,Shopping,0.7961368560791016
+banana,Malls & Shopping Centers,0.7961341738700867
+banana,Malls & Shopping Centers,0.7961341738700867
+banana,Malls & Shopping Centers,0.7961341738700867
+mailbox,Women's Handbags and Wallets,0.796128511428833
+inside,Birds,0.7961050868034363
+inside,Birds,0.7961050868034363
+inside,Birds,0.7961050868034363
+castle,Casinos & Gambling,0.7960935235023499
+castle,Casinos & Gambling,0.7960935235023499
+castle,Casinos & Gambling,0.7960935235023499
+harmonic,Landscaping,0.7960890531539917
+funk,Movies,0.7960716485977173
+hamburger,Home & Garden,0.7960571646690369
+boot,Sedan,0.7958942651748657
+crow,Houses,0.7958868145942688
+window_screen,Musical Instruments,0.7958722710609436
+marmoset,Beauty,0.7958369851112366
+metro,Minivan,0.795825719833374
+nematode,Movies,0.7957836985588074
+silence,Concerts & Music Events,0.7957368493080139
+trousers,Style & Fashion,0.7957329750061035
+candy,Malls & Shopping Centers,0.7957234382629395
+tool,Birds,0.7957133650779724
+file,Cameras and Camcorders,0.7956506013870239
+file,Travel,0.795650064945221
+drink,Bars & Restaurants,0.7956459522247314
+jack,Cameras and Camcorders,0.795642614364624
+airplane,Zoos & Aquariums,0.7956386208534241
+airplane,Zoos & Aquariums,0.7956386208534241
+airplane,Zoos & Aquariums,0.7956386208534241
+file,Children's Games and Toys,0.7955780029296875
+furniture,Cameras and Camcorders,0.7955671548843384
+outside,Travel,0.7955614924430847
+outside,Travel,0.7955614924430847
+speaker,Birds,0.79550701379776
+wine,Bars & Restaurants,0.7954401969909668
+scrape,Bars & Restaurants,0.7954171299934387
+bomb,Land and Farms,0.7953650951385498
+container,Birds,0.7953125834465027
+outside,Retail Industry,0.7952910661697388
+outside,Retail Industry,0.7952910661697388
+tool,Music and Audio,0.7952724099159241
+rifle,Women's Handbags and Wallets,0.795247495174408
+rifle,Women's Handbags and Wallets,0.795247495174408
+drawer,Books and Literature,0.7952412366867065
+ironing,Men's Formal Wear,0.7951822280883789
+inside,Cats,0.7951627373695374
+inside,Cats,0.7951627373695374
+inside,Cats,0.7951627373695374
+shed,Sedan,0.7951245307922363
+goat,Card Games,0.7951210737228394
+goat,Card Games,0.7951210737228394
+cart,Van,0.7951008677482605
+rocker,Malls & Shopping Centers,0.7950957417488098
+lizard,Home & Garden,0.7950669527053833
+tower,Children's Games and Toys,0.795028567314148
+tower,Children's Games and Toys,0.795028567314148
+rubber,Beauty,0.7949829697608948
+desk,Zoos & Aquariums,0.7949551343917847
+desk,Zoos & Aquariums,0.7949551343917847
+courtyard,Home & Garden,0.7949039936065674
+dam,Zoos & Aquariums,0.7948955297470093
+dam,Zoos & Aquariums,0.7948955297470093
+stable,Bars & Restaurants,0.7948285341262817
+altar,Holiday Shopping,0.794817328453064
+smash,Malls & Shopping Centers,0.7948147058486938
+toy,Polar Travel,0.7948077917098999
+container,Women's Jewelry and Watches,0.7948027849197388
+toy,Houses,0.7947868704795837
+bowl,Bars & Restaurants,0.794781506061554
+bowl,Bars & Restaurants,0.794781506061554
+hook,Beauty,0.7947487235069275
+bomb,Polar Travel,0.7946906089782715
+park,Pets,0.7946891784667969
+bust,Bars & Restaurants,0.7946775555610657
+tea,Musical Instruments,0.7945858836174011
+dessert,Land and Farms,0.7945678234100342
+cellphone,Deodorant and Antiperspirant,0.7945588231086731
+candle,Malls & Shopping Centers,0.794503390789032
+candle,Malls & Shopping Centers,0.794503390789032
+furniture,Medical Health,0.7944895029067993
+fireplace,Camping,0.7944149971008301
+furniture,Polar Travel,0.7944023609161377
+desk,Theater Venues and Events,0.7944018840789795
+desk,Theater Venues and Events,0.7944018840789795
+bowling,Prom,0.7943874597549438
+mail,Business and Finance,0.7943828105926514
+chest,Children's Games and Toys,0.7943764328956604
+furniture,Real Estate,0.7942907214164734
+weapon,Houses,0.7942220568656921
+yard,Malls & Shopping Centers,0.7942043542861938
+bullet,Zoos & Aquariums,0.7941921949386597
+shield,Birds,0.7941116690635681
+highway,Zoos & Aquariums,0.7940927743911743
+file,Theater Venues and Events,0.7940506339073181
+cradle,Casinos & Gambling,0.7940385341644287
+box_turtle,Prom,0.79402095079422
+window,Home & Garden,0.7939990758895874
+dam,Concerts & Music Events,0.7939932346343994
+dam,Concerts & Music Events,0.7939932346343994
+opera,Zoos & Aquariums,0.7939904928207397
+flag,Movies,0.7939763069152832
+park,Bars & Restaurants,0.7939006090164185
+container,Oral care,0.793885350227356
+tap,Women's Handbags and Wallets,0.7938764095306396
+tap,Women's Handbags and Wallets,0.7938764095306396
+mule,Musical Instruments,0.7938670516014099
+scrape,Women's Handbags and Wallets,0.7937341332435608
+belt,Fitness and Exercise,0.7937337160110474
+juice,Casinos & Gambling,0.7936754822731018
+blues,Movies,0.7936304211616516
+lily,Zoos & Aquariums,0.7936056852340698
+tea,Women's Handbags and Wallets,0.7936042547225952
+doughnut,Zoos & Aquariums,0.7935676574707031
+shield,Gardening,0.7935649752616882
+clothing,Malls & Shopping Centers,0.7935457229614258
+dam,Card Games,0.7935436964035034
+dam,Card Games,0.7935436964035034
+furniture,Makeup and Accessories,0.7934993505477905
+toilet,Bars & Restaurants,0.793474555015564
+toilet,Bars & Restaurants,0.793474555015564
+sneeze,Bath and Shower,0.7934672236442566
+closet,Casinos & Gambling,0.7934500575065613
+closet,Casinos & Gambling,0.7934500575065613
+closet,Casinos & Gambling,0.7934500575065613
+stable,Cooking,0.7933615446090698
+chemistry_lab,Events and Attractions,0.793360710144043
+sky,Birds,0.7933305501937866
+skateboard,Children's Games and Toys,0.7933188676834106
+skateboard,Children's Games and Toys,0.7933188676834106
+skateboard,Children's Games and Toys,0.7933188676834106
+canary,Birds,0.7932634949684143
+pear,Zoos & Aquariums,0.7932296991348267
+furniture,Wedding,0.7932072281837463
+park,Cats,0.7931989431381226
+trousers,Malls & Shopping Centers,0.793196976184845
+screw,Games and Puzzles,0.7931925058364868
+tap,Home & Garden,0.7931838631629944
+tap,Home & Garden,0.7931838631629944
+wallet,Birds,0.7931809425354004
+chewing,Minivan,0.7931575775146484
+cradle,Malls & Shopping Centers,0.7931464910507202
+vulture,Hobbies & Interests,0.7931448221206665
+tea,Children's Games and Toys,0.7931078672409058
+valley,Movies,0.7930285334587097
+valley,Movies,0.7930285334587097
+reading_book,Home & Garden,0.7929857969284058
+basement,Houses,0.7929671406745911
+cream,Malls & Shopping Centers,0.7929408550262451
+puff,Women's Handbags and Wallets,0.7929348945617676
+speaker,Bath and Shower,0.7929020524024963
+stool,Land and Farms,0.792891800403595
+chisel,Movies,0.7928879857063293
+mug,Casinos & Gambling,0.7928419709205627
+caterpillar,Bars & Restaurants,0.7928255796432495
+mosquito,Women's Jewelry and Watches,0.7928052544593811
+using_computer,Coupe,0.7927919626235962
+oven,Cooking,0.7927307486534119
+oven,Cooking,0.7927307486534119
+furniture,Education,0.7926997542381287
+tire,Women's Handbags and Wallets,0.7926930785179138
+hospital_room,Retail Property,0.7926017642021179
+automatic_teller_machine,Retail Property,0.7925982475280762
+porch,Movies,0.7925453186035156
+porch,Movies,0.7925453186035156
+speaker,Fitness and Exercise,0.7925345301628113
+tool,Casinos & Gambling,0.7925193905830383
+crane,Zoos & Aquariums,0.7925162315368652
+reading_book,Sedan,0.7925024628639221
+scrape,Land and Farms,0.7924813032150269
+cacophony,Minivan,0.792479395866394
+nematode,Zoos & Aquariums,0.7924765944480896
+piano,Concerts & Music Events,0.7924267649650574
+piano,Concerts & Music Events,0.7924267649650574
+quill,Zoos & Aquariums,0.7924249172210693
+bomb,Air Travel,0.7924222350120544
+walking_stick,Retail Property,0.7923818230628967
+butterfly,Shopping,0.7923661470413208
+bullet,Women's Handbags and Wallets,0.7923439145088196
+speaker,Children's Games and Toys,0.7923383116722107
+inside,Houses,0.7923082709312439
+inside,Houses,0.7923082709312439
+inside,Houses,0.7923082709312439
+sailboat,Beauty,0.792283833026886
+inside,Cooking,0.7922719120979309
+inside,Cooking,0.7922719120979309
+inside,Cooking,0.7922719120979309
+violin,Music and Audio,0.7922692894935608
+violin,Music and Audio,0.7922692894935608
+violin,Music and Audio,0.7922692894935608
+stool,Bath and Shower,0.792265772819519
+tea,Card Games,0.7922544479370117
+glasses,Malls & Shopping Centers,0.7921672463417053
+snail,Hotel Properties,0.792131245136261
+snail,Hotel Properties,0.792131245136261
+jack,Women's Handbags and Wallets,0.7920656800270081
+singing,Concerts & Music Events,0.7920414209365845
+singing,Concerts & Music Events,0.7920414209365845
+eatery,Bars & Restaurants,0.7920348644256592
+rocker,Coupe,0.7920180559158325
+cocktail,Sports,0.7919588088989258
+mail,Home & Garden,0.7919505834579468
+shed,Bars & Restaurants,0.7919414639472961
+sailing,Travel,0.7919041514396667
+chair,Oral care,0.7918738126754761
+chair,Oral care,0.7918738126754761
+trousers,Home & Garden,0.7917373776435852
+cock,Theater Venues and Events,0.7917278409004211
+shirt,Casinos & Gambling,0.7917242050170898
+belly_laugh,Hobbies & Interests,0.7917139530181885
+grape,Land and Farms,0.7915961146354675
+desk,Games and Puzzles,0.7915822863578796
+desk,Games and Puzzles,0.7915822863578796
+coconut,Barbecues and Grilling,0.7915602326393127
+arrow,Casinos & Gambling,0.7915254235267639
+candle,Women's Handbags and Wallets,0.7914954423904419
+candle,Women's Handbags and Wallets,0.7914954423904419
+doll,Home & Garden,0.7914233207702637
+barn,Pets,0.791417121887207
+barn,Pets,0.791417121887207
+speaker,Bars & Restaurants,0.7913497686386108
+container,Women's Handbags and Wallets,0.7913489937782288
+crate,Zoos & Aquariums,0.7913002967834473
+dam,Home & Garden,0.7912893891334534
+dam,Home & Garden,0.7912893891334534
+bust,Theater Venues and Events,0.7912871837615967
+mule,Cameras and Camcorders,0.7912346720695496
+skydiving,Events and Attractions,0.7911750674247742
+balloon,Children's Games and Toys,0.7911616563796997
+balloon,Children's Games and Toys,0.7911616563796997
+tennis_racket,Auto Body Styles,0.7911107540130615
+tennis_racket,Auto Body Styles,0.7911107540130615
+space_bar,Coupe,0.7911010980606079
+yard,Land and Farms,0.7910929918289185
+drawing,Home & Garden,0.7910900115966797
+playing_poker,Movies,0.7910852432250977
+willow,Retail Industry,0.7910670042037964
+juice,Bath and Shower,0.7910655736923218
+tap,Movies,0.7910481691360474
+tap,Movies,0.7910481691360474
+yard,Hotel Properties,0.7910047173500061
+cock,Music and Audio,0.7909834384918213
+chewing,Auto Body Styles,0.790980339050293
+wallet,Houses,0.7909258604049683
+pop,Casinos & Gambling,0.7909135818481445
+shed,Education industry,0.7909030914306641
+cock,Zoos & Aquariums,0.7908856868743896
+lizard,Zoos & Aquariums,0.790885329246521
+container,Musical Instruments,0.7908783555030823
+mule,Fitness and Exercise,0.7908660173416138
+bittern,Beauty,0.7908435463905334
+rocker,Theater Venues and Events,0.7908328771591187
+basketball,Fitness and Exercise,0.7908188700675964
+bookstore,Malls & Shopping Centers,0.7907974123954773
+bookstore,Malls & Shopping Centers,0.7907974123954773
+chair,Hotel Properties,0.7907859086990356
+chair,Hotel Properties,0.7907859086990356
+mule,Sports,0.7907532453536987
+dam,Musical Instruments,0.7907274961471558
+dam,Musical Instruments,0.7907274961471558
+frog,Malls & Shopping Centers,0.7907240390777588
+frog,Malls & Shopping Centers,0.7907240390777588
+tool,Games and Puzzles,0.7907154560089111
+juice,Retail Industry,0.790698230266571
+carriage,Zoos & Aquariums,0.7906636595726013
+propeller,Land and Farms,0.7906522154808044
+jack,Malls & Shopping Centers,0.7906402945518494
+bomb,Casinos & Gambling,0.790637195110321
+basement,Home & Garden,0.7906113862991333
+pail,Beach Travel,0.7906110882759094
+tool,Style & Fashion,0.7905839085578918
+inside,Sedan,0.7905636429786682
+inside,Sedan,0.7905636429786682
+inside,Sedan,0.7905636429786682
+coast,Malls & Shopping Centers,0.7905059456825256
+coast,Malls & Shopping Centers,0.7905059456825256
+file,Bars & Restaurants,0.7904983758926392
+sneeze,Home & Garden,0.7904756665229797
+ice_cream,Malls & Shopping Centers,0.7904704809188843
+ice_cream,Malls & Shopping Centers,0.7904704809188843
+sneeze,Movies,0.7904667258262634
+tire,Land and Farms,0.7904638648033142
+toilet,Hotel Properties,0.7904528975486755
+toilet,Hotel Properties,0.7904528975486755
+bust,Makeup and Accessories,0.7904314398765564
+indoor_gymnasium,Tablets and E-readers,0.7904057502746582
+candle,Birds,0.7904006838798523
+candle,Birds,0.7904006838798523
+mosquito,Card Games,0.790329098701477
+vegetable_garden,Movies,0.7903182506561279
+barge,Malls & Shopping Centers,0.7903071641921997
+smash,Casinos & Gambling,0.7903058528900146
+vegetable_garden,Land and Farms,0.7903052568435669
+coconut,Hotel Properties,0.7902961373329163
+country,Land and Farms,0.7902835011482239
+tool,Books and Literature,0.7902249097824097
+furniture,Space and Astronomy,0.7902206182479858
+stool,Theater Venues and Events,0.7901808023452759
+hack,Shopping,0.7901763916015625
+bullet,Land and Farms,0.7901607155799866
+toy,Theater Venues and Events,0.7901445031166077
+trickle,Zoos & Aquariums,0.7901182770729065
+crying,Parks & Nature,0.7901074290275574
+crying,Parks & Nature,0.7901074290275574
+cradle,Zoos & Aquariums,0.7900981307029724
+mule,Bath and Shower,0.7900946736335754
+outside,Dogs,0.7900331020355225
+outside,Dogs,0.7900331020355225
+pets,Dogs,0.79002445936203
+file,Board Games and Puzzles,0.7899942994117737
+berth,Malls & Shopping Centers,0.7899873852729797
+desk,Malls & Shopping Centers,0.7899695038795471
+desk,Malls & Shopping Centers,0.7899695038795471
+camera,Zoos & Aquariums,0.7899497151374817
+camera,Zoos & Aquariums,0.7899497151374817
+pour,Birds,0.7899419069290161
+bust,Television,0.7899196743965149
+outside,Concerts & Music Events,0.7899034023284912
+outside,Concerts & Music Events,0.7899034023284912
+hospital,Prom,0.789890706539154
+metro,Movies,0.7898803353309631
+pop_music,Music and Audio,0.7898728847503662
+screw,Home & Garden,0.7898390889167786
+closet,Birds,0.7898375988006592
+closet,Birds,0.7898375988006592
+closet,Birds,0.7898375988006592
+castle,Malls & Shopping Centers,0.7898299694061279
+castle,Malls & Shopping Centers,0.7898299694061279
+castle,Malls & Shopping Centers,0.7898299694061279
+doughnut,Hotel Properties,0.7898247241973877
+caterpillar,Cameras and Camcorders,0.7898234724998474
+hospital,Oral care,0.7898129820823669
+weasel,Malls & Shopping Centers,0.789759635925293
+crack,Casinos & Gambling,0.7897476553916931
+tool,Land and Farms,0.7897419333457947
+cock,Retail Industry,0.7897360920906067
+drum_and_bass,Pets,0.7897332310676575
+street,Malls & Shopping Centers,0.7897209525108337
+blues,Houses,0.789708137512207
+typewriter,Beauty,0.7896974086761475
+shirt,Women's Handbags and Wallets,0.7896926403045654
+vegetable_garden,Zoos & Aquariums,0.7896872162818909
+caterpillar,Dogs,0.7896855473518372
+mailbox,Home & Garden,0.7896789908409119
+caterpillar,Theater Venues and Events,0.7896702885627747
+weapon,Women's Handbags and Wallets,0.7896464467048645
+doll,Birds,0.7896299362182617
+mule,Retail Industry,0.7896254658699036
+rooster,Movies,0.7896199226379395
+stool,Movies,0.7896136045455933
+yard,Birds,0.7895987033843994
+echo,Malls & Shopping Centers,0.7895647883415222
+bomb,Oral care,0.7895532846450806
+building,Theater Venues and Events,0.7895417809486389
+drawer,Zoos & Aquariums,0.7895122170448303
+pour,Bars & Restaurants,0.7895111441612244
+barrel,Zoos & Aquariums,0.789496898651123
+barrel,Zoos & Aquariums,0.789496898651123
+berth,Birds,0.7894822955131531
+entertainment_center,Pets,0.7894722819328308
+outside,Air Travel,0.789471447467804
+outside,Air Travel,0.789471447467804
+ding,Comedy Events,0.789432168006897
+juice,Prom,0.7894318699836731
+cocktail,Zoos & Aquariums,0.7893888354301453
+speaker,Cats,0.789375364780426
+website,Zoos & Aquariums,0.7893577814102173
+bedroom,Theater Venues and Events,0.789347767829895
+rub,Polar Travel,0.7893118858337402
+yard,Zoos & Aquariums,0.7893072962760925
+tea,Travel,0.7892647385597229
+drawer,Bars & Restaurants,0.7892590165138245
+playing_harp,Comedy Events,0.7892581820487976
+trousers,Oral care,0.789256751537323
+clothing,Fitness and Exercise,0.7892360687255859
+squirrel,Zoos & Aquariums,0.7892326712608337
+pour,Travel,0.7892159819602966
+beaver,Events and Attractions,0.7892098426818848
+rattle,Musical Instruments,0.789206326007843
+toy,Games and Puzzles,0.7891949415206909
+basketball,Zoos & Aquariums,0.7891942858695984
+screwdriver,Bars & Restaurants,0.7891876697540283
+screwdriver,Bars & Restaurants,0.7891876697540283
+pour,Zoos & Aquariums,0.789164125919342
+outside,Barbecues and Grilling,0.7891523838043213
+outside,Barbecues and Grilling,0.7891523838043213
+hook,Shaving,0.7891198992729187
+desk,Travel,0.7891070246696472
+desk,Travel,0.7891070246696472
+bullet,Hotel Properties,0.7891056537628174
+thimble,Zoos & Aquariums,0.7890666127204895
+clothing,Home & Garden,0.7890506386756897
+opera,Houses,0.7890227437019348
+snowboarding,Land and Farms,0.7890221476554871
+shield,Land and Farms,0.7890214323997498
+tower,Home & Garden,0.7890135049819946
+tower,Home & Garden,0.7890135049819946
+reading_book,Musical Instruments,0.7889651656150818
+inside,Children's Games and Toys,0.7889650464057922
+inside,Children's Games and Toys,0.7889650464057922
+inside,Children's Games and Toys,0.7889650464057922
+rub,Cooking,0.7889646291732788
+outside,Land and Farms,0.7889496088027954
+outside,Land and Farms,0.7889496088027954
+stable,Casinos & Gambling,0.788940966129303
+stable,Dogs,0.7889342904090881
+pop,Birds,0.7888744473457336
+fireplace,Women's Handbags and Wallets,0.7888572216033936
+rub,Games and Puzzles,0.7888296246528625
+using_computer,Zoos & Aquariums,0.7888180017471313
+opera,Casinos & Gambling,0.7887881398200989
+furniture,Automotive,0.7887841463088989
+screen,Birds,0.7887647747993469
+cannon,Malls & Shopping Centers,0.7887411117553711
+cannon,Malls & Shopping Centers,0.7887411117553711
+jack,Houses,0.7887187004089355
+tool,Women's Handbags and Wallets,0.7886892557144165
+belt,Casinos & Gambling,0.7886406183242798
+silence,Home & Garden,0.7886303663253784
+chair,Sedan,0.7885294556617737
+chair,Sedan,0.7885294556617737
+fireplace,Malls & Shopping Centers,0.7885249853134155
+rub,Bath and Shower,0.7885205149650574
+toy,Bath and Shower,0.7885144352912903
+chest,Malls & Shopping Centers,0.7884831428527832
+bed,Home & Garden,0.7884822487831116
+bed,Home & Garden,0.7884822487831116
+doughnut,Movies,0.7884678840637207
+highway,Land and Farms,0.7884296774864197
+highway,Travel,0.7884199023246765
+bust,Cooking,0.7883791923522949
+stool,Music and Audio,0.7883788347244263
+castle,Bars & Restaurants,0.7883498668670654
+castle,Bars & Restaurants,0.7883498668670654
+castle,Bars & Restaurants,0.7883498668670654
+caterpillar,Travel,0.7883474230766296
+wing,Malls & Shopping Centers,0.7883358001708984
+mail,Land and Farms,0.7882925868034363
+mule,Movies,0.7882782816886902
+belt,Malls & Shopping Centers,0.7882640957832336
+pond,Zoos & Aquariums,0.7882619500160217
+trousers,Birds,0.7882562279701233
+stool,Oral care,0.7882538437843323
+file,Fitness and Exercise,0.7882451415061951
+coffee_table,Home & Garden,0.7882345914840698
+tool,Bath and Shower,0.7882257699966431
+basement,Zoos & Aquariums,0.7881686687469482
+sneeze,Travel,0.7881039381027222
+closet,Women's Handbags and Wallets,0.7880865931510925
+closet,Women's Handbags and Wallets,0.7880865931510925
+closet,Women's Handbags and Wallets,0.7880865931510925
+beaver,Dogs,0.7880804538726807
+inside,Theater Venues and Events,0.788080096244812
+inside,Theater Venues and Events,0.788080096244812
+inside,Theater Venues and Events,0.788080096244812
+pizzeria,Bars & Restaurants,0.7880311012268066
+rabbit,Land and Farms,0.7879852652549744
+candle,Books and Literature,0.7879589200019836
+candle,Books and Literature,0.7879589200019836
+airplane,Malls & Shopping Centers,0.7879319190979004
+airplane,Malls & Shopping Centers,0.7879319190979004
+airplane,Malls & Shopping Centers,0.7879319190979004
+tower,Casinos & Gambling,0.7878997921943665
+tower,Casinos & Gambling,0.7878997921943665
+whale,Events and Attractions,0.7878580093383789
+bullet,Children's Games and Toys,0.7878479361534119
+chair,Bars & Restaurants,0.7878429293632507
+chair,Bars & Restaurants,0.7878429293632507
+screen,Women's Jewelry and Watches,0.7878174185752869
+rubber,Casinos & Gambling,0.7878163456916809
+rub,Beach Travel,0.7878079414367676
+furniture,Barbecues and Grilling,0.7877568602561951
+sword,Movies,0.7877472043037415
+picnic_basket,Card Games,0.7877334952354431
+rub,Movies,0.787732720375061
+fox,Movies,0.7877187728881836
+bee,Birds,0.7876774072647095
+bee,Birds,0.7876774072647095
+bee,Birds,0.7876774072647095
+dishes,Convertible,0.7876667380332947
+furniture,Technology & Computing,0.7876487374305725
+pharmacy,Houses,0.7876483201980591
+container,Cooking,0.7876306176185608
+singing,Malls & Shopping Centers,0.7876238822937012
+singing,Malls & Shopping Centers,0.7876238822937012
+screw,Bars & Restaurants,0.7876132130622864
+comfort,Malls & Shopping Centers,0.787560224533081
+desk,Board Games and Puzzles,0.7875440716743469
+desk,Board Games and Puzzles,0.7875440716743469
+waiting_in_line,Coupe,0.7875431776046753
+park,Movies,0.7875140905380249
+skateboard,Houses,0.7874894142150879
+skateboard,Houses,0.7874894142150879
+skateboard,Houses,0.7874894142150879
+tower,Birds,0.7874662280082703
+tower,Birds,0.7874662280082703
+hamburger,Bars & Restaurants,0.7874440550804138
+caterpillar,Bath and Shower,0.7874353528022766
+bullet,Home & Garden,0.7874327898025513
+file,Bath and Shower,0.7874150276184082
+basement,Women's Handbags and Wallets,0.7874027490615845
+pop,Zoos & Aquariums,0.7873737215995789
+pole,Malls & Shopping Centers,0.7873680591583252
+basketball,Travel,0.7873453497886658
+rifle,Convertible,0.7873342633247375
+rifle,Convertible,0.7873342633247375
+mask,Zoos & Aquariums,0.7873339653015137
+fork,Malls & Shopping Centers,0.7873286604881287
+fork,Malls & Shopping Centers,0.7873286604881287
+screw,Zoos & Aquariums,0.787291407585144
+cock,Malls & Shopping Centers,0.7872750759124756
+cream,Home & Garden,0.7872347831726074
+coast,Land and Farms,0.7872263193130493
+coast,Land and Farms,0.7872263193130493
+coconut,Movies,0.7872205376625061
+belt,Home & Garden,0.7871933579444885
+stable,Hotel Properties,0.7871902585029602
+hook,Reptiles,0.7871823310852051
+bullet,Malls & Shopping Centers,0.7871809005737305
+clothing,Casinos & Gambling,0.7871718406677246
+castle,Hotel Properties,0.7871509790420532
+castle,Hotel Properties,0.7871509790420532
+castle,Hotel Properties,0.7871509790420532
+gown,Prom,0.7871090769767761
+clapping,Women's Shoes and Footwear,0.7870867252349854
+clapping,Women's Shoes and Footwear,0.7870867252349854
+lamp,Home & Garden,0.7870866656303406
+refrigerator,Birds,0.7870545983314514
+refrigerator,Birds,0.7870545983314514
+refrigerator,Birds,0.7870545983314514
+belt,Women's Handbags and Wallets,0.7870345711708069
+taco,Coupe,0.787027895450592
+file,Music and Audio,0.7870118021965027
+coconut,Events and Attractions,0.7869879007339478
+ferret,Minivan,0.7869142889976501
+bust,Music and Audio,0.7869102954864502
+jack,Children's Games and Toys,0.7869037985801697
+tea,Polar Travel,0.7868996262550354
+coconut,Cooking,0.7868905067443848
+waiting_in_line,Minivan,0.7868722081184387
+doughnut,Cooking,0.7868417501449585
+mule,Camping,0.7868013381958008
+bowling,Sports,0.7867811918258667
+funk,Sports,0.7867504358291626
+chopper,Reptiles,0.7867439985275269
+purse,Zoos & Aquariums,0.7866695523262024
+banana,Cats,0.7866676449775696
+banana,Cats,0.7866676449775696
+banana,Cats,0.7866676449775696
+rabbit,Birds,0.7866480946540833
+tea,Desserts and Baking,0.786579430103302
+park,Land and Farms,0.7865498065948486
+cookie,Malls & Shopping Centers,0.7865021824836731
+rubber,Bath and Shower,0.7865006923675537
+spike,Musical Instruments,0.7864764928817749
+puff,Land and Farms,0.7864694595336914
+hot_spring,Zoos & Aquariums,0.7864425182342529
+airplane,Land and Farms,0.7864293456077576
+airplane,Land and Farms,0.7864293456077576
+airplane,Land and Farms,0.7864293456077576
+nematode,Birds,0.7864168882369995
+mailbox,Movies,0.7863913774490356
+kitchen,Home & Garden,0.7863836288452148
+velvet,Women's Handbags and Wallets,0.7863688468933105
+worm,Television,0.7863589525222778
+mail,Houses,0.7863545417785645
+juice,Fitness and Exercise,0.7863448858261108
+tool,Hotel Properties,0.7863442301750183
+flying_kite,Beauty,0.7863328456878662
+park,Hotel Properties,0.786324143409729
+speaker,Polar Travel,0.7863132357597351
+farm,Home & Garden,0.7862859964370728
+porch,Bars & Restaurants,0.7862629294395447
+porch,Bars & Restaurants,0.7862629294395447
+shed,Birds,0.7862431406974792
+mailbox,Theater Venues and Events,0.7862354516983032
+mug,Birds,0.7862052321434021
+tower,Land and Farms,0.7862018942832947
+tower,Land and Farms,0.7862018942832947
+jeans,Hotel Properties,0.7861799597740173
+grape,Hotel Properties,0.7861514091491699
+grape,Zoos & Aquariums,0.786130428314209
+loggerhead,Minivan,0.7861222624778748
+drawer,Games and Puzzles,0.7861207723617554
+quill,Houses,0.7860665321350098
+rumble,Minivan,0.7860640287399292
+steam,Retail Industry,0.7860543131828308
+silence,Television,0.7860354781150818
+pole_vault,Minivan,0.7860344052314758
+ding,Zoos & Aquariums,0.7860260009765625
+weapon,Theater Venues and Events,0.7860233187675476
+cock,Musical Instruments,0.7860184907913208
+window,Theater Venues and Events,0.785971462726593
+silence,Women's Handbags and Wallets,0.7859350442886353
+shed,Prom,0.7859258055686951
+rooster,Zoos & Aquariums,0.7859047651290894
+sock,Home & Garden,0.7858906388282776
+sock,Home & Garden,0.7858906388282776
+library,Theater Venues and Events,0.7858514785766602
+kitchen,Movies,0.7858357429504395
+rub,Fitness and Exercise,0.7857219576835632
+bomb,Travel,0.7857087254524231
+toy,Movies,0.78566974401474
+coast,Bars & Restaurants,0.7856629490852356
+coast,Bars & Restaurants,0.7856629490852356
+rock_and_roll,Music and Audio,0.7856517434120178
+container,Travel,0.7856384515762329
+glasses,Bars & Restaurants,0.7856354117393494
+picnic_basket,Zoos & Aquariums,0.7856265902519226
+bomb,Medical Health,0.7856221199035645
+screw,Casinos & Gambling,0.7856159210205078
+rocker,Hotel Properties,0.7855978608131409
+cock,Bath and Shower,0.7855762243270874
+doughnut,Bars & Restaurants,0.7855722904205322
+typing,Zoos & Aquariums,0.7855671048164368
+shed,Casinos & Gambling,0.7855581641197205
+pear,Education industry,0.7855499386787415
+seafood,Zoos & Aquariums,0.7854893207550049
+cocker,Pets,0.785487711429596
+basketball,Children's Games and Toys,0.7854771018028259
+coast,Home & Garden,0.7854687571525574
+coast,Home & Garden,0.7854687571525574
+stable,Cameras and Camcorders,0.7854612469673157
+shed,Hotel Properties,0.7854598760604858
+playing_basketball,Home & Garden,0.7854240536689758
+trousers,Women's Jewelry and Watches,0.7854177951812744
+smash,Women's Handbags and Wallets,0.7853929996490479
+cannon,Land and Farms,0.7853745222091675
+cannon,Land and Farms,0.7853745222091675
+piano,Bars & Restaurants,0.7853676080703735
+piano,Bars & Restaurants,0.7853676080703735
+coconut,Pets,0.7853465676307678
+castle,Home & Garden,0.785333514213562
+castle,Home & Garden,0.785333514213562
+castle,Home & Garden,0.785333514213562
+mouse,Home & Garden,0.7853201627731323
+mouse,Home & Garden,0.7853201627731323
+mouse,Home & Garden,0.7853201627731323
+mouse,Home & Garden,0.7853201627731323
+scrape,Music and Audio,0.7853090763092041
+wallet,Casinos & Gambling,0.7853017449378967
+candle,Houses,0.7852808237075806
+candle,Houses,0.7852808237075806
+cream,Hotel Properties,0.7852691411972046
+fast_food,Malls & Shopping Centers,0.7852675318717957
+coconut,Birds,0.7852373719215393
+tool,Concerts & Music Events,0.7852346897125244
+fast_food,Land and Farms,0.7852286100387573
+glasses,Women's Handbags and Wallets,0.7852268815040588
+bedroom,Bath and Shower,0.7852190136909485
+coach,Malls & Shopping Centers,0.7852179408073425
+smash,Birds,0.7852128148078918
+attic,Cats,0.7851898074150085
+mule,Dogs,0.7851832509040833
+dessert,Birds,0.7851637005805969
+safe,Birds,0.7851611375808716
+drum_and_bass,Zoos & Aquariums,0.7851547598838806
+vehicle,Malls & Shopping Centers,0.7851088643074036
+vehicle,Malls & Shopping Centers,0.7851088643074036
+doughnut,Casinos & Gambling,0.7851054668426514
+rubber,Prom,0.7850889563560486
+file,Shopping,0.7850841879844666
+inside,Bars & Restaurants,0.7850560545921326
+inside,Bars & Restaurants,0.7850560545921326
+inside,Bars & Restaurants,0.7850560545921326
+strum,Women's Shoes and Footwear,0.7849751710891724
+lizard,Dogs,0.7849715948104858
+fireplace,Television,0.7849705219268799
+furniture,Birthday,0.7849447131156921
+shed,Musical Instruments,0.7848859429359436
+doll,Bath and Shower,0.7848807573318481
+nematode,Education industry,0.7848787307739258
+opera,Birds,0.7848660945892334
+bath,Birds,0.7848460078239441
+juice,Women's Jewelry and Watches,0.7848129272460938
+bullet,Music and Audio,0.7847849726676941
+bowling,Home & Garden,0.7847638726234436
+tool,Dogs,0.7847304940223694
+belt,Bath and Shower,0.7847297191619873
+pear,Events and Attractions,0.7846885919570923
+underground,Prom,0.7846840023994446
+trifle,Zoos & Aquariums,0.7846754193305969
+screw,Birds,0.7846537232398987
+amphibian,Travel,0.7846402525901794
+glasses,Zoos & Aquariums,0.7846363186836243
+nematode,Card Games,0.7846360802650452
+porch,Birds,0.7846314311027527
+porch,Birds,0.7846314311027527
+belt,Hotel Properties,0.7846299409866333
+hook,Home & Garden,0.7846260666847229
+bullet,Travel,0.7846184372901917
+berth,Land and Farms,0.7846112251281738
+lawn,Zoos & Aquariums,0.7845934629440308
+restaurant,Movies,0.7845876216888428
+restaurant,Movies,0.7845876216888428
+doll,Movies,0.7845723032951355
+doughnut,Home & Garden,0.7845617532730103
+cream,Bath and Shower,0.7845391631126404
+elephant,Pets,0.7845142483711243
+elephant,Pets,0.7845142483711243
+fiddle,Children's Games and Toys,0.7845122218132019
+fiddle,Children's Games and Toys,0.7845122218132019
+dishes,Events and Attractions,0.7844926714897156
+trousers,Board Games and Puzzles,0.784423828125
+candle,Hotel Properties,0.7844222784042358
+candle,Hotel Properties,0.7844222784042358
+kite,Oral care,0.7844187021255493
+kite,Oral care,0.7844187021255493
+kite,Oral care,0.7844187021255493
+cat,Cats,0.784394383430481
+cat,Cats,0.784394383430481
+cat,Cats,0.784394383430481
+radio,Music and Audio,0.7843644022941589
+radio,Music and Audio,0.7843644022941589
+refrigerator,Zoos & Aquariums,0.7843289971351624
+refrigerator,Zoos & Aquariums,0.7843289971351624
+refrigerator,Zoos & Aquariums,0.7843289971351624
+hands,Pets,0.7843256592750549
+library,Shopping,0.7842803597450256
+mule,Music and Audio,0.7842733860015869
+mule,Education industry,0.7842351198196411
+caterpillar,Shopping,0.7842185497283936
+glasses,Birds,0.7842046022415161
+blues,Casinos & Gambling,0.7841712236404419
+hip,Cats,0.7841684818267822
+puff,Makeup and Accessories,0.7841104865074158
+tortoise,Pop Culture,0.7840833067893982
+trousers,Hotel Properties,0.7840486764907837
+squat,Home & Garden,0.7840409874916077
+tea,Education industry,0.7840102314949036
+pond,Malls & Shopping Centers,0.7839365005493164
+pole,Birds,0.7839351892471313
+screen,Bath and Shower,0.7839184403419495
+coast,Hotel Properties,0.7839020490646362
+coast,Hotel Properties,0.7839020490646362
+speaker,Women's Jewelry and Watches,0.7838647365570068
+tea,Concerts & Music Events,0.7838623523712158
+dyke,Movies,0.7838321328163147
+blowfish,Bars & Restaurants,0.7838266491889954
+hook,Hotel Properties,0.7838051319122314
+hen,Sedan,0.7838011980056763
+rubber,Sports,0.7837957143783569
+skateboard,Land and Farms,0.7837914228439331
+skateboard,Land and Farms,0.7837914228439331
+skateboard,Land and Farms,0.7837914228439331
+bullet,Movies,0.783790647983551
+hook,Coupe,0.7837901711463928
+mug,Oral care,0.7837557196617126
+hat,Malls & Shopping Centers,0.7837281227111816
+trousers,Cooking,0.7837215662002563
+rocker,Home & Garden,0.7837150692939758
+grocery_store,Malls & Shopping Centers,0.7837129831314087
+fork,Hotel Properties,0.783706545829773
+fork,Hotel Properties,0.783706545829773
+pear,Dogs,0.7836759090423584
+banana,Cooking,0.7836734652519226
+banana,Cooking,0.7836734652519226
+banana,Cooking,0.7836734652519226
+bust,Cats,0.7836546897888184
+reading_book,Concerts & Music Events,0.7836334109306335
+pineapple,Polar Travel,0.7836254239082336
+pineapple,Polar Travel,0.7836254239082336
+hat,Casinos & Gambling,0.7835950255393982
+kettle,Daycare and Pre-School,0.7835537195205688
+napkin,Bath and Shower,0.7834981083869934
+croak,Houses,0.7834802865982056
+stool,Games and Puzzles,0.7834769487380981
+tea,Music and Audio,0.7834759950637817
+canary,Land and Farms,0.783456563949585
+puff,Theater Venues and Events,0.7834092378616333
+stool,Pets,0.7834087610244751
+television,Music and Audio,0.7834077477455139
+television,Music and Audio,0.7834077477455139
+television,Music and Audio,0.7834077477455139
+television,Music and Audio,0.7834077477455139
+coconut,Beach Travel,0.7833967804908752
+skull,Daycare and Pre-School,0.783386766910553
+dam,Polar Travel,0.7833425998687744
+dam,Polar Travel,0.7833425998687744
+restaurant,Home & Garden,0.7833164930343628
+restaurant,Home & Garden,0.7833164930343628
+human_head,Hobbies & Interests,0.7833158373832703
+candle,Theater Venues and Events,0.7833139896392822
+candle,Theater Venues and Events,0.7833139896392822
+opera,Concerts & Music Events,0.783306360244751
+trousers,Cats,0.7832898497581482
+nematode,Malls & Shopping Centers,0.7832845449447632
+file,Birds,0.7832608222961426
+candle,Home & Garden,0.783254086971283
+candle,Home & Garden,0.783254086971283
+pour,Malls & Shopping Centers,0.783246636390686
+file,Cooking,0.7832377552986145
+pantry,Women's Handbags and Wallets,0.7832270264625549
+stage,Theater Venues and Events,0.7832129001617432
+wrestling,Zoos & Aquariums,0.7832061648368835
+berth,Beauty,0.7831984758377075
+bath,Malls & Shopping Centers,0.7831969857215881
+spray,Bath and Shower,0.7831832766532898
+napkin,Hotel Properties,0.7831647396087646
+fireplace,Makeup and Accessories,0.7831613421440125
+tennis_racket,Graduation,0.7831528782844543
+tennis_racket,Graduation,0.7831528782844543
+monastery,Pets,0.7831496000289917
+drum,Houses,0.7831401228904724
+drum,Houses,0.7831401228904724
+drum,Houses,0.7831401228904724
+vibration,Coupe,0.7831390500068665
+stable,Education industry,0.783132016658783
+desk,Women's Handbags and Wallets,0.7831156253814697
+desk,Women's Handbags and Wallets,0.7831156253814697
+cock,Women's Jewelry and Watches,0.783095121383667
+shed,Cameras and Camcorders,0.7830785512924194
+silence,Style & Fashion,0.7830761075019836
+furniture,Women's Clothing,0.7830691337585449
+knitting,Home & Garden,0.7830231785774231
+porch,Theater Venues and Events,0.7829715609550476
+porch,Theater Venues and Events,0.7829715609550476
+metro,Parks & Nature,0.7829694747924805
+mule,Theater Venues and Events,0.7829468250274658
+pear,Hotel Properties,0.7829105257987976
+caterpillar,Television,0.7828873991966248
+ram,Theater Venues and Events,0.7828674912452698
+doughnut,Music and Audio,0.7828602194786072
+hook,Women's Handbags and Wallets,0.7828596830368042
+drink,Birds,0.7828559875488281
+hack,Pets,0.7828555107116699
+bomb,Fitness and Exercise,0.7828547358512878
+rub,Women's Handbags and Wallets,0.7828492522239685
+shed,Fitness and Exercise,0.7828474044799805
+outside,Games and Puzzles,0.7828367948532104
+outside,Games and Puzzles,0.7828367948532104
+belt,Beach Travel,0.7828176617622375
+raven,Houses,0.7827932238578796
+helix,Zoos & Aquariums,0.7827839255332947
+juice,Land and Farms,0.78277987241745
+wrestling,Birds,0.7827537059783936
+hay,Prom,0.7827467322349548
+mule,Sedan,0.7827463150024414
+mouse,Zoos & Aquariums,0.7827451825141907
+mouse,Zoos & Aquariums,0.7827451825141907
+mouse,Zoos & Aquariums,0.7827451825141907
+mouse,Zoos & Aquariums,0.7827451825141907
+cocktail,Card Games,0.7827367782592773
+cocktail,Home & Garden,0.7827286124229431
+cocktail,Casinos & Gambling,0.7827232480049133
+rub,Theater Venues and Events,0.7826854586601257
+beaver,Malls & Shopping Centers,0.7826834321022034
+shed,Concerts & Music Events,0.7826812267303467
+toucan,Beauty,0.7826762199401855
+tap,Malls & Shopping Centers,0.7826641201972961
+tap,Malls & Shopping Centers,0.7826641201972961
+speaker,Hotel Properties,0.7826498746871948
+hen,Malls & Shopping Centers,0.7826206684112549
+hook,Birds,0.7826160192489624
+desk,Bath and Shower,0.7826109528541565
+desk,Bath and Shower,0.7826109528541565
+bust,Concerts & Music Events,0.7826070189476013
+cake,Desserts and Baking,0.7826064229011536
+cake,Desserts and Baking,0.7826064229011536
+clothing,Women's Jewelry and Watches,0.7825835943222046
+basement,Hotel Properties,0.7825763821601868
+shed,Land and Farms,0.7825244069099426
+wolves,Convertible,0.7825175523757935
+hen,Casinos & Gambling,0.7825101017951965
+swan,Musical Instruments,0.7825020551681519
+bedroom,Bars & Restaurants,0.7825008034706116
+tower,Cats,0.7824982404708862
+tower,Cats,0.7824982404708862
+woodpecker,Casinos & Gambling,0.7824893593788147
+tool,Shopping,0.7824864387512207
+belt,Zoos & Aquariums,0.7824520468711853
+icebox,Houses,0.7824492454528809
+rocker,Oral care,0.782376766204834
+dam,Bath and Shower,0.7823582291603088
+dam,Bath and Shower,0.7823582291603088
+howler_monkey,Beauty,0.7823443412780762
+gazelle,Hobbies & Interests,0.7823442816734314
+belt,Bars & Restaurants,0.7823277115821838
+napkin,Movies,0.7823257446289062
+rock_music,Casinos & Gambling,0.782313346862793
+bust,Home & Garden,0.7823103070259094
+furniture,Card Games,0.7823044657707214
+cock,Birds,0.7822901606559753
+pasture,Zoos & Aquariums,0.7822866439819336
+rubber,Perfume and Fragrance,0.7822851538658142
+smash,Children's Games and Toys,0.782260000705719
+basketball,Malls & Shopping Centers,0.7822445034980774
+blues,Malls & Shopping Centers,0.782234787940979
+farm,Zoos & Aquariums,0.7822273373603821
+bomb,Music and Audio,0.782194197177887
+sunflower,Pop Culture,0.7821727991104126
+drawer,Malls & Shopping Centers,0.7821599841117859
+bath,Children's Games and Toys,0.7821499109268188
+tomato,Events and Attractions,0.7821370959281921
+purr,Women's Shoes and Footwear,0.7821366786956787
+inside,Dogs,0.7821203470230103
+inside,Dogs,0.7821203470230103
+inside,Dogs,0.7821203470230103
+tower,Women's Handbags and Wallets,0.7821123600006104
+tower,Women's Handbags and Wallets,0.7821123600006104
+disco,Beauty,0.7821077108383179
+drum_and_bass,Houses,0.7820369005203247
+corn,Barbecues and Grilling,0.7820289134979248
+rubber,Comedy Events,0.7820287346839905
+cannon,Dogs,0.7820250988006592
+cannon,Dogs,0.7820250988006592
+bust,Bath and Shower,0.7820237278938293
+inside,Casinos & Gambling,0.7820124626159668
+inside,Casinos & Gambling,0.7820124626159668
+inside,Casinos & Gambling,0.7820124626159668
+grand,Pets,0.7820121645927429
+explosion,Fitness and Exercise,0.7820096015930176
+underground,Card Games,0.7819976210594177
+candy,Movies,0.7819951176643372
+sneeze,Casinos & Gambling,0.7819784879684448
+skiing,Sedan,0.7819750905036926
+cradle,Birds,0.7819719314575195
+clothing,Sedan,0.7819677591323853
+building,Zoos & Aquariums,0.7819631099700928
+man,Women's Handbags and Wallets,0.7819480299949646
+frog,Bars & Restaurants,0.7819167971611023
+frog,Bars & Restaurants,0.7819167971611023
+vehicle,Sedan,0.7819163799285889
+vehicle,Sedan,0.7819163799285889
+fox,Zoos & Aquariums,0.78187096118927
+cannon,Games and Puzzles,0.7818708419799805
+cannon,Games and Puzzles,0.7818708419799805
+popcorn,Musical Instruments,0.7818679809570312
+silence,Zoos & Aquariums,0.7818402051925659
+sneeze,Games and Puzzles,0.7818318605422974
+bomb,Women's Handbags and Wallets,0.7818244695663452
+cannon,Beach Travel,0.7818202972412109
+cannon,Beach Travel,0.7818202972412109
+goat,Zoos & Aquariums,0.7818164229393005
+goat,Zoos & Aquariums,0.7818164229393005
+tool,Pets,0.7818034291267395
+cradle,Children's Games and Toys,0.7817907333374023
+bullet,Games and Puzzles,0.7817897200584412
+closet,Oral care,0.7817885279655457
+closet,Oral care,0.7817885279655457
+closet,Oral care,0.7817885279655457
+coconut,Education industry,0.7817865610122681
+drawing,Malls & Shopping Centers,0.7817327380180359
+refrigerator,Movies,0.7816984057426453
+refrigerator,Movies,0.7816984057426453
+refrigerator,Movies,0.7816984057426453
+choir,Card Games,0.7816576957702637
+jack,Bars & Restaurants,0.7816569209098816
+closet,Cats,0.7816508412361145
+closet,Cats,0.7816508412361145
+closet,Cats,0.7816508412361145
+jack,Movies,0.7816486358642578
+reading_book,Hotel Properties,0.7816359996795654
+kite,Cats,0.7816359400749207
+kite,Cats,0.7816359400749207
+kite,Cats,0.7816359400749207
+toy,Education industry,0.7816129922866821
+smash,Travel,0.7816062569618225
+trousers,Travel,0.7815979719161987
+outside,Theater Venues and Events,0.781583309173584
+outside,Theater Venues and Events,0.781583309173584
+nematode,Land and Farms,0.7815800309181213
+coconut,Women's Handbags and Wallets,0.7815696597099304
+outside,Beauty,0.7815356850624084
+outside,Beauty,0.7815356850624084
+belt,Barbecues and Grilling,0.7815169095993042
+worm,Games and Puzzles,0.781514048576355
+furniture,Desserts and Baking,0.7814949750900269
+belt,Style & Fashion,0.7814943790435791
+weasel,Movies,0.7814695239067078
+hen,Barbecues and Grilling,0.7814467549324036
+rattle,Children's Games and Toys,0.7814229130744934
+restaurant,Cooking,0.7813946604728699
+restaurant,Cooking,0.7813946604728699
+drink,Casinos & Gambling,0.781368613243103
+jack,Bath and Shower,0.7813655138015747
+bath,Bars & Restaurants,0.7813648581504822
+drum,Zoos & Aquariums,0.7813577055931091
+drum,Zoos & Aquariums,0.7813577055931091
+drum,Zoos & Aquariums,0.7813577055931091
+dowitcher,Hobbies & Interests,0.7813065648078918
+dishes,Movies,0.781286358833313
+restaurant,Bath and Shower,0.7812767624855042
+restaurant,Bath and Shower,0.7812767624855042
+beaver,Style & Fashion,0.781266987323761
+space_bar,Minivan,0.7812617421150208
+box_turtle,Movies,0.7812339067459106
+pizza,Barbecues and Grilling,0.7812237739562988
+pizza,Barbecues and Grilling,0.7812237739562988
+pizza,Barbecues and Grilling,0.7812237739562988
+window_screen,Birds,0.7812193632125854
+rubber,Desserts and Baking,0.7812169790267944
+deer,Cats,0.7811923623085022
+bullet,Dogs,0.7811888456344604
+bee,Malls & Shopping Centers,0.7811784744262695
+bee,Malls & Shopping Centers,0.7811784744262695
+bee,Malls & Shopping Centers,0.7811784744262695
+envelope,Retail Industry,0.7811533212661743
+envelope,Retail Industry,0.7811533212661743
+bust,Birds,0.7811387777328491
+knock,Zoos & Aquariums,0.78113853931427
+cricket,Hotel Properties,0.781119167804718
+cricket,Hotel Properties,0.781119167804718
+smash,Television,0.7811189293861389
+drawer,Women's Handbags and Wallets,0.7811168432235718
+orchestra,Theater Venues and Events,0.7811145782470703
+reading_book,Prom,0.7811064720153809
+screw,Board Games and Puzzles,0.7810506820678711
+porch,Malls & Shopping Centers,0.7810291647911072
+porch,Malls & Shopping Centers,0.7810291647911072
+napkin,Malls & Shopping Centers,0.7809984683990479
+rocker,Children's Games and Toys,0.7809980511665344
+peacock,Comedy Events,0.7809967994689941
+weapon,Books and Literature,0.7809831500053406
+rock_music,Music and Audio,0.7809320092201233
+shed,Card Games,0.78091961145401
+light_bulb,Landscaping,0.7808806300163269
+nematode,Women's Handbags and Wallets,0.780866801738739
+container,Land and Farms,0.7808637022972107
+mule,Beach Travel,0.780859649181366
+hands,Events and Attractions,0.7808377742767334
+hook,Pets,0.7808222770690918
+desk,Cats,0.7808151841163635
+desk,Cats,0.7808151841163635
+kite,Card Games,0.7808031439781189
+kite,Card Games,0.7808031439781189
+kite,Card Games,0.7808031439781189
+pole,Sedan,0.780786395072937
+reading_book,Retail Industry,0.7807473540306091
+underground,Home & Garden,0.7807470560073853
+automatic_teller_machine,Women's Shoes and Footwear,0.7807441353797913
+stable,Remodeling & Construction,0.7807426452636719
+jack,Games and Puzzles,0.7807410955429077
+tap,Travel,0.7807320356369019
+tap,Travel,0.7807320356369019
+harp,Musical Instruments,0.7807220220565796
+harp,Musical Instruments,0.7807220220565796
+harp,Musical Instruments,0.7807220220565796
+harp,Musical Instruments,0.7807220220565796
+ice_cream,Movies,0.780707597732544
+ice_cream,Movies,0.780707597732544
+juice,Musical Instruments,0.7807006239891052
+pizza,Cooking,0.7806860208511353
+pizza,Cooking,0.7806860208511353
+pizza,Cooking,0.7806860208511353
+chest,Home & Garden,0.7806558012962341
+pour,Musical Instruments,0.7806400656700134
+juice,Sedan,0.7806383967399597
+belt,Games and Puzzles,0.7806270122528076
+monastery,Zoos & Aquariums,0.780608057975769
+shed,Movies,0.7805780172348022
+pop,Music and Audio,0.7805471420288086
+window,Musical Instruments,0.780522346496582
+racecourse,Beauty,0.7804797887802124
+toy,Concerts & Music Events,0.7804684638977051
+belt,Cooking,0.7804611921310425
+inside,Hotel Properties,0.7804515957832336
+inside,Hotel Properties,0.7804515957832336
+inside,Hotel Properties,0.7804515957832336
+shed,Malls & Shopping Centers,0.7804367542266846
+altar,Large Animals,0.7803995013237
+fly,Birds,0.7803950905799866
+fly,Birds,0.7803950905799866
+reading_book,Remodeling & Construction,0.7803894877433777
+funk,Birds,0.780375599861145
+fork,Movies,0.7803754210472107
+fork,Movies,0.7803754210472107
+jack,Card Games,0.7803711295127869
+plough,Events and Attractions,0.7803642153739929
+envelope,Malls & Shopping Centers,0.7803013324737549
+envelope,Malls & Shopping Centers,0.7803013324737549
+pizza,Malls & Shopping Centers,0.780282735824585
+pizza,Malls & Shopping Centers,0.780282735824585
+pizza,Malls & Shopping Centers,0.780282735824585
+park,Children's Games and Toys,0.7802553772926331
+furniture,Prom,0.7802020907402039
+knot,Houses,0.7801675796508789
+stable,Shopping,0.7801496386528015
+cream,Land and Farms,0.7801271080970764
+hook,Makeup and Accessories,0.7801245450973511
+revolver,Birds,0.7801215648651123
+poster,Home & Garden,0.7801163196563721
+jeans,Home & Garden,0.7801142930984497
+basement,Malls & Shopping Centers,0.7801064252853394
+pavilion,Coupe,0.7800721526145935
+skiing,Fitness and Exercise,0.7800642848014832
+shirt,Fitness and Exercise,0.7800558805465698
+water_bottle,Beach Travel,0.7800390124320984
+beaver,Women's Handbags and Wallets,0.7800236344337463
+drawing,Zoos & Aquariums,0.7800204753875732
+cannon,Bars & Restaurants,0.7800165414810181
+cannon,Bars & Restaurants,0.7800165414810181
+refrigerator,Cooking,0.7800046801567078
+refrigerator,Cooking,0.7800046801567078
+refrigerator,Cooking,0.7800046801567078
+pour,Prom,0.7800021171569824
+bath,Hotel Properties,0.779984176158905
+barn,Reptiles,0.7799789309501648
+barn,Reptiles,0.7799789309501648
+mosquito,Polar Travel,0.7799712419509888
+sailing,Events and Attractions,0.7799668908119202
+smash,Bath and Shower,0.7799644470214844
+rub,Children's Games and Toys,0.7799252271652222
+monastery,Theater Venues and Events,0.7799197435379028
+candy,Bars & Restaurants,0.7799115180969238
+cock,Hotel Properties,0.7799091339111328
+wrench,Sedan,0.7799065113067627
+juice,Card Games,0.7799055576324463
+doughnut,Land and Farms,0.7799043655395508
+driving_car,Coupe,0.7798924446105957
+raven,Shopping,0.7798892259597778
+baseball_bat,Movies,0.7798664569854736
+baseball_bat,Movies,0.7798664569854736
+cocktail,Bars & Restaurants,0.7798625230789185
+highway,Theater Venues and Events,0.7798460721969604
+jeans,Pets,0.7798340916633606
+sofa,Pets,0.7798238396644592
+sofa,Pets,0.7798238396644592
+lily,Birds,0.7798221111297607
+website,Houses,0.779814600944519
+pickup,Minivan,0.7798120379447937
+stage,Musical Instruments,0.779809832572937
+clothing,Style & Fashion,0.7798096537590027
+trousers,Barbecues and Grilling,0.7797735929489136
+pear,Travel,0.7797685861587524
+tower,Games and Puzzles,0.7797659635543823
+tower,Games and Puzzles,0.7797659635543823
+yard,Dogs,0.7797604203224182
+inside,Travel,0.7797150015830994
+inside,Travel,0.7797150015830994
+inside,Travel,0.7797150015830994
+sock,Zoos & Aquariums,0.7796899676322937
+sock,Zoos & Aquariums,0.7796899676322937
+tap,Dogs,0.7796888947486877
+tap,Dogs,0.7796888947486877
+closet,Musical Instruments,0.7796780467033386
+closet,Musical Instruments,0.7796780467033386
+closet,Musical Instruments,0.7796780467033386
+beaver,Cats,0.779670774936676
+toy,Music and Audio,0.7796570658683777

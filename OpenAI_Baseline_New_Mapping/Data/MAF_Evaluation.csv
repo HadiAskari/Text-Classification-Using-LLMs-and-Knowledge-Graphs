@@ -1,0 +1,1878 @@
+,item,IAB_Candidates,scores
+0,crane,['Automotive'],3
+1,disk brake,"['Automotive', 'Auto Parts', 'Motorcycles']",3
+2,auto_factory,"['Automotive', 'Auto Parts', 'Auto Repair', 'Automotive Industry', 'Technology Industry', 'Auto Body Styles', 'Pickup Trucks', 'Green Vehicles', 'Luxury Cars', 'Auto Type']",3
+3,cab,"['Automotive', 'Minivan', 'Auto Rentals']",3
+4,car mirror,"['Automotive', 'Auto Parts', 'Auto Rentals']",3
+5,racer,['Automotive'],3
+6,Motorbike,"['Automotive', 'Auto Body Styles', 'Auto Shows', 'Motorcycles', 'Motorcycles']",3
+7,Wheel,"['Automotive', 'Commercial Trucks', 'Convertible', 'Coupe', 'Green Vehicles', 'Luxury Cars', 'Minivan', 'Pickup Trucks', 'Sedan', 'Station Wagon', 'SUV', 'Van', 'Auto Body Styles', 'Auto Parts', 'Auto Rentals', 'Auto Shows', 'Motorcycles', 'Road-Side Assistance']",3
+8,convertible,"['Automotive', 'Convertible', 'Coupe', 'Luxury Cars', 'Sedan', 'SUV', 'Auto Body Styles', 'Auto Rentals', 'Auto Shows']",3
+9,Acoustic guitar,"['Musical Instruments', 'Music and Audio']",3
+10,auto_showroom,"['Automotive', 'Convertible', 'Coupe', 'Green Vehicles', 'Luxury Cars', 'Minivan', 'Pickup Trucks', 'Sedan', 'Station Wagon', 'SUV', 'Van', 'Auto Body Styles', 'Auto Shows', 'Auto Type', 'Automotive Industry']",3
+11,passenger car,"['Automotive', 'Auto Body Styles', 'Automotive Industry', 'Rail Travel']",3
+12,pickup,"['Automotive', 'Commercial Trucks', 'Pickup Trucks']",3
+13,Truck,"['Automotive', 'Commercial Trucks', 'Green Vehicles', 'Luxury Cars', 'Pickup Trucks', 'SUV', 'Auto Body Styles', 'Auto Rentals', 'Auto Repair', 'Auto Shows', 'Road-Side Assistance', 'Automotive Industry', 'Africa Travel', 'Camping', 'Europe Travel', 'North America Travel', 'Travel Locations', 'Commercial Trucks', 'Pickup Trucks', 'Auto Parts', 'Auto Rentals', 'Auto Repair', 'Auto Shows', 'Green Vehicles', 'Luxury Cars', 'Auto Parts', 'Logistics and Transportation Industry', 'Commercial Trucks', 'Pickup Trucks', 'Luxury Cars', 'Road-Side Assistance', 'Auto Parts', 'Auto Repair', 'Auto Shows', 'Auto Rentals', 'Logistics and Transportation Industry']",3
+14,Car,"['Automotive', 'Convertible', 'Coupe', 'Green Vehicles', 'Luxury Cars', 'Minivan', 'Pickup Trucks', 'Sedan', 'Station Wagon', 'SUV', 'Van', 'Auto Body Styles', 'Auto Parts', 'Auto Rentals', 'Auto Repair', 'Auto Shows', 'Road-Side Assistance', 'Automotive Industry', 'Automotive', 'Auto Body Styles', 'Convertible', 'Coupe', 'Minivan', 'Pickup Trucks', 'Sedan', 'Station Wagon', 'SUV', 'Van', 'Auto Parts', 'Auto Rentals', 'Auto Repair', 'Auto Shows', 'Auto Type', 'Green Vehicles', 'Luxury Cars', 'Road-Side Assistance', 'Sedan', 'Station Wagon', 'SUV', 'Minivan', 'Pickup Trucks', 'Green Vehicles', 'Luxury Cars', 'Auto Type', 'Road-Side Assistance', 'Auto Parts', 'Auto Shows', 'Auto Rentals', 'Automotive', 'Auto Body Styles', 'Commercial Trucks', 'Convertible', 'Coupe', 'Auto Type', 'Auto Repair', 'Automotive Industry', 'Van']",3
+15,Tire,"['Commercial Trucks', 'Pickup Trucks', 'Auto Parts', 'Auto Repair', 'Auto Shows', 'Motorcycles']",3
+16,trailer truck,['Commercial Trucks'],3
+17,Vehicle registration plate,"['Green Vehicles', 'Pickup Trucks', 'Auto Parts']",3
+18,car wheel,"['Green Vehicles', 'Auto Body Styles', 'Auto Parts', 'Auto Repair', 'Automotive Industry']",3
+19,limousine,['Luxury Cars'],3
+20,minivan,"['Minivan', 'SUV']",3
+21,Air brake,['Auto Parts'],3
+22,gas_station,"['Station Wagon', 'Commercial Trucks']",3
+23,jeep,['SUV'],3
+24,Vehicle,"['Van', 'Automotive', 'Auto Body Styles', 'Commercial Trucks', 'Minivan', 'Pickup Trucks', 'Sedan', 'SUV', 'Auto Parts', 'Auto Rentals', 'Auto Repair', 'Auto Shows', 'Auto Type', 'Green Vehicles', 'Luxury Cars', 'Automotive Industry', 'Automotive', 'Auto Body Styles', 'Commercial Trucks', 'Sedan', 'SUV', 'Minivan', 'Pickup Trucks', 'Green Vehicles', 'Luxury Cars', 'Auto Type', 'Auto Parts', 'Auto Repair', 'Auto Shows', 'Auto Rentals']",3
+25,police van,['Van'],3
+26,moving van,['Van'],3
+27,Van,"['Van', 'Auto Body Styles']",3
+28,car_interior,"['Auto Body Styles', 'Auto Parts', 'Auto Rentals', 'Automotive Industry', 'Automotive', 'Sedan', 'Station Wagon', 'SUV', 'Coupe', 'Minivan', 'Green Vehicles', 'Luxury Cars', 'Auto Type', 'Auto Repair', 'Auto Shows', 'Convertible']",3
+29,"Air horn, truck horn","['Pickup Trucks', 'Commercial Trucks', 'Station Wagon', 'Auto Parts', 'Green Vehicles']",3
+30,garbage truck,['Auto Body Styles'],3
+31,Land vehicle,"['Auto Parts', 'Road-Side Assistance', 'Automotive Industry']",3
+32,Auto part,"['Auto Parts', 'Auto Repair', 'Technology Industry', 'Automotive', 'Auto Body Styles', 'Green Vehicles', 'Auto Type', 'Auto Rentals', 'Automotive Industry']",3
+33,Aircraft,"['Aviation Industry', 'Air Travel', 'Aviation Industry']",3
+34,Aircraft engine,"['Aviation Industry', 'Air Travel']",3
+35,seat belt,['Auto Rentals'],3
+36,Ambient music,['Music and Audio'],3
+37,sports car,['Auto Repair'],3
+38,repair_shop,['Auto Repair'],3
+39,moped,['Motorcycles'],3
+40,motor scooter,['Motorcycles'],3
+41,Helmet,['Motorcycles'],3
+42,crash helmet,['Motorcycles'],3
+43,Angry music,['Music and Audio'],3
+44,ambulance,['Road-Side Assistance'],3
+45,highway,"['Road-Side Assistance', 'Green Vehicles', 'North America Travel']",3
+46,Cell phone,"['Road-Side Assistance', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Music and Audio', 'Technology & Computing', 'Cameras and Camcorders', 'Smartphones', 'Consumer Electronics', 'Travel Accessories', 'Smartphones']",3
+47,tow truck,['Road-Side Assistance'],3
+48,Animal,"['Zoos & Aquariums', 'Pets', 'Birds', 'Cats', 'Dogs', 'Large Animals', 'Reptiles', 'Zoos & Aquariums', 'Large Animals', 'Reptiles', 'Pets', 'Birds', 'Cats', 'Dogs']",3
+49,bookcase,['Books and Literature'],3
+50,book jacket,['Books and Literature'],3
+51,library,"['Books and Literature', 'Education']",3
+52,bookshop,['Books and Literature'],3
+53,comic book,['Books and Literature'],3
+54,Bookcase,['Books and Literature'],3
+55,archive,['Books and Literature'],3
+56,bookstore,['Books and Literature'],3
+57,Book,"['Books and Literature', 'Business and Finance', 'Education industry', 'Financial Industry', 'Education', 'College Education', 'Primary Education', 'Religion & Spirituality', 'Tablets and E-readers', 'Books and Literature']",3
+58,Pen,"['Business and Finance', 'College Education']",3
+59,Office building,"['Business and Finance', 'Technology Industry', 'Office Property']",3
+60,Office supplies,['Business and Finance'],3
+61,office_cubicles,['Business and Finance'],3
+62,Building,"['Apparel Industry', 'Automotive Industry', 'Entertainment Industry', 'Food Industry', 'Hospitality Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Awards Shows', 'Bars & Restaurants', 'Casinos & Gambling', 'Cinemas and Events', 'Fashion Events', 'Malls & Shopping Centers', 'Museums & Galleries', 'Religious Events', 'Home Improvement', 'Remodeling & Construction', 'Smart Home', 'Real Estate', 'Apartments', 'Hotel Properties', 'Office Property', 'Retail Property', 'Grocery Shopping', 'Hotels and Motels', 'Theater Venues and Events', 'Houses']",3
+63,wardrobe,"['Apparel Industry', ""Men's Clothing""]",3
+64,assembly_line,['Apparel Industry'],3
+65,bib,['Apparel Industry'],3
+66,apron,['Apparel Industry'],3
+67,cardigan,"['Apparel Industry', ""Men's Casual Wear""]",3
+68,cowboy boot,"['Apparel Industry', ""Men's Casual Wear"", ""Women's Shoes and Footwear""]",3
+69,Clothing,"['Apparel Industry', ""Men's Casual Wear"", 'Style & Fashion', ""Women's Clothing"", ""Women's Formal Wear"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Formal Wear""]",3
+70,clothing_store,"['Apparel Industry', 'Retail Industry', 'Retail Property', ""Men's Casual Wear"", ""Women's Formal Wear"", ""Women's Clothing"", ""Men's Clothing"", 'Malls & Shopping Centers', 'Shopping', 'Style & Fashion', ""Men's Formal Wear""]",3
+71,bullet train,"['Automotive Industry', 'Travel', 'Rail Travel']",3
+72,Helicopter,['Aviation Industry'],3
+73,Baby cry,['Parenting'],3
+74,Baby laughter,['Parenting'],3
+75,aircraft carrier,"['Aviation Industry', 'Logistics and Transportation Industry', 'Air Travel']",3
+76,space shuttle,"['Aviation Industry', 'Space and Astronomy', 'Air Travel']",3
+77,airplane_cabin,"['Aviation Industry', 'Hospitality Industry', 'Air Travel']",3
+78,airliner,"['Aviation Industry', 'Travel', 'Air Travel']",3
+79,warplane,['Aviation Industry'],3
+80,Airplane,"['Aviation Industry', 'Travel', 'Air Travel', 'Asia Travel', 'Europe Travel', 'Polar Travel', 'South America Travel', 'Aviation Industry', 'Air Travel', 'Travel']",3
+81,laptop,"['Education industry', 'Education', 'Technology & Computing', 'Desktops', 'Laptops']",3
+82,abacus,"['Education industry', 'Technology & Computing']",3
+83,biology_laboratory,"['Education industry', 'Science', 'Medical Health']",3
+84,campus,"['Education industry', 'Education', 'College Education', 'Graduation']",3
+85,classroom,"['Education industry', 'Education', 'College Education', 'Primary Education', 'Daycare and Pre-School', 'Science']",3
+86,Laptop,"['Education industry', 'Entertainment Industry', 'Financial Industry', 'Healthcare Industry', 'Hospitality Industry', 'Media Industry', 'Education', 'College Education', 'Primary Education', 'Hobbies & Interests', 'Music and Audio', 'Technology & Computing', 'Laptops', 'Consumer Electronics', 'Video Gaming', 'Laptops']",3
+87,Microphone,"['Entertainment Industry', 'Birthday', 'Comedy Events', 'Music and Audio']",3
+88,arena/rodeo,['Entertainment Industry'],3
+89,amusement_arcade,"['Entertainment Industry', 'Games and Puzzles']",3
+90,arena/performance,"['Entertainment Industry', 'Media Industry']",3
+91,entertainment center,"['Entertainment Industry', 'Home Entertaining']",3
+92,amusement_park,"['Entertainment Industry', 'Events and Attractions']",3
+93,movie_theater/indoor,"['Entertainment Industry', 'Cinemas and Events', 'Theater Venues and Events', 'Movies']",3
+94,cinema,"['Entertainment Industry', 'Media Industry', 'Cinemas and Events']",3
+95,Television,"['Entertainment Industry', 'Media Industry', 'Consumer Electronics', 'Television', 'Video Gaming', 'Entertainment Industry', 'Movies', 'Television', 'Movies', 'Entertainment Industry', 'Movies', 'Television']",3
+96,envelope,['Financial Industry'],3
+97,cash machine,"['Financial Industry', 'Casinos & Gambling', 'Malls & Shopping Centers']",3
+98,Basketball bounce,['Sports'],3
+99,bank_vault,['Financial Industry'],3
+100,Convenience store,"['Food Industry', 'Retail Industry', 'Shopping', 'Grocery Shopping', 'Household Supplies', 'Retail Property']",3
+101,confectionery,"['Food Industry', 'Retail Industry']",3
+102,bakery/shop,"['Food Industry', 'Birthday', 'Food & Drink', 'Desserts and Baking', 'World Cuisines', 'Retail Property', 'Shopping']",3
+103,Bass drum,"['Musical Instruments', 'Music and Audio']",3
+104,Food,"['Food Industry', 'Food & Drink', 'Desserts and Baking', 'World Cuisines', 'Healthy Living', 'Bars & Restaurants', 'Barbecues and Grilling', 'Cooking', 'Dining Out', 'Grocery Shopping']",3
+105,Dutch oven,"['Food Industry', 'Cooking', 'Home Appliances']",3
+106,stethoscope,"['Healthcare Industry', 'Medical Health']",3
+107,drugstore,"['Healthcare Industry', 'Wellness', 'Oral care', 'Perfume and Fragrance', 'Deodorant and Antiperspirant']",3
+108,Chair,"['Hospitality Industry', 'Dining Out', 'Bars & Restaurants', 'Casinos & Gambling', 'Cinemas and Events', 'Fashion Events', 'Home & Garden', 'Home Entertaining', 'Apartments', 'Hotel Properties', 'Houses', 'Office Property', 'Retail Property', 'Shopping', 'Hotels and Motels']",3
+109,Bus,"['Logistics and Transportation Industry', 'Travel']",3
+110,electric locomotive,"['Logistics and Transportation Industry', 'Rail Travel']",3
+111,Bass guitar,"['Musical Instruments', 'Music and Audio']",3
+112,bus_interior,['Logistics and Transportation Industry'],3
+113,freight car,['Logistics and Transportation Industry'],3
+114,Bathtub (filling or washing),['Bath and Shower'],3
+115,Bicycle,"['Fitness and Exercise', 'Hobbies & Interests', 'Sports']",3
+116,Bird,"['Birds', 'Large Animals', 'Zoos & Aquariums', 'Pets', 'Birds', 'Large Animals', 'Beach Travel', 'Birds', 'Large Animals']",3
+117,Box,['Retail Industry'],3
+118,jewelry_shop,"['Retail Industry', 'Retail Property', ""Women's Jewelry and Watches"", 'Shopping']",3
+119,butcher shop,"['Retail Industry', 'Retail Property']",3
+120,candy_store,"['Retail Industry', 'Shopping', 'Malls & Shopping Centers', 'Food & Drink', 'Desserts and Baking']",3
+121,department_store,"['Retail Industry', 'Retail Property', 'Grocery Shopping', 'Business and Finance', 'Malls & Shopping Centers', 'Shopping', 'Flower Shopping', 'Holiday Shopping', ""Women's Jewelry and Watches"", ""Men's Clothing"", 'Consumer Electronics']",3
+122,dial telephone,"['Technology Industry', 'Telecommunications Industry']",3
+123,coil,['Technology Industry'],3
+124,Computer keyboard,"['Technology Industry', 'Technology & Computing', 'Desktops', 'Laptops', 'Smartphones', 'Consumer Electronics', 'Technology & Computing', 'Desktops', 'Laptops', 'Smartphones', 'Video Gaming', 'Video Gaming', 'Laptops', 'Technology & Computing', 'Desktops', 'Video Gaming', 'Smartphones']",3
+125,computer keyboard,"['Technology Industry', 'Technology & Computing', 'Desktops', 'Consumer Electronics']",3
+126,cellular telephone,"['Technology Industry', 'Smartphones', 'Consumer Electronics']",3
+127,Clock,"['Technology Industry', 'Technology & Computing']",3
+128,"Bird flight, flapping wings",['Birds'],3
+129,"Bird vocalization, bird call, bird song",['Birds'],3
+130,modem,['Telecommunications Industry'],3
+131,notebook,['Education'],3
+132,Human body,['Deodorant and Antiperspirant'],3
+133,Girl,"['Education', 'Primary Education', 'Cooking', 'Fitness and Exercise', 'Gardening', 'Home Improvement', 'Shopping', ""Children's Games and Toys"", 'Grocery Shopping', ""Men's Casual Wear"", 'Nail Care', ""Women's Clothing"", 'Africa Travel', 'Asia Travel', 'South America Travel', 'Parenting', 'Single Life', 'Daycare and Pre-School', 'Dating', 'Prom']",3
+134,kindergarden_classroom,"['Education', 'Primary Education', 'Daycare and Pre-School']",3
+135,Glasses,['College Education'],3
+136,paintbrush,['College Education'],3
+137,Human eye,['Makeup and Accessories'],3
+138,art_school,"['College Education', 'Primary Education', 'Fine Art', 'Education industry', 'Education', 'Graduation', 'Theater Venues and Events', 'Hobbies & Interests']",3
+139,mortarboard,"['College Education', 'Graduation']",3
+140,snorkel,['Events and Attractions'],3
+141,basketball,['Events and Attractions'],3
+142,Horse,"['Events and Attractions', 'Pets', 'Large Animals', 'Large Animals']",3
+143,stage,['Events and Attractions'],3
+144,ball_pit,"['Events and Attractions', ""Children's Games and Toys""]",3
+145,Baked goods,"['Birthday', 'Food Industry', 'Food & Drink', 'Cooking', 'Desserts and Baking', 'Grocery Shopping']",3
+146,Cake stand,"['Birthday', 'Desserts and Baking', 'Food & Drink', 'Wedding']",3
+147,Muffin,"['Birthday', 'Desserts and Baking']",3
+148,microphone,"['Birthday', 'Comedy Events', 'Music and Audio']",3
+149,Donut,"['Birthday', 'Desserts and Baking', 'Grocery Shopping']",3
+150,Balloon,['Birthday'],3
+151,balloon,['Birthday'],3
+152,Cake,"['Birthday', 'Food & Drink', 'Cooking', 'Desserts and Baking', 'Wedding', 'Wedding', 'Birthday', 'Desserts and Baking']",3
+153,academic gown,"['Graduation', ""Men's Formal Wear"", ""Women's Formal Wear""]",3
+154,ballroom,"['Prom', 'Wedding']",3
+155,Tie,"['Prom', 'Wedding', ""Men's Formal Wear"", ""Men's Clothing""]",3
+156,Suit,"['Prom', 'Awards Shows', ""Men's Formal Wear"", ""Men's Clothing""]",3
+157,bow tie,"['Prom', 'Awards Shows', ""Men's Formal Wear""]",3
+158,suit,"['Prom', ""Men's Formal Wear"", ""Men's Clothing""]",3
+159,gown,"['Prom', 'Wedding']",3
+160,Dress,"['Prom', 'Wedding', 'Awards Shows', 'Fashion Events', 'Style & Fashion', ""Men's Casual Wear"", ""Men's Formal Wear"", ""Women's Formal Wear"", ""Women's Clothing""]",3
+161,banquet_hall,"['Wedding', 'Dining Out']",3
+162,groom,['Wedding'],3
+163,"Boat, Water vehicle","['Logistics and Transportation Industry', 'Beach Travel']",3
+164,restaurant_patio,"['Bars & Restaurants', 'Dining Out', 'Barbecues and Grilling']",3
+165,Table,"['Bars & Restaurants', 'Dining Out']",3
+166,sushi_bar,"['Bars & Restaurants', 'Dining Out', 'Food & Drink']",3
+167,Dining table,"['Bars & Restaurants', 'Food & Drink', 'Barbecues and Grilling', 'Cooking', 'Desserts and Baking', 'Dining Out', 'World Cuisines', 'Home Entertaining', 'Apartments', 'Hotel Properties', 'Bars & Restaurants', 'Food & Drink', 'Dining Out']",3
+168,bar,"['Bars & Restaurants', 'Alcoholic Beverages', 'Dining Out', 'Non-Alcoholic Beverages', 'Food & Drink']",3
+169,restaurant,"['Bars & Restaurants', 'Dining Out', 'Hotels and Motels', 'Bars & Restaurants', 'Cooking', 'Dining Out', 'World Cuisines']",3
+170,Human hair,['Hair Care'],3
+171,auditorium,"['Cinemas and Events', 'Theater Venues and Events']",3
+172,Boiling,['Cooking'],3
+173,conference_center,['Comedy Events'],3
+174,Bowed string instrument,['Musical Instruments'],3
+175,Brass instrument,['Musical Instruments'],3
+176,discotheque,['Concerts & Music Events'],3
+177,electric guitar,"['Concerts & Music Events', 'Musical Instruments']",3
+178,"Burst, pop",['Music and Audio'],3
+179,Camera,"['Home Security', 'Cameras and Camcorders', 'Space and Astronomy', 'Cameras and Camcorders', 'Consumer Electronics', 'Travel Accessories']",3
+180,"Canidae, dogs, wolves",['Large Animals'],3
+181,dressing_room,"['Fashion Events', 'Shopping', ""Men's Formal Wear"", ""Women's Formal Wear"", ""Women's Clothing"", ""Men's Clothing""]",3
+182,sarong,"['Fashion Events', 'Shopping', 'Beach Travel']",3
+183,runway,['Fashion Events'],3
+184,Backpack,"['Malls & Shopping Centers', 'Style & Fashion', 'Travel', 'Air Travel', 'Europe Travel', 'Polar Travel', 'Rail Travel', 'Travel Accessories']",3
+185,toyshop,"['Malls & Shopping Centers', 'Board Games and Puzzles', 'Games and Puzzles']",3
+186,plaza,['Malls & Shopping Centers'],3
+187,downtown,"['Malls & Shopping Centers', 'Theater Venues and Events', 'Events and Attractions', 'Bars & Restaurants']",3
+188,shopping_mall/indoor,"['Malls & Shopping Centers', 'Shopping', 'Holiday Shopping']",3
+189,Human mouth,['Oral care'],3
+190,Picture frame,"['Museums & Galleries', 'Fine Art']",3
+191,science_museum,"['Museums & Galleries', 'Science', 'Space and Astronomy', 'Education', 'College Education', 'Primary Education']",3
+192,museum/indoor,['Museums & Galleries'],3
+193,natural_history_museum,['Museums & Galleries'],3
+194,museum/outdoor,['Museums & Galleries'],3
+195,art_gallery,"['Museums & Galleries', 'Fine Art']",3
+196,Canoe,['Outdoor Activities'],3
+197,Umbrella,"['Outdoor Activities', 'Beach Travel', 'Camping']",3
+198,Frisbee,['Outdoor Activities'],3
+199,croquet ball,"['Outdoor Activities', 'Sports', 'Sports']",3
+200,parachute,"['Outdoor Activities', 'Air Travel']",3
+201,bicycle-built-for-two,['Outdoor Activities'],3
+202,canoe,"['Outdoor Activities', 'Parks & Nature']",3
+203,bazaar/outdoor,['Outdoor Activities'],3
+204,diner/outdoor,"['Outdoor Activities', 'Dining Out']",3
+205,Boat,"['Outdoor Activities', 'Travel', 'Africa Travel', 'Asia Travel', 'Beach Travel', 'Cruises', 'Europe Travel', 'North America Travel', 'Polar Travel', 'South America Travel', 'Travel Locations', 'Beach Travel', 'Cruises', 'Australia and Oceania Travel']",3
+206,cliff,['Parks & Nature'],3
+207,Butterfly,['Parks & Nature'],3
+208,valley,"['Parks & Nature', 'Travel Locations', 'North America Travel']",3
+209,water_park,"['Parks & Nature', 'Events and Attractions', 'Outdoor Activities']",3
+210,park,['Parks & Nature'],3
+211,Bench,"['Parks & Nature', 'Religious Events', 'Home & Garden', 'Apartments', 'Retail Property']",3
+212,forest_path,['Parks & Nature'],3
+213,Tree,"['Parks & Nature', 'Home & Garden', 'Landscaping', 'Land and Farms']",3
+214,church,['Religious Events'],3
+215,mosque,['Religious Events'],3
+216,altar,"['Religious Events', 'Religion & Spirituality']",3
+217,prayer rug,"['Religious Events', 'Religion & Spirituality']",3
+218,amphitheater,['Theater Venues and Events'],3
+219,entrance_hall,['Theater Venues and Events'],3
+220,theater curtain,['Theater Venues and Events'],3
+221,lion,['Zoos & Aquariums'],3
+222,sea slug,['Zoos & Aquariums'],3
+223,king penguin,"['Zoos & Aquariums', 'Polar Travel']",3
+224,coral reef,['Zoos & Aquariums'],3
+225,sturgeon,['Zoos & Aquariums'],3
+226,Snake,"['Zoos & Aquariums', 'Reptiles', 'Reptiles']",3
+227,Starfish,['Zoos & Aquariums'],3
+228,Panda,['Zoos & Aquariums'],3
+229,Penguin,['Zoos & Aquariums'],3
+230,Monkey,['Zoos & Aquariums'],3
+231,starfish,['Zoos & Aquariums'],3
+232,hammerhead,['Zoos & Aquariums'],3
+233,Fish,['Zoos & Aquariums'],3
+234,Zebra,['Zoos & Aquariums'],3
+235,tiger,"['Zoos & Aquariums', 'Large Animals']",3
+236,Bear,"['Zoos & Aquariums', 'Polar Travel', 'Polar Travel']",3
+237,Tiger,"['Zoos & Aquariums', 'Large Animals']",3
+238,koala,['Zoos & Aquariums'],3
+239,Lion,['Zoos & Aquariums'],3
+240,sea lion,['Zoos & Aquariums'],3
+241,hippopotamus,['Zoos & Aquariums'],3
+242,Giraffe,['Zoos & Aquariums'],3
+243,giant panda,['Zoos & Aquariums'],3
+244,Elephant,"['Zoos & Aquariums', 'Africa Travel']",3
+245,aquarium,"['Zoos & Aquariums', 'Reptiles']",3
+246,brass,['Fine Art'],3
+247,artists_loft,"['Fine Art', 'Apartments']",3
+248,Bronze sculpture,['Fine Art'],3
+249,Sculpture,['Fine Art'],3
+250,art_studio,"['Fine Art', 'Apartments', 'Makeup and Accessories']",3
+251,ice cream,"['Food & Drink', 'Desserts and Baking']",3
+252,delicatessen,"['Food & Drink', 'World Cuisines']",3
+253,Sandwich,['Food & Drink'],3
+254,Bottle,"['Food & Drink', 'Alcoholic Beverages', 'Non-Alcoholic Beverages', 'Food & Drink', 'Alcoholic Beverages', 'Non-Alcoholic Beverages']",3
+255,Wine glass,"['Food & Drink', 'Alcoholic Beverages', 'Alcoholic Beverages', 'Food & Drink']",3
+256,cheeseburger,['Food & Drink'],3
+257,Drinking straw,"['Food & Drink', 'Alcoholic Beverages', 'Non-Alcoholic Beverages']",3
+258,corn,['Food & Drink'],3
+259,eggnog,['Food & Drink'],3
+260,espresso,"['Food & Drink', 'Non-Alcoholic Beverages']",3
+261,Fast food,"['Food & Drink', 'World Cuisines', 'Cooking', 'Dining Out']",3
+262,pop bottle,"['Food & Drink', 'Non-Alcoholic Beverages']",3
+263,wine bottle,"['Food & Drink', 'Alcoholic Beverages']",3
+264,beer glass,"['Food & Drink', 'Alcoholic Beverages']",3
+265,Drink,"['Food & Drink', 'Alcoholic Beverages', 'Non-Alcoholic Beverages']",3
+266,beer bottle,"['Food & Drink', 'Alcoholic Beverages']",3
+267,Coffee cup,"['Food & Drink', 'Dining Out', 'Non-Alcoholic Beverages', 'Food & Drink']",3
+268,Bowl,"['Food & Drink', 'Barbecues and Grilling', 'Cooking', 'Desserts and Baking', 'Dining Out', 'World Cuisines', 'Pets']",3
+269,Cocktail,"['Alcoholic Beverages', 'Non-Alcoholic Beverages', 'Food & Drink']",3
+270,cocktail shaker,"['Alcoholic Beverages', 'Non-Alcoholic Beverages']",3
+271,beer_hall,"['Alcoholic Beverages', 'Barbecues and Grilling', 'Food & Drink', 'Dining Out', 'Non-Alcoholic Beverages']",3
+272,Refrigerator,"['Alcoholic Beverages', 'Non-Alcoholic Beverages', 'Home Appliances', 'Home Appliances']",3
+273,beer_garden,"['Alcoholic Beverages', 'Barbecues and Grilling', 'Dining Out', 'Outdoor Activities', 'Food & Drink', 'Non-Alcoholic Beverages']",3
+274,Wine rack,"['Alcoholic Beverages', 'Food & Drink']",3
+275,red wine,"['Alcoholic Beverages', 'Dining Out']",3
+276,Beer,"['Alcoholic Beverages', 'Barbecues and Grilling', 'Food & Drink']",3
+277,Wine,"['Alcoholic Beverages', 'Food & Drink']",3
+278,shopping cart,['Barbecues and Grilling'],3
+279,Hot dog,"['Barbecues and Grilling', 'Food & Drink', 'Food & Drink']",3
+280,Boy,"['Barbecues and Grilling', 'Cooking', 'Gardening', 'Home Improvement', 'Oral care', 'Beach Travel', 'Family and Relationships']",3
+281,hotdog,['Barbecues and Grilling'],3
+282,butchers_shop,"['Barbecues and Grilling', 'Shopping']",3
+283,ladle,['Cooking'],3
+284,wok,['Cooking'],3
+285,frying pan,['Cooking'],3
+286,Crock Pot,['Cooking'],3
+287,microwave,"['Cooking', 'Home Appliances']",3
+288,ice_cream_parlor,"['Desserts and Baking', 'Food & Drink']",3
+289,trifle,['Desserts and Baking'],3
+290,tray,['Desserts and Baking'],3
+291,bakery,['Desserts and Baking'],3
+292,pretzel,['Desserts and Baking'],3
+293,Candy,['Desserts and Baking'],3
+294,dough,['Desserts and Baking'],3
+295,custard apple,['Desserts and Baking'],3
+296,Cookie,['Desserts and Baking'],3
+297,chocolate sauce,['Desserts and Baking'],3
+298,Dessert,"['Desserts and Baking', 'Food & Drink']",3
+299,dining table,"['Dining Out', 'Home Entertaining']",3
+300,restaurant_kitchen,"['Dining Out', 'Food Industry', 'Bars & Restaurants', 'Desserts and Baking']",3
+301,water jug,['Non-Alcoholic Beverages'],3
+302,water bottle,['Non-Alcoholic Beverages'],3
+303,Juice,"['Non-Alcoholic Beverages', 'Food & Drink']",3
+304,Tea,['Non-Alcoholic Beverages'],3
+305,coffee mug,['Non-Alcoholic Beverages'],3
+306,Coffee,"['Non-Alcoholic Beverages', 'Food & Drink', 'Dining Out']",3
+307,tricycle,"['Fitness and Exercise', ""Children's Games and Toys""]",3
+308,dumbbell,"['Fitness and Exercise', 'Wellness', 'Healthy Living']",3
+309,ice_skating_rink/indoor,['Fitness and Exercise'],3
+310,ice_skating_rink/outdoor,['Fitness and Exercise'],3
+311,Treadmill,"['Fitness and Exercise', 'Wellness']",3
+312,Sports equipment,"['Fitness and Exercise', 'Sports', 'Hobbies & Interests', 'Wellness']",3
+313,Stationary bicycle,['Fitness and Exercise'],3
+314,barbell,"['Fitness and Exercise', 'Wellness']",3
+315,gymnasium/indoor,['Fitness and Exercise'],3
+316,Surfboard,['Wellness'],3
+317,Apple,"['Wellness', 'Grocery Shopping', 'Smartphones', 'Tablets and E-readers', 'Healthy Living']",3
+318,Broccoli,"['Wellness', 'Gardening', 'Healthy Living']",3
+319,Hiking equipment,"['Wellness', 'Healthy Living', 'Outdoor Activities', 'Fitness and Exercise', 'Travel']",3
+320,Human leg,['Wellness'],3
+321,Training bench,"['Wellness', 'Fitness and Exercise']",3
+322,Snowboard,['Hobbies & Interests'],3
+323,jigsaw puzzle,"['Board Games and Puzzles', 'Games and Puzzles', ""Children's Games and Toys""]",3
+324,playroom,"['Card Games', 'Games and Puzzles', ""Children's Games and Toys""]",3
+325,crossword puzzle,"['Games and Puzzles', 'Hobbies & Interests', 'Education', 'Hobbies & Interests', 'Education']",3
+326,upright,['Musical Instruments'],3
+327,maraca,['Musical Instruments'],3
+328,cornet,['Musical Instruments'],3
+329,harp,['Musical Instruments'],3
+330,drum,['Musical Instruments'],3
+331,banjo,['Musical Instruments'],3
+332,Car alarm,"['Station Wagon', 'Auto Parts', 'Auto Rentals', 'Green Vehicles', 'Luxury Cars']",3
+333,Musical instrument,"['Musical Instruments', 'Musical Instruments']",3
+334,sax,['Musical Instruments'],3
+335,acoustic guitar,['Musical Instruments'],3
+336,Violin,['Musical Instruments'],3
+337,violin,['Musical Instruments'],3
+338,Guitar,"['Musical Instruments', 'Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+339,pot,"['Home & Garden', 'Gardening', 'Flower Shopping']",3
+340,dining_room,['Home & Garden'],3
+341,patio,"['Home & Garden', 'Home Entertaining', 'Real Estate', 'Barbecues and Grilling', 'Home & Garden', 'Landscaping']",3
+342,Houseplant,"['Home & Garden', 'Gardening']",3
+343,greenhouse,"['Gardening', 'Flower Shopping']",3
+344,Vase,['Gardening'],3
+345,greenhouse/outdoor,['Gardening'],3
+346,Flower,"['Gardening', 'Flower Shopping']",3
+347,acorn,['Gardening'],3
+348,tree_farm,"['Gardening', 'Landscaping', 'Land and Farms']",3
+349,formal_garden,['Gardening'],3
+350,barrow,"['Gardening', 'Landscaping']",3
+351,japanese_garden,"['Gardening', 'Landscaping']",3
+352,botanical_garden,"['Gardening', 'Landscaping']",3
+353,roof_garden,['Gardening'],3
+354,vegetable_garden,"['Gardening', 'Landscaping', 'Home & Garden']",3
+355,coffeepot,['Home Appliances'],3
+356,refrigerator,['Home Appliances'],3
+357,washer,['Home Appliances'],3
+358,Washing machine,['Home Appliances'],3
+359,Kitchen appliance,['Home Appliances'],3
+360,Toaster,['Home Appliances'],3
+361,Dishwasher,['Home Appliances'],3
+362,dishwasher,['Home Appliances'],3
+363,Oven,['Home Appliances'],3
+364,House,"['Home Entertaining', 'Home Improvement', 'Home Security', 'Landscaping', 'Remodeling & Construction', 'Smart Home', 'Apartments', 'Houses', 'Home Appliances']",3
+365,house,"['Home Entertaining', 'Home Improvement', 'Apartments', 'Smart Home', 'Home Appliances', 'Home Security', 'Houses']",3
+366,beach_house,"['Home Entertaining', 'Houses', 'Beach Travel', 'Home Appliances', 'Home Security', 'Real Estate']",3
+367,garage/indoor,['Home Improvement'],3
+368,construction_site,"['Home Improvement', 'Remodeling & Construction', 'Real Estate', 'Office Property']",3
+369,garage/outdoor,"['Home Improvement', 'Houses']",3
+370,Window,"['Home Security', 'Houses', 'Office Property']",3
+371,Car passing by,"['Auto Rentals', 'Green Vehicles', 'Luxury Cars']",3
+372,lawn,['Landscaping'],3
+373,gasmask,['Remodeling & Construction'],3
+374,Carnatic music,['Music and Audio'],3
+375,Cash register,"['Business and Finance', 'Financial Industry', 'Casinos & Gambling', 'Shopping']",3
+376,loudspeaker,"['Music and Audio', 'Consumer Electronics']",3
+377,Headphones,['Music and Audio'],3
+378,CD player,['Music and Audio'],3
+379,Cat,"['Pets', 'Cats', 'Pets', 'Cats', 'Large Animals', 'Cats', 'Pets']",3
+380,"Cattle, bovinae","['Large Animals', 'Land and Farms']",3
+381,Cello,"['Musical Instruments', 'Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+382,"Chicken, rooster",['Cooking'],3
+383,music_studio,"['Music and Audio', 'Pop Culture']",3
+384,Pembroke,['Pets'],3
+385,bluetick,['Pets'],3
+386,French bulldog,['Pets'],3
+387,Polar bear,"['Pets', 'Large Animals']",3
+388,English setter,['Pets'],3
+389,Tibetan terrier,"['Pets', 'Dogs']",3
+390,Saint Bernard,['Pets'],3
+391,schipperke,['Pets'],3
+392,Samoyed,['Pets'],3
+393,Angora,['Pets'],3
+394,Rabbit,['Pets'],3
+395,whippet,['Pets'],3
+396,Cow,"['Pets', 'Large Animals', 'Land and Farms']",3
+397,American Staffordshire terrier,"['Pets', 'Dogs']",3
+398,pug,"['Pets', 'Dogs']",3
+399,Owl,"['Pets', 'Birds', 'Birds']",3
+400,Maltese dog,['Pets'],3
+401,West Highland white terrier,['Pets'],3
+402,beagle,"['Pets', 'Dogs']",3
+403,toy terrier,"['Pets', 'Dogs']",3
+404,toy poodle,"['Pets', 'Dogs']",3
+405,Chihuahua,"['Pets', 'Dogs']",3
+406,Dandie Dinmont,"['Pets', 'Dogs']",3
+407,Sealyham terrier,"['Pets', 'Dogs']",3
+408,dalmatian,"['Pets', 'Dogs']",3
+409,Leonberg,"['Pets', 'Dogs']",3
+410,kuvasz,"['Pets', 'Dogs']",3
+411,groenendael,"['Pets', 'Dogs']",3
+412,Appenzeller,"['Pets', 'Dogs']",3
+413,EntleBucher,"['Pets', 'Dogs']",3
+414,veterinarians_office,"['Pets', 'Birds', 'Cats', 'Dogs']",3
+415,Dog,"['Pets', 'Dogs', 'Large Animals', 'Pets', 'Dogs', 'Large Animals', 'Pets', 'Dogs', 'Large Animals']",3
+416,partridge,['Birds'],3
+417,prairie chicken,['Birds'],3
+418,drake,['Birds'],3
+419,Falcon,['Birds'],3
+420,toucan,['Birds'],3
+421,Sparrow,['Birds'],3
+422,Parrot,['Birds'],3
+423,pelican,['Birds'],3
+424,macaw,['Birds'],3
+425,hen,['Birds'],3
+426,peacock,['Birds'],3
+427,Child singing,['Music and Audio'],3
+428,Siamese cat,['Cats'],3
+429,tabby,['Cats'],3
+430,Egyptian cat,['Cats'],3
+431,Persian cat,['Cats'],3
+432,kelpie,['Dogs'],3
+433,standard poodle,['Dogs'],3
+434,Border collie,['Dogs'],3
+435,Kerry blue terrier,['Dogs'],3
+436,Dog bed,"['Dogs', 'Pets']",3
+437,flat-coated retriever,['Dogs'],3
+438,Yorkshire terrier,['Dogs'],3
+439,Norwegian elkhound,['Dogs'],3
+440,Pomeranian,['Dogs'],3
+441,chow,['Dogs'],3
+442,Great Dane,['Dogs'],3
+443,Weimaraner,['Dogs'],3
+444,Labrador retriever,['Dogs'],3
+445,Eskimo dog,['Dogs'],3
+446,Pig,"['Large Animals', 'Large Animals']",3
+447,Ostrich,['Large Animals'],3
+448,Bouvier des Flandres,['Large Animals'],3
+449,ram,['Large Animals'],3
+450,Goat,['Large Animals'],3
+451,ostrich,['Large Animals'],3
+452,Rhinoceros,['Large Animals'],3
+453,llama,['Large Animals'],3
+454,Cattle,"['Large Animals', 'Land and Farms']",3
+455,Sheep,"['Large Animals', 'Large Animals', 'Large Animals']",3
+456,ox,['Large Animals'],3
+457,snow leopard,['Large Animals'],3
+458,tiger cat,['Large Animals'],3
+459,common newt,['Reptiles'],3
+460,hognose snake,['Reptiles'],3
+461,green snake,['Reptiles'],3
+462,sea snake,['Reptiles'],3
+463,Tortoise,['Reptiles'],3
+464,African crocodile,['Reptiles'],3
+465,Crocodile,['Reptiles'],3
+466,Reptile,"['Reptiles', 'Zoos & Aquariums']",3
+467,African chameleon,['Reptiles'],3
+468,whiptail,['Reptiles'],3
+469,Gila monster,['Reptiles'],3
+470,American chameleon,['Reptiles'],3
+471,agama,['Reptiles'],3
+472,common iguana,['Reptiles'],3
+473,green lizard,['Reptiles'],3
+474,banded gecko,['Reptiles'],3
+475,frilled lizard,['Reptiles'],3
+476,Lizard,['Reptiles'],3
+477,"Child speech, kid speaking","['Family and Relationships', 'Daycare and Pre-School', 'Parenting']",3
+478,Countertop,['Apartments'],3
+479,Bed,"['Apartments', 'Hotel Properties', 'Hotels and Motels']",3
+480,apartment_building/outdoor,['Apartments'],3
+481,Studio couch,['Apartments'],3
+482,studio couch,"['Apartments', 'Houses']",3
+483,balcony/exterior,"['Apartments', 'Hotel Properties', 'Houses']",3
+484,Swimming pool,['Hotel Properties'],3
+485,dining_hall,['Hotel Properties'],3
+486,bannister,['Houses'],3
+487,gazebo/exterior,['Houses'],3
+488,barn,"['Houses', 'Land and Farms']",3
+489,driveway,"['Houses', 'Landscaping']",3
+490,Children playing,"['Family and Relationships', 'Daycare and Pre-School', 'Parenting', ""Children's Games and Toys""]",3
+491,corn_field,"['Land and Farms', 'Food Industry']",3
+492,farm,['Land and Farms'],3
+493,pasture,['Land and Farms'],3
+494,wheat_field,['Land and Farms'],3
+495,worm fence,['Land and Farms'],3
+496,office_building,"['Office Property', 'Business and Finance']",3
+497,coffee_shop,"['Retail Property', 'Food Industry', 'Malls & Shopping Centers', 'Bars & Restaurants', 'Food & Drink', 'Desserts and Baking', 'Dining Out', 'Non-Alcoholic Beverages', 'Shopping']",3
+498,vestment,['Religion & Spirituality'],3
+499,Marine invertebrates,"['Science', 'Zoos & Aquariums']",3
+500,lab coat,"['Science', ""Men's Formal Wear"", ""Women's Formal Wear"", ""Women's Clothing""]",3
+501,Petri dish,['Science'],3
+502,beaker,['Science'],3
+503,chemistry_lab,['Science'],3
+504,physics_laboratory,['Science'],3
+505,Jeans,"['Shopping', 'Style & Fashion', ""Men's Formal Wear""]",3
+506,Cart,"['Shopping', 'Grocery Shopping', 'Holiday Shopping']",3
+507,supermarket,"['Shopping', 'Grocery Shopping']",3
+508,grocery store,"['Shopping', 'Grocery Shopping']",3
+509,Footwear,"['Shopping', 'Style & Fashion', ""Women's Shoes and Footwear""]",3
+510,hardware_store,"['Shopping', 'Home Appliances']",3
+511,fabric_store,['Shopping'],3
+512,gift_shop,"['Shopping', ""Children's Games and Toys"", ""Women's Jewelry and Watches""]",3
+513,Teddy bear,"[""Children's Games and Toys""]",3
+514,Kite,"[""Children's Games and Toys""]",3
+515,swing,"[""Children's Games and Toys""]",3
+516,Toy,"[""Children's Games and Toys""]",3
+517,Sunflower,['Flower Shopping'],3
+518,Rose,['Flower Shopping'],3
+519,hip,['Flower Shopping'],3
+520,Lily,['Flower Shopping'],3
+521,cardoon,['Flower Shopping'],3
+522,daisy,['Flower Shopping'],3
+523,florist_shop/indoor,['Flower Shopping'],3
+524,fur coat,"['Holiday Shopping', 'Style & Fashion']",3
+525,Christmas tree,['Holiday Shopping'],3
+526,Christmas stocking,['Holiday Shopping'],3
+527,Scissors,['Household Supplies'],3
+528,Bathroom cabinet,['Household Supplies'],3
+529,Children shouting,['Parenting'],3
+530,Trousers,"['Style & Fashion', ""Women's Clothing"", ""Men's Clothing""]",3
+531,Jacket,"['Style & Fashion', ""Men's Casual Wear"", ""Men's Clothing""]",3
+532,abaya,['Style & Fashion'],3
+533,trench coat,"['Style & Fashion', ""Men's Formal Wear"", ""Women's Formal Wear"", ""Women's Clothing""]",3
+534,Handbag,"['Style & Fashion', ""Women's Handbags and Wallets"", ""Women's Clothing"", ""Women's Handbags and Wallets""]",3
+535,Coat,"['Style & Fashion', ""Men's Casual Wear"", ""Men's Formal Wear"", ""Women's Formal Wear"", ""Women's Clothing"", ""Men's Clothing""]",3
+536,Wardrobe,"['Style & Fashion', 'Beauty']",3
+537,Fashion accessory,"['Style & Fashion', 'Perfume and Fragrance', 'Makeup and Accessories', 'Prom']",3
+538,Cowboy hat,"[""Men's Casual Wear"", ""Men's Clothing""]",3
+539,jean,"[""Men's Casual Wear"", ""Men's Formal Wear"", ""Women's Formal Wear"", ""Women's Clothing"", ""Men's Clothing""]",3
+540,jersey,"[""Men's Casual Wear"", ""Women's Clothing"", ""Men's Clothing""]",3
+541,cowboy hat,"[""Men's Casual Wear""]",3
+542,Windsor tie,"[""Men's Formal Wear""]",3
+543,Chopping (food),"['Food & Drink', 'Cooking']",3
+544,miniskirt,"[""Women's Formal Wear""]",3
+545,Woman,"[""Women's Formal Wear"", ""Women's Clothing""]",3
+546,buckle,"[""Women's Handbags and Wallets"", ""Women's Jewelry and Watches"", ""Men's Clothing""]",3
+547,Briefcase,"[""Women's Handbags and Wallets"", 'Travel Accessories']",3
+548,Luggage and bags,"[""Women's Handbags and Wallets"", 'Travel Accessories', 'Air Travel', 'Australia and Oceania Travel']",3
+549,wallet,"[""Women's Handbags and Wallets"", 'Travel Accessories']",3
+550,purse,"[""Women's Handbags and Wallets""]",3
+551,necklace,"[""Women's Jewelry and Watches""]",3
+552,Earrings,"[""Women's Jewelry and Watches""]",3
+553,Necklace,"[""Women's Jewelry and Watches""]",3
+554,bathroom,['Bath and Shower'],3
+555,Bathtub,['Bath and Shower'],3
+556,Towel,['Bath and Shower'],3
+557,Soap dispenser,['Bath and Shower'],3
+558,soap dispenser,['Bath and Shower'],3
+559,bathtub,"['Bath and Shower', 'Hair Care']",3
+560,bath towel,['Bath and Shower'],3
+561,shower,['Bath and Shower'],3
+562,sunscreen,['Deodorant and Antiperspirant'],3
+563,Perfume,"['Deodorant and Antiperspirant', 'Perfume and Fragrance']",3
+564,perfume,"['Deodorant and Antiperspirant', 'Perfume and Fragrance']",3
+565,Christian music,"['Concerts & Music Events', 'Religious Events', 'Music and Audio', 'Religion & Spirituality']",3
+566,wig,"['Hair Care', 'Beauty']",3
+567,hair slide,['Hair Care'],3
+568,Hair dryer,"['Hair Care', 'Hair Care', 'Hair Care']",3
+569,hair spray,['Hair Care'],3
+570,Hair spray,['Hair Care'],3
+571,beauty_salon,"['Hair Care', 'Makeup and Accessories', 'Nail Care', 'Beauty']",3
+572,Cosmetics,"['Makeup and Accessories', 'Nail Care', 'Beauty']",3
+573,Face powder,['Makeup and Accessories'],3
+574,face powder,['Makeup and Accessories'],3
+575,lipstick,"['Makeup and Accessories', 'Beauty']",3
+576,Lipstick,['Makeup and Accessories'],3
+577,Nail,['Nail Care'],3
+578,Toothbrush,['Oral care'],3
+579,Scarf,"[""Women's Clothing""]",3
+580,stole,"[""Women's Clothing""]",3
+581,sweatshirt,"[""Women's Clothing"", ""Men's Clothing""]",3
+582,bikini,"[""Women's Clothing""]",3
+583,bonnet,['Beauty'],3
+584,brassiere,['Beauty'],3
+585,Remote control,"['Technology & Computing', 'Consumer Electronics', 'Television', 'Video Gaming']",3
+586,hand-held computer,"['Technology & Computing', 'Tablets and E-readers']",3
+587,digital clock,"['Technology & Computing', 'Consumer Electronics']",3
+588,typewriter keyboard,"['Technology & Computing', 'Desktops']",3
+589,Computer mouse,"['Technology & Computing', 'Desktops', 'Laptops', 'Video Gaming']",3
+590,Computer monitor,"['Technology & Computing', 'Desktops', 'Laptops', 'Consumer Electronics', 'Television', 'Video Gaming']",3
+591,desktop computer,"['Technology & Computing', 'Desktops', 'Laptops']",3
+592,Tripod,['Cameras and Camcorders'],3
+593,tripod,['Cameras and Camcorders'],3
+594,lens cap,['Cameras and Camcorders'],3
+595,reflex camera,['Cameras and Camcorders'],3
+596,Polaroid camera,['Cameras and Camcorders'],3
+597,printer,['Desktops'],3
+598,monitor,['Desktops'],3
+599,computer_room,"['Desktops', 'Laptops', 'Technology & Computing']",3
+600,server_room,"['Desktops', 'Laptops']",3
+601,Tablet computer,"['Tablets and E-readers', 'Consumer Electronics']",3
+602,Sewing machine,['Consumer Electronics'],3
+603,remote control,"['Consumer Electronics', 'Television']",3
+604,Digital clock,['Consumer Electronics'],3
+605,projector,['Consumer Electronics'],3
+606,iPod,['Consumer Electronics'],3
+607,digital watch,['Consumer Electronics'],3
+608,radio,['Consumer Electronics'],3
+609,home theater,['Television'],3
+610,television_room,"['Television', 'Home Entertaining', 'Movies']",3
+611,home_theater,"['Television', 'Movies']",3
+612,screen,['Television'],3
+613,television_studio,['Television'],3
+614,television,['Television'],3
+615,Palm tree,"['Travel', 'Cruises']",3
+616,Suitcase,"['Travel', 'Travel Accessories']",3
+617,airport_terminal,"['Travel', 'Air Travel']",3
+618,subway_station/platform,['Travel'],3
+619,school bus,['Travel'],3
+620,Taxi,"['Travel', 'Travel Locations']",3
+621,train_station/platform,"['Travel', 'Rail Travel']",3
+622,Train,"['Travel', 'Rail Travel', 'Logistics and Transportation Industry', 'Rail Travel', 'Rail Travel']",3
+623,seashore,"['Africa Travel', 'Beach Travel', 'Cruises', 'Europe Travel', 'North America Travel', 'Polar Travel', 'South America Travel']",3
+624,watering_hole,['Africa Travel'],3
+625,African elephant,['Africa Travel'],3
+626,desert/sand,"['Africa Travel', 'Beach Travel']",3
+627,African grey,['Africa Travel'],3
+628,Christmas music,"['Music and Audio', 'Holiday Shopping']",3
+629,Church bell,"['Religious Events', 'Religion & Spirituality']",3
+630,Clarinet,['Musical Instruments'],3
+631,Classical music,"['Concerts & Music Events', 'Music and Audio']",3
+632,temple/asia,['Asia Travel'],3
+633,umbrella,['Beach Travel'],3
+634,swimming_pool/outdoor,['Beach Travel'],3
+635,lagoon,['Beach Travel'],3
+636,beach,['Beach Travel'],3
+637,walking stick,['Camping'],3
+638,sleeping bag,['Camping'],3
+639,Tent,['Camping'],3
+640,campsite,"['Camping', 'Travel Accessories']",3
+641,paddlewheel,['Cruises'],3
+642,catamaran,['Cruises'],3
+643,Gondola,['Europe Travel'],3
+644,triumphal arch,['Europe Travel'],3
+645,European gallinule,['Europe Travel'],3
+646,gondola,['Europe Travel'],3
+647,four-poster,['Hotels and Motels'],3
+648,chalet,['Hotels and Motels'],3
+649,hotel/outdoor,['Hotels and Motels'],3
+650,hotel_room,['Hotels and Motels'],3
+651,motel,['Hotels and Motels'],3
+652,ski mask,['Polar Travel'],3
+653,tundra,['Polar Travel'],3
+654,dogsled,['Polar Travel'],3
+655,iceberg,['Polar Travel'],3
+656,steel arch bridge,['Rail Travel'],3
+657,viaduct,['Rail Travel'],3
+658,streetcar,['Rail Travel'],3
+659,railroad_track,"['Rail Travel', 'Logistics and Transportation Industry']",3
+660,steam locomotive,['Rail Travel'],3
+661,Country,"['North America Travel', 'South America Travel', 'Africa Travel', 'Europe Travel']",3
+662,megalith,['South America Travel'],3
+663,Alpaca,['South America Travel'],3
+664,backpack,['Travel Accessories'],3
+665,geyser,['Travel Locations'],3
+666,joystick,['Video Gaming'],3
+667,Human hand,['Family and Relationships'],3
+668,'groom',"['Family and Relationships', 'Wedding']",3
+669,'bridegroom',"['Family and Relationships', 'Wedding']",3
+670,Dance music,"['Concerts & Music Events', 'Music and Audio']",3
+671,'Life',"['Family and Relationships', 'Parenting', 'Single Life', 'Single Life', 'Education industry', 'Primary Education', 'Events and Attractions', 'Parks & Nature', 'Personal Celebrations & Life Events', 'Religious Events', 'Theater Venues and Events', 'Family and Relationships', 'Daycare and Pre-School', 'Single Life', 'Healthy Living', 'Pop Culture', 'Religion & Spirituality', 'Personal Celebrations & Life Events', 'Family and Relationships', 'Single Life', 'Home & Garden', 'Home Security', 'Education', 'Hobbies & Interests', 'Parenting', 'Parenting']",3
+672,'Family',"['Family and Relationships', 'Family and Relationships', 'Parenting', 'Parenting', 'Single Life', 'Single Life', 'Personal Celebrations & Life Events', 'Family and Relationships', 'Single Life', 'Home & Garden', 'Home Security', 'Family and Relationships', 'Single Life', 'Parenting', 'Parenting']",3
+673,'Relationship',"['Family and Relationships', 'Dating', 'Parenting', 'Parenting', 'Single Life', 'Single Life', 'Single Life', 'Family and Relationships', 'Single Life', 'Family and Relationships', 'Single Life', 'Family and Relationships', 'Single Life', 'Dating', 'Dating', 'Parenting', 'Parenting', 'Parenting']",3
+674,'Love',"['Dating', 'Parenting', 'Single Life', 'Family and Relationships', 'Single Life', 'Dating', 'Parenting']",3
+675,carrying baby,['Parenting'],3
+676,baby waking up,['Parenting'],3
+677,"Dental drill, dentist's drill","['Medical Health', 'Oral care']",3
+678,"Dishes, pots, and pans","['Food & Drink', 'Cooking', 'Desserts and Baking']",3
+679,'People',"['Single Life', 'Pop Culture', 'Education industry', 'Primary Education', 'Events and Attractions', 'Parks & Nature', 'Personal Celebrations & Life Events', 'Religious Events', 'Theater Venues and Events', 'Family and Relationships', 'Daycare and Pre-School', 'Single Life', 'Healthy Living', 'Pop Culture', 'Religion & Spirituality', 'Personal Celebrations & Life Events', 'Family and Relationships', 'Single Life', 'Dining Out', 'Healthy Living', 'Books and Literature', 'Education industry', 'Fashion Events', 'Religious Events', 'Family and Relationships', 'World Cuisines', 'Pop Culture', 'Religion & Spirituality', 'South America Travel', 'Education', 'Hobbies & Interests', 'Parenting', 'Religion & Spirituality']",3
+680,Banana,['Healthy Living'],3
+681,tennis ball,['Healthy Living'],3
+682,strawberry,['Healthy Living'],3
+683,massaging person's head,['Healthy Living'],3
+684,riding or walking with horse,"['Healthy Living', 'Large Animals']",3
+685,exercising arm,"['Healthy Living', 'Fitness and Exercise']",3
+686,yoga,"['Healthy Living', 'Fitness and Exercise', 'Wellness']",3
+687,exercising with an exercise ball,"['Healthy Living', 'Fitness and Exercise']",3
+688,Carrot,['Healthy Living'],3
+689,Orange,['Healthy Living'],3
+690,pill bottle,['Medical Health'],3
+691,operating_room,['Medical Health'],3
+692,oxygen mask,['Medical Health'],3
+693,Ambulance,['Medical Health'],3
+694,'medicine chest',['Medical Health'],3
+695,'medicine cabinet',['Medical Health'],3
+696,Medical equipment,['Medical Health'],3
+697,hospital_room,['Medical Health'],3
+698,hospital,['Medical Health'],3
+699,'television',"['Movies', 'Entertainment Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Smart Home', 'Music and Audio', 'Consumer Electronics', 'Television', 'Video Gaming']",3
+700,'television system',"['Movies', 'Entertainment Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Smart Home', 'Music and Audio', 'Consumer Electronics', 'Television', 'Video Gaming']",3
+701,'Entertainment',"['Movies', 'Entertainment Industry', 'Media Industry', 'Awards Shows', 'Cinemas and Events', 'Comedy Events', 'Movies', 'Pop Culture', 'Television']",3
+702,'Showbiz',"['Movies', 'Entertainment Industry', 'Media Industry', 'Awards Shows', 'Cinemas and Events', 'Comedy Events', 'Movies', 'Pop Culture', 'Television']",3
+703,'Film',"['Movies', 'Entertainment Industry', 'Media Industry', 'Awards Shows', 'Cinemas and Events', 'Comedy Events', 'Movies', 'Pop Culture', 'Television']",3
+704,'home theater',"['Movies', 'Home Entertaining', 'Music and Audio', 'Houses', 'Television', 'Video Gaming', 'Sports', 'Video Gaming', 'Sports']",3
+705,'home theatre',"['Movies', 'Home Entertaining', 'Music and Audio', 'Houses', 'Television', 'Video Gaming', 'Sports', 'Video Gaming', 'Sports']",3
+706,'theater curtain',"['Movies', 'Theater Venues and Events', 'Cinemas and Events']",3
+707,'theatre curtain',"['Movies', 'Theater Venues and Events', 'Cinemas and Events']",3
+708,'cinema',"['Movies', 'Entertainment Industry', 'Theater Venues and Events', 'Cinemas and Events', 'Comedy Events', 'Music and Audio']",3
+709,'movie theater',"['Movies', 'Entertainment Industry', 'Theater Venues and Events', 'Cinemas and Events', 'Comedy Events', 'Music and Audio']",3
+710,'movie theatre',"['Movies', 'Entertainment Industry', 'Theater Venues and Events', 'Cinemas and Events', 'Comedy Events', 'Music and Audio']",3
+711,'movie house',"['Movies', 'Entertainment Industry', 'Theater Venues and Events', 'Cinemas and Events', 'Comedy Events', 'Music and Audio']",3
+712,'picture palace',"['Movies', 'Entertainment Industry', 'Theater Venues and Events', 'Cinemas and Events', 'Comedy Events', 'Music and Audio']",3
+713,'Race',"['Pop Culture', 'Books and Literature', 'Education industry', 'Fashion Events', 'Religious Events', 'Family and Relationships', 'World Cuisines', 'Pop Culture', 'Religion & Spirituality', 'South America Travel']",3
+714,'Culture',"['Pop Culture', 'Books and Literature', 'Education industry', 'Fashion Events', 'Religious Events', 'Family and Relationships', 'World Cuisines', 'Pop Culture', 'Religion & Spirituality', 'South America Travel']",3
+715,"Domestic animals, pets","['Pets', 'Birds', 'Cats', 'Dogs', 'Large Animals', 'Reptiles']",3
+716,stadium/soccer,['Sports'],3
+717,racket,['Sports'],3
+718,Baseball bat,['Sports'],3
+719,Football helmet,['Sports'],3
+720,soccer ball,['Sports'],3
+721,ski,['Sports'],3
+722,'ski',"['Sports', 'Outdoor Activities', 'Travel Accessories', 'Travel']",3
+723,football helmet,['Sports'],3
+724,'football helmet',"['Sports', ""Men's Clothing""]",3
+725,ballplayer,['Sports'],3
+726,rugby ball,['Sports'],3
+727,Tennis racket,"['Sports', 'Sports']",3
+728,'paddle',"['Sports', 'Outdoor Activities']",3
+729,'boat paddle',"['Sports', 'Outdoor Activities']",3
+730,'parallel bars',"['Sports', 'Fitness and Exercise']",3
+731,'bars',"['Sports', 'Fitness and Exercise']",3
+732,Sports uniform,"['Sports', ""Women's Clothing"", ""Men's Clothing""]",3
+733,hurling (sport),['Sports'],3
+734,athletic_field/outdoor,['Sports'],3
+735,'sports car',"['Sports', 'Automotive', 'Auto Body Styles', 'Convertible', 'Luxury Cars', 'Auto Type', 'Auto Shows', 'Auto Rentals', 'Automotive Industry', 'Travel']",3
+736,'sport car',"['Sports', 'Automotive', 'Auto Body Styles', 'Convertible', 'Luxury Cars', 'Auto Type', 'Auto Shows', 'Auto Rentals', 'Automotive Industry', 'Travel']",3
+737,scoreboard,['Sports'],3
+738,'Sports',"['Sports', 'Entertainment Industry', 'Outdoor Activities', 'Fitness and Exercise', 'Sports', 'Wellness']",3
+739,Shorts,"[""Men's Clothing"", ""Women's Clothing""]",3
+740,'sandal',"[""Men's Clothing"", ""Women's Shoes and Footwear"", 'Style & Fashion', ""Women's Clothing""]",3
+741,'running shoe',"[""Men's Clothing"", ""Women's Shoes and Footwear"", 'Style & Fashion', ""Women's Clothing""]",3
+742,'cardigan',"[""Men's Clothing"", 'Style & Fashion', ""Women's Clothing"", ""Women's Formal Wear"", ""Men's Formal Wear"", 'Shopping', 'Shopping']",3
+743,'jersey',"[""Men's Clothing"", 'Apparel Industry', ""Women's Clothing"", ""Men's Casual Wear""]",3
+744,'T-shirt',"[""Men's Clothing"", 'Apparel Industry', ""Women's Clothing"", ""Men's Casual Wear""]",3
+745,'tee shirt',"[""Men's Clothing"", 'Apparel Industry', ""Women's Clothing"", ""Men's Casual Wear""]",3
+746,'suit',"[""Men's Clothing"", 'Apparel Industry', 'Fashion Events', 'Style & Fashion', ""Women's Clothing"", ""Women's Formal Wear"", ""Men's Formal Wear"", 'Prom']",3
+747,'suit of clothes',"[""Men's Clothing"", 'Apparel Industry', 'Fashion Events', 'Style & Fashion', ""Women's Clothing"", ""Women's Formal Wear"", ""Men's Formal Wear"", 'Prom']",3
+748,sandal,"[""Women's Shoes and Footwear""]",3
+749,'Fashion',"[""Women's Shoes and Footwear"", 'Entertainment Industry', 'Apparel Industry', 'Fashion Events', 'Pop Culture', 'Shopping', 'Style & Fashion', 'Beauty', 'Makeup and Accessories', ""Women's Handbags and Wallets"", ""Women's Jewelry and Watches"", ""Women's Clothing"", ""Women's Formal Wear"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Casual Wear"", ""Men's Formal Wear""]",3
+750,'Lifestyle',"[""Women's Shoes and Footwear"", 'Entertainment Industry', 'Apparel Industry', 'Fashion Events', 'Pop Culture', 'Shopping', 'Style & Fashion', 'Beauty', 'Makeup and Accessories', ""Women's Handbags and Wallets"", ""Women's Jewelry and Watches"", ""Women's Clothing"", ""Women's Formal Wear"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Casual Wear"", ""Men's Formal Wear""]",3
+751,Sandal,"[""Women's Shoes and Footwear""]",3
+752,'Loafer',"[""Women's Shoes and Footwear""]",3
+753,'shoe shop',"[""Women's Shoes and Footwear"", 'Apparel Industry', 'Retail Industry', 'Malls & Shopping Centers', 'Retail Property', 'Shopping', 'Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear"", 'Travel Accessories']",3
+754,'shoe-shop',"[""Women's Shoes and Footwear"", 'Apparel Industry', 'Retail Industry', 'Malls & Shopping Centers', 'Retail Property', 'Shopping', 'Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear"", 'Travel Accessories']",3
+755,'shoe store',"[""Women's Shoes and Footwear"", 'Apparel Industry', 'Retail Industry', 'Malls & Shopping Centers', 'Retail Property', 'Shopping', 'Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear"", 'Travel Accessories']",3
+756,High heels,"[""Women's Shoes and Footwear""]",3
+757,outdoor,"['Landscaping', 'Beach Travel', 'Flower Shopping', 'Camping', 'Outdoor Activities', 'Barbecues and Grilling', 'Cooking', 'Home & Garden', 'Outdoor Activities', 'Shopping', 'Travel Locations', 'Outdoor Activities', 'Outdoor Activities', 'Bars & Restaurants', 'Dining Out', 'Travel Locations', 'Outdoor Activities', 'Sports', 'Outdoor Activities', 'North America Travel', 'South America Travel', 'Outdoor Activities', 'Pets', 'Dogs', 'Events and Attractions', 'Outdoor Activities', 'Events and Attractions', 'Outdoor Activities', 'Home & Garden', 'Landscaping', 'Theater Venues and Events', 'Landscaping', 'Outdoor Activities']",3
+758,arcade,['Games and Puzzles'],3
+759,hockey,['Sports'],3
+760,performance,"['Theater Venues and Events', 'Concerts & Music Events']",3
+761,shop,['Holiday Shopping'],3
+762,baseball_field,['Sports'],3
+763,indoor,"['Sports', 'Religious Events', 'Shopping', 'Flower Shopping', 'Shopping', 'Household Supplies', 'Gardening', 'Cinemas and Events', 'Movies', 'Events and Attractions', 'Malls & Shopping Centers', 'Shopping', 'Fitness and Exercise']",3
+764,bedroom,['Apartments'],3
+765,building_facade,"['Remodeling & Construction', 'Houses']",3
+766,canyon,['North America Travel'],3
+767,childs_room,"[""Children's Games and Toys""]",3
+768,clean_room,"['Healthy Living', 'Home & Garden']",3
+769,coast,['Beach Travel'],3
+770,conference_room,['Office Property'],3
+771,cottage,"['Home & Garden', 'Houses']",3
+772,fastfood_restaurant,"['Bars & Restaurants', 'Dining Out']",3
+773,food_court,"['Food & Drink', 'Cooking', 'Desserts and Baking', 'Dining Out']",3
+774,football_field,['Sports'],3
+775,exterior,['Landscaping'],3
+776,golf_course,['Sports'],3
+777,industrial_area,['Logistics and Transportation Industry'],3
+778,kitchen,"['Cooking', 'Desserts and Baking', 'Home Appliances']",3
+779,mansion,['Houses'],3
+780,manufactured_home,['Houses'],3
+781,mountain,['North America Travel'],3
+782,mountain_path,"['North America Travel', 'South America Travel']",3
+783,nursery,['Daycare and Pre-School'],3
+784,orchestra_pit,['Concerts & Music Events'],3
+785,parking_lot,['Malls & Shopping Centers'],3
+786,pet_shop,"['Pets', 'Large Animals']",3
+787,picnic_area,"['Outdoor Activities', 'Parks & Nature']",3
+788,recreation_room,"['Healthy Living', 'Wellness']",3
+789,residential_neighborhood,['Landscaping'],3
+790,sauna,"['Bath and Shower', 'Wellness']",3
+791,soccer_field,['Sports'],3
+792,baseball,['Sports'],3
+793,football,['Sports'],3
+794,platform,"['Rail Travel', 'Logistics and Transportation Industry', 'Rail Travel']",3
+795,tree_house,"['Home & Garden', 'Home Improvement']",3
+796,village,['Land and Farms'],3
+797,yard,"['Home & Garden', 'Landscaping']",3
+798,zen_garden,['Landscaping'],3
+799,Drum,"['Musical Instruments', 'Musical Instruments']",3
+800,Drum and bass,['Music and Audio'],3
+801,Duck,"['Birds', 'Birds']",3
+802,Electric guitar,"['Musical Instruments', 'Music and Audio']",3
+803,Electric piano,"['Musical Instruments', 'Music and Audio']",3
+804,"Electric shaver, electric razor",['Shaving'],3
+805,Electronic dance music,"['Entertainment Industry', 'Concerts & Music Events', 'Music and Audio']",3
+806,Electronic music,"['Entertainment Industry', 'Concerts & Music Events', 'Music and Audio']",3
+807,Electronic organ,"['Musical Instruments', 'Music and Audio']",3
+808,Electronic tuner,"['Music and Audio', 'Consumer Electronics']",3
+809,Emergency vehicle,"['Logistics and Transportation Industry', 'Medical Health']",3
+810,Engine,['Auto Parts'],3
+811,Engine knocking,"['Auto Parts', 'Auto Repair']",3
+812,Engine starting,"['Auto Parts', 'Auto Rentals']",3
+813,Environmental noise,['Logistics and Transportation Industry'],3
+814,Exciting music,"['Entertainment Industry', 'Cinemas and Events', 'Concerts & Music Events', 'Theater Venues and Events', 'Music and Audio']",3
+815,Fire alarm,['Home Security'],3
+816,"Fixed-wing aircraft, airplane","['Aviation Industry', 'Air Travel']",3
+817,Flute,"['Musical Instruments', 'Musical Instruments']",3
+818,Folk music,"['Concerts & Music Events', 'Music and Audio']",3
+819,Fowl,['Birds'],3
+820,Frying (food),"['Food & Drink', 'Cooking']",3
+821,Funny music,"['Comedy Events', 'Music and Audio']",3
+822,Gospel music,"['Concerts & Music Events', 'Music and Audio', 'Religion & Spirituality']",3
+823,Happy music,['Music and Audio'],3
+824,Harmonica,"['Musical Instruments', 'Musical Instruments']",3
+825,Harp,"['Musical Instruments', 'Musical Instruments']",3
+826,Hip hop music,"['Concerts & Music Events', 'Music and Audio']",3
+827,House music,['Music and Audio'],3
+828,"Ice cream truck, ice cream van","['Food & Drink', 'Desserts and Baking']",3
+829,Independent music,"['Concerts & Music Events', 'Music and Audio']",3
+830,"Inside, large room or hall","['Events and Attractions', 'Casinos & Gambling', 'Hotel Properties', 'Hotels and Motels']",3
+831,"Inside, public space","['Events and Attractions', 'Malls & Shopping Centers', 'Museums & Galleries', 'Real Estate', 'Office Property', 'Retail Property']",3
+832,Jazz,"['Concerts & Music Events', 'Musical Instruments', 'Music and Audio', 'Pop Culture']",3
+833,Jingle (music),['Music and Audio'],3
+834,Keyboard (musical),"['Musical Instruments', 'Music and Audio']",3
+835,Lawn mower,['Landscaping'],3
+836,"Livestock, farm animals, working animals",['Large Animals'],3
+837,Mallet percussion,['Musical Instruments'],3
+838,"Marimba, xylophone",['Musical Instruments'],3
+839,Microwave oven,"['Desserts and Baking', 'Home Appliances', 'Home Appliances']",3
+840,Middle Eastern music,['Music and Audio'],3
+841,Motor vehicle (road),"['Auto Body Styles', 'Commercial Trucks', 'Pickup Trucks', 'Auto Parts', 'Auto Repair', 'Auto Shows', 'Auto Type', 'Green Vehicles', 'Luxury Cars', 'Road-Side Assistance', 'Automotive Industry']",3
+842,Motorcycle,['Motorcycles'],3
+843,Music,"['Theater Venues and Events', 'Music and Audio']",3
+844,Music for children,"['Music and Audio', ""Children's Games and Toys""]",3
+845,Music of Africa,"['Concerts & Music Events', 'Music and Audio']",3
+846,Music of Asia,['Music and Audio'],3
+847,Music of Bollywood,"['Movies', 'Music and Audio']",3
+848,Music of Latin America,['Music and Audio'],3
+849,New-age music,['Music and Audio'],3
+850,Opera,"['Media Industry', 'Cinemas and Events']",3
+851,Orchestra,['Media Industry'],3
+852,Organ,"['Musical Instruments', 'Musical Instruments']",3
+853,"Outside, rural or natural","['Outdoor Activities', 'Large Animals', 'Land and Farms']",3
+854,"Outside, urban or manmade","['Green Vehicles', 'Events and Attractions', 'Parks & Nature']",3
+855,Percussion,['Musical Instruments'],3
+856,Piano,"['Musical Instruments', 'Music and Audio', 'Musical Instruments', 'Music and Audio']",3
+857,"Pigeon, dove",['Birds'],3
+858,Plucked string instrument,['Musical Instruments'],3
+859,Pop music,"['Concerts & Music Events', 'Music and Audio']",3
+860,"Power windows, electric windows",['Green Vehicles'],3
+861,Progressive rock,"['Music and Audio', 'Pop Culture']",3
+862,Psychedelic rock,['Pop Culture'],3
+863,Punk rock,['Pop Culture'],3
+864,"Race car, auto racing","['Automotive', 'Luxury Cars', 'Road-Side Assistance', 'Sports']",3
+865,Radio,['Music and Audio'],3
+866,Rail transport,"['Logistics and Transportation Industry', 'Rail Travel']",3
+867,"Railroad car, train wagon","['Logistics and Transportation Industry', 'Rail Travel']",3
+868,Rattle (instrument),['Musical Instruments'],3
+869,Reggae,['Pop Culture'],3
+870,Rhythm and blues,"['Music and Audio', 'Pop Culture']",3
+871,"Roaring cats (lions, tigers)","['Zoos & Aquariums', 'Cats', 'Large Animals']",3
+872,Rock and roll,"['Music and Audio', 'Pop Culture']",3
+873,Rock music,['Music and Audio'],3
+874,Sad music,['Music and Audio'],3
+875,Saxophone,"['Musical Instruments', 'Musical Instruments']",3
+876,Scary music,['Music and Audio'],3
+877,Ship,['Cruises'],3
+878,Single-lens reflex camera,['Cameras and Camcorders'],3
+879,Song,['Music and Audio'],3
+880,Soul music,"['Concerts & Music Events', 'Music and Audio']",3
+881,Soundtrack music,['Music and Audio'],3
+882,Speech synthesizer,['Music and Audio'],3
+883,"Steel guitar, slide guitar","['Musical Instruments', 'Music and Audio']",3
+884,"Subway, metro, underground",['Rail Travel'],3
+885,Swing music,['Music and Audio'],3
+886,Tapping (guitar technique),"['Musical Instruments', 'Music and Audio']",3
+887,Tender music,['Music and Audio'],3
+888,Theme music,"['Theater Venues and Events', 'Music and Audio']",3
+889,Tools,['Technology Industry'],3
+890,Traditional music,"['Theater Venues and Events', 'Music and Audio']",3
+891,Train whistle,"['Travel', 'Rail Travel']",3
+892,Trance music,"['Concerts & Music Events', 'Music and Audio']",3
+893,Turkey,"['Cooking', 'Cooking']",3
+894,"Vehicle horn, car horn, honking","['Pickup Trucks', 'Auto Parts', 'Green Vehicles', 'Luxury Cars']",3
+895,Video game music,"['Music and Audio', 'Video Gaming']",3
+896,giving or receiving award,"['Business and Finance', 'Primary Education', 'Awards Shows', 'Personal Celebrations & Life Events', 'Graduation']",3
+897,playing poker,"['Casinos & Gambling', 'Games and Puzzles', 'Card Games']",3
+898,driving car,"['Automotive', 'Station Wagon', 'Minivan', 'Pickup Trucks', 'Green Vehicles', 'Luxury Cars', 'Road-Side Assistance', 'Auto Rentals', 'Coupe', 'Sedan']",3
+899,playing clarinet,['Musical Instruments'],3
+900,playing cricket,['Sports'],3
+901,dining,"['Bars & Restaurants', 'Dining Out']",3
+902,reading book,['Books and Literature'],3
+903,playing ice hockey,['Sports'],3
+904,tasting beer,['Alcoholic Beverages'],3
+905,motorcycling,['Motorcycles'],3
+906,celebrating,"['Personal Celebrations & Life Events', 'Birthday', 'Graduation']",3
+907,tasting food,"['Food Industry', 'Bars & Restaurants', 'Dining Out']",3
+908,trimming or shaving beard,"['Hair Care', 'Shaving']",3
+909,playing harmonica,['Musical Instruments'],3
+910,playing cymbals,['Musical Instruments'],3
+911,washing feet,['Bath and Shower'],3
+912,shaving head,['Shaving'],3
+913,recording music,['Music and Audio'],3
+914,playing saxophone,['Musical Instruments'],3
+915,passing American football (in game),['Sports'],3
+916,using computer,"['Smart Home', 'Home Security', 'Technology & Computing', 'Laptops', 'Consumer Electronics', 'Desktops']",3
+917,golf putting,['Sports'],3
+918,writing,['Books and Literature'],3
+919,barbequing,['Barbecues and Grilling'],3
+920,playing accordion,['Musical Instruments'],3
+921,playing organ,['Musical Instruments'],3
+922,taking a shower,"['Healthy Living', 'Bath and Shower']",3
+923,dying hair,"['Beauty', 'Hair Care']",3
+924,grooming horse,['Pets'],3
+925,playing volleyball,['Sports'],3
+926,assembling computer,"['Technology & Computing', 'Laptops', 'Consumer Electronics', 'Desktops']",3
+927,playing tennis,['Sports'],3
+928,jogging,['Fitness and Exercise'],3
+929,riding elephant,['Large Animals'],3
+930,playing violin,"['Musical Instruments', 'Music and Audio']",3
+931,playing keyboard,"['Musical Instruments', 'Music and Audio']",3
+932,applying cream,['Shaving'],3
+933,arranging flowers,"['Wedding', 'Flower Shopping']",3
+934,playing ukulele,['Musical Instruments'],3
+935,playing chess,"['Games and Puzzles', 'Board Games and Puzzles']",3
+936,catching or throwing baseball,['Sports'],3
+937,playing bagpipes,['Musical Instruments'],3
+938,playing harp,['Musical Instruments'],3
+939,golf driving,['Sports'],3
+940,counting money,"['Business and Finance', 'Casinos & Gambling']",3
+941,playing guitar,"['Musical Instruments', 'Music and Audio']",3
+942,unloading truck,"['Commercial Trucks', 'Pickup Trucks']",3
+943,hitting baseball,['Sports'],3
+944,waxing legs,"['Hair Care', 'Shaving']",3
+945,trimming trees,['Landscaping'],3
+946,curling hair,"['Hair Care', 'Beauty']",3
+947,playing drums,"['Musical Instruments', 'Music and Audio']",3
+948,playing trombone,['Musical Instruments'],3
+949,playing trumpet,['Musical Instruments'],3
+950,grooming dog,"['Pets', 'Dogs']",3
+951,making bed,['Home Improvement'],3
+952,playing xylophone,['Musical Instruments'],3
+953,walking the dog,"['Pets', 'Dogs']",3
+954,playing cards,"['Games and Puzzles', 'Card Games']",3
+955,sled dog racing,['Dogs'],3
+956,tapping guitar,"['Musical Instruments', 'Music and Audio']",3
+957,mowing lawn,['Landscaping'],3
+958,country line dancing,"['Events and Attractions', 'Music and Audio']",3
+959,playing monopoly,"['Games and Puzzles', 'Board Games and Puzzles']",3
+960,baking cookies,"['Cooking', 'Desserts and Baking']",3
+961,playing squash or racquetball,['Fitness and Exercise'],3
+962,biking through snow,"['Outdoor Activities', 'Travel']",3
+963,blowing glass,['Fine Art'],3
+964,playing cello,['Musical Instruments'],3
+965,playing flute,['Musical Instruments'],3
+966,canoeing or kayaking,['Outdoor Activities'],3
+967,building shed,"['Home & Garden', 'Remodeling & Construction', 'Home Improvement', 'Land and Farms']",3
+968,eating burger,"['Food & Drink', 'Cooking']",3
+969,playing bass guitar,"['Musical Instruments', 'Music and Audio']",3
+970,playing basketball,['Sports'],3
+971,playing piano,"['Musical Instruments', 'Music and Audio']",3
+972,juggling soccer ball,['Sports'],3
+973,building cabinet,"['Remodeling & Construction', 'Home Improvement']",3
+974,playing controller,['Video Gaming'],3
+975,waxing chest,"['Hair Care', 'Shaving']",3
+976,watering plants,['Gardening'],3
+977,strumming guitar,['Musical Instruments'],3
+978,braiding hair,['Hair Care'],3
+979,brush painting,['Fine Art'],3
+980,eating hotdog,"['Food & Drink', 'Cooking']",3
+981,passing American football (not in game),['Sports'],3
+982,moving furniture,['Logistics and Transportation Industry'],3
+983,playing recorder,"['Musical Instruments', 'Music and Audio']",3
+984,training dog,"['Pets', 'Dogs']",3
+985,brushing hair,['Hair Care'],3
+986,clay pottery making,['Fine Art'],3
+987,cleaning floor,['Home & Garden'],3
+988,feeding birds,['Birds'],3
+989,cooking on campfire,"['Outdoor Activities', 'Cooking', 'Camping']",3
+990,drawing,['Fine Art'],3
+991,drinking beer,"['Food & Drink', 'Alcoholic Beverages']",3
+992,waxing back,"['Hair Care', 'Shaving']",3
+993,cleaning pool,['Outdoor Activities'],3
+994,tossing salad,['Cooking'],3
+995,surfing water,"['Outdoor Activities', 'Beach Travel']",3
+996,changing wheel,['Auto Parts'],3
+997,dribbling basketball,['Sports'],3
+998,making pizza,"['Food & Drink', 'Cooking']",3
+999,doing nails,['Nail Care'],3
+1000,shooting basketball,['Sports'],3
+1001,cutting nails,['Nail Care'],3
+1002,cooking chicken,"['Food & Drink', 'Cooking']",3
+1003,running on treadmill,['Fitness and Exercise'],3
+1004,feeding goats,['Large Animals'],3
+1005,waxing eyebrows,"['Hair Care', 'Shaving']",3
+1006,eating watermelon,"['Food & Drink', 'Healthy Living']",3
+1007,cooking egg,"['Food & Drink', 'Cooking']",3
+1008,eating doughnuts,"['Food & Drink', 'Desserts and Baking']",3
+1009,hockey stop,['Sports'],3
+1010,making tea,"['Food & Drink', 'Non-Alcoholic Beverages']",3
+1011,eating chips,['Food & Drink'],3
+1012,snatch weight lifting,['Fitness and Exercise'],3
+1013,eating cake,"['Birthday', 'Food & Drink', 'Desserts and Baking']",3
+1014,grinding meat,['Cooking'],3
+1015,getting a haircut,['Hair Care'],3
+1016,petting cat,"['Pets', 'Cats']",3
+1017,water skiing,"['Outdoor Activities', 'Beach Travel']",3
+1018,Person,['Healthy Living'],3
+1019,Baseball glove,"['Sports', 'Sports']",3
+1020,Pizza,"['Food & Drink', 'Cooking', 'Cooking']",3
+1021,'Politics',"['Education industry', 'Education', 'Business and Finance', 'Education industry', 'Media Industry', 'Telecommunications Industry', 'Education', 'College Education', 'Religious Events', 'Pop Culture', 'Religion & Spirituality', 'Hobbies & Interests', 'Science']",3
+1022,'World',"['Hospitality Industry', 'Events and Attractions', 'World Cuisines', 'Holiday Shopping', 'Travel', 'Travel Accessories', 'Travel Locations', 'Hotels and Motels']",3
+1023,'International',"['Hospitality Industry', 'Events and Attractions', 'World Cuisines', 'Holiday Shopping', 'Travel', 'Travel Accessories', 'Travel Locations', 'Hotels and Motels', 'Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Food Industry', 'Healthcare Industry', 'Hospitality Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Medical Health', 'Travel', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'South America Travel', 'Air Travel', 'Business and Finance', 'Education industry', 'Media Industry', 'Telecommunications Industry', 'Education', 'College Education', 'Religious Events', 'Pop Culture', 'Religion & Spirituality', 'Television']",3
+1024,'Holiday',"['Hospitality Industry', 'Events and Attractions', 'World Cuisines', 'Holiday Shopping', 'Travel', 'Travel Accessories', 'Travel Locations', 'Hotels and Motels']",3
+1025,'Vacation',"['Hospitality Industry', 'Events and Attractions', 'World Cuisines', 'Holiday Shopping', 'Travel', 'Travel Accessories', 'Travel Locations', 'Hotels and Motels']",3
+1026,'Business',"['Business and Finance', 'Entertainment Industry', 'Financial Industry', 'Food Industry', 'Hospitality Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Apparel Industry', 'Retail Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Real Estate', 'Business and Finance', 'Entertainment Industry', 'Financial Industry', 'Food Industry', 'Healthcare Industry', 'Hospitality Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Apparel Industry', 'Retail Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Education', 'Home Improvement', 'Home Security', 'Real Estate', 'Retail Property', 'Technology & Computing', 'Consumer Electronics', 'Education', 'Travel', 'Education', 'Travel']",3
+1027,'Economy',"['Business and Finance', 'Entertainment Industry', 'Financial Industry', 'Food Industry', 'Hospitality Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Apparel Industry', 'Retail Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Real Estate', 'Business and Finance', 'Entertainment Industry', 'Financial Industry', 'Food Industry', 'Healthcare Industry', 'Hospitality Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Apparel Industry', 'Retail Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Education', 'Home Improvement', 'Home Security', 'Real Estate', 'Retail Property', 'Technology & Computing', 'Consumer Electronics', 'Education', 'Travel', 'Education', 'Travel']",3
+1028,'News',"['Entertainment Industry', 'Media Industry', 'Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Food Industry', 'Healthcare Industry', 'Hospitality Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Medical Health', 'Travel', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'South America Travel', 'Air Travel', 'Television']",3
+1029,'Health',"['Food Industry', 'Healthcare Industry', 'Healthy Living', 'Fitness and Exercise', 'Wellness', 'Medical Health', 'Oral care']",3
+1030,'Government',"['Business and Finance', 'Education industry', 'Financial Industry', 'Healthcare Industry', 'Logistics and Transportation Industry', 'Telecommunications Industry', 'Education', 'College Education', 'Primary Education', 'Medical Health']",3
+1031,'Policy',"['Business and Finance', 'Education industry', 'Financial Industry', 'Healthcare Industry', 'Logistics and Transportation Industry', 'Telecommunications Industry', 'Education', 'College Education', 'Primary Education', 'Medical Health']",3
+1032,'Automobile',"['Automotive', 'Auto Body Styles', 'Station Wagon', 'Pickup Trucks', 'Green Vehicles', 'Luxury Cars', 'Auto Type', 'Road-Side Assistance', 'Auto Parts', 'Auto Repair', 'Auto Rentals', 'Logistics and Transportation Industry', 'Automotive Industry']",3
+1033,'Road',"['Automotive', 'Auto Body Styles', 'Station Wagon', 'Pickup Trucks', 'Green Vehicles', 'Luxury Cars', 'Auto Type', 'Road-Side Assistance', 'Auto Parts', 'Auto Repair', 'Auto Rentals', 'Logistics and Transportation Industry', 'Automotive Industry']",3
+1034,'Literature',"['Books and Literature', 'Primary Education', 'Education']",3
+1035,'Pets',"['Pets', 'Cats', 'Dogs', 'Large Animals']",3
+1036,'Education',"['Books and Literature', 'Business and Finance', 'Education industry', 'Financial Industry', 'Healthcare Industry', 'Logistics and Transportation Industry', 'Technology Industry', 'Education', 'College Education', 'Primary Education', 'Daycare and Pre-School', 'Medical Health', 'Science', 'Graduation', 'Parenting']",3
+1037,'Shopping',"['Malls & Shopping Centers', 'Retail Property', 'Shopping', 'Flower Shopping', 'Grocery Shopping', 'Holiday Shopping']",3
+1038,'Living',"['Personal Celebrations & Life Events', 'Family and Relationships', 'Single Life', 'Dining Out', 'Healthy Living', 'Religion & Spirituality']",3
+1039,'Travel',"['Luxury Cars', 'Road-Side Assistance', 'Auto Rentals', 'Logistics and Transportation Industry', 'Aviation Industry', 'Travel', 'Travel Accessories', 'Travel Locations', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'Polar Travel', 'South America Travel', 'Hotels and Motels', 'Rail Travel', 'Air Travel', 'Beach Travel', 'Cruises']",3
+1040,'Transportation',"['Luxury Cars', 'Road-Side Assistance', 'Auto Rentals', 'Logistics and Transportation Industry', 'Aviation Industry', 'Travel', 'Travel Accessories', 'Travel Locations', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'Polar Travel', 'South America Travel', 'Hotels and Motels', 'Rail Travel', 'Air Travel', 'Beach Travel', 'Cruises']",3
+1041,'Home',"['Home & Garden', 'Smart Home', 'Home Appliances', 'Home Entertaining', 'Home Improvement', 'Home Security', 'Real Estate', 'Apartments', 'Retail Property', 'Houses', 'Land and Farms', 'Household Supplies']",3
+1042,'Residence',"['Home & Garden', 'Smart Home', 'Home Appliances', 'Home Entertaining', 'Home Improvement', 'Home Security', 'Real Estate', 'Apartments', 'Retail Property', 'Houses', 'Land and Farms', 'Household Supplies']",3
+1043,'Music',"['Theater Venues and Events', 'Concerts & Music Events', 'Musical Instruments', 'Music and Audio', 'Pop Culture']",3
+1044,'Technology',"['Education industry', 'Financial Industry', 'Healthcare Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Science', 'Technology & Computing', 'Consumer Electronics', 'Smartphones']",3
+1045,'Science',"['Education industry', 'Technology Industry', 'Education', 'College Education', 'Primary Education', 'Science', 'Space and Astronomy', 'Technology & Computing']",3
+1046,'Food',"['Food Industry', 'Bars & Restaurants', 'Food & Drink', 'World Cuisines', 'Cooking', 'Desserts and Baking', 'Dining Out', 'Grocery Shopping']",3
+1047,'Public',"['Education industry', 'Healthcare Industry', 'Logistics and Transportation Industry', 'Education', 'Primary Education', 'Religious Events', 'Theater Venues and Events']",3
+1048,Sea turtle,['Large Animals'],3
+1049,Football,['Sports'],3
+1050,Home appliance,['Home Appliances'],3
+1051,Boot,"[""Women's Shoes and Footwear""]",3
+1052,Limousine,['Luxury Cars'],3
+1053,Cheese,"['Food & Drink', 'Cooking']",3
+1054,Dairy,['Food Industry'],3
+1055,Shower,['Bath and Shower'],3
+1056,Volleyball,['Sports'],3
+1057,Slow cooker,['Cooking'],3
+1058,Personal care,"['Fitness and Exercise', 'Hair Care', 'Nail Care', 'Oral care']",3
+1059,Sun hat,"[""Men's Clothing""]",3
+1060,Tree house,"['Home & Garden', 'Home Improvement']",3
+1061,Gas stove,"['Cooking', 'Home Appliances']",3
+1062,Salt and pepper shakers,['Food & Drink'],3
+1063,Fruit,"['Food & Drink', 'Desserts and Baking']",3
+1064,Tart,['Desserts and Baking'],3
+1065,Human foot,"[""Women's Shoes and Footwear""]",3
+1066,Egg,['Desserts and Baking'],3
+1067,Mixing bowl,"['Cooking', 'Desserts and Baking']",3
+1068,Kitchen utensil,['Cooking'],3
+1069,Food processor,"['Food & Drink', 'Cooking']",3
+1070,Wood-burning stove,"['Cooking', 'Home Appliances']",3
+1071,Golf ball,['Sports'],3
+1072,Human head,['Hair Care'],3
+1073,Frying pan,['Cooking'],3
+1074,Milk,['Food & Drink'],3
+1075,Table tennis racket,['Sports'],3
+1076,Musical keyboard,['Musical Instruments'],3
+1077,Kitchen knife,['Cooking'],3
+1078,Tennis ball,['Sports'],3
+1079,Potato,['Cooking'],3
+1080,Pasta,['Cooking'],3
+1081,Seafood,"['Food & Drink', 'World Cuisines']",3
+1082,Cooking spray,"['Cooking', 'Desserts and Baking']",3
+1083,Bowling equipment,['Sports'],3
+1084,Wok,['Cooking'],3
+1085,Bread,"['Food & Drink', 'Cooking', 'Desserts and Baking']",3
+1086,Chicken,['Cooking'],3
+1087,Deer,['Large Animals'],3
+1088,Furniture,['Home & Garden'],3
+1089,Ice cream,"['Food & Drink', 'Desserts and Baking']",3
+1090,Vegetable,['Cooking'],3
+1091,Sea lion,"['Large Animals', 'Polar Travel']",3
+1092,Watch,"[""Women's Jewelry and Watches""]",3
+1093,Salad,"['Food & Drink', 'Cooking']",3
+1094,Cat furniture,"['Pets', 'Cats']",3
+1095,Bathroom accessory,['Bath and Shower'],3
+1096,Pressure cooker,['Cooking'],3
+1097,Pastry,"['Cooking', 'Desserts and Baking']",3
+1098,Rugby ball,['Sports'],3
+1099,'cock',"['Birds', 'Home & Garden', 'Healthy Living', 'Home & Garden', 'Healthy Living']",3
+1100,'house finch',['Birds'],3
+1101,'linnet',['Birds'],3
+1102,'Carpodacus mexicanus',['Birds'],3
+1103,'common iguana',['Reptiles'],3
+1104,'iguana',['Reptiles'],3
+1105,'Iguana iguana',['Reptiles'],3
+1106,'American chameleon',['Reptiles'],3
+1107,'anole',['Reptiles'],3
+1108,'Anolis carolinensis',['Reptiles'],3
+1109,'frilled lizard',['Reptiles'],3
+1110,'Chlamydosaurus kingi',['Reptiles'],3
+1111,'African chameleon',['Reptiles'],3
+1112,'Chamaeleo chamaeleon',['Reptiles'],3
+1113,'quail',['Birds'],3
+1114,'African grey',['Birds'],3
+1115,'African gray',['Birds'],3
+1116,'Psittacus erithacus',['Birds'],3
+1117,'sulphur-crested cockatoo',['Birds'],3
+1118,'Kakatoe galerita',['Birds'],3
+1119,'Cacatua galerita',['Birds'],3
+1120,'goose',"['Birds', 'Large Animals', 'Food & Drink', 'Food & Drink']",3
+1121,'Japanese spaniel',"['Pets', 'Dogs']",3
+1122,'Maltese dog',"['Pets', 'Dogs']",3
+1123,'Maltese terrier',"['Pets', 'Dogs']",3
+1124,'Maltese',"['Pets', 'Dogs']",3
+1125,'Pekinese',['Dogs'],3
+1126,'Pekingese',['Dogs'],3
+1127,'Peke',['Dogs'],3
+1128,'Shih-Tzu',"['Pets', 'Dogs']",3
+1129,'Blenheim spaniel',['Dogs'],3
+1130,'papillon',"['Pets', 'Dogs']",3
+1131,'Rhodesian ridgeback',['Dogs'],3
+1132,'Afghan hound',['Dogs'],3
+1133,'Afghan',['Dogs'],3
+1134,'basset',['Dogs'],3
+1135,'basset hound',['Dogs'],3
+1136,'bloodhound',"['Pets', 'Dogs']",3
+1137,'sleuthhound',"['Pets', 'Dogs']",3
+1138,'bluetick',['Dogs'],3
+1139,'black-and-tan coonhound',['Dogs'],3
+1140,'Walker hound',['Dogs'],3
+1141,'Walker foxhound',['Dogs'],3
+1142,'English foxhound',['Dogs'],3
+1143,'redbone',['Dogs'],3
+1144,'borzoi',['Dogs'],3
+1145,'Russian wolfhound',['Dogs'],3
+1146,'Irish wolfhound',['Dogs'],3
+1147,'Italian greyhound',"['Pets', 'Dogs']",3
+1148,'whippet',['Dogs'],3
+1149,'otterhound',"['Pets', 'Dogs']",3
+1150,'otter hound',"['Pets', 'Dogs']",3
+1151,'Saluki',['Dogs'],3
+1152,'gazelle hound',['Dogs'],3
+1153,'Scottish deerhound',"['Pets', 'Dogs']",3
+1154,'deerhound',"['Pets', 'Dogs']",3
+1155,'Weimaraner',['Pets'],3
+1156,'Staffordshire bullterrier',['Dogs'],3
+1157,'Staffordshire bull terrier',['Dogs'],3
+1158,'American Staffordshire terrier',['Dogs'],3
+1159,'Staffordshire terrier',['Dogs'],3
+1160,'American pit bull terrier',['Dogs'],3
+1161,'pit bull terrier',['Dogs'],3
+1162,'Bedlington terrier',"['Pets', 'Dogs']",3
+1163,'Border terrier',"['Pets', 'Dogs']",3
+1164,'Kerry blue terrier',['Pets'],3
+1165,'Irish terrier',"['Pets', 'Dogs']",3
+1166,'Norfolk terrier',"['Pets', 'Dogs']",3
+1167,'Norwich terrier',"['Pets', 'Dogs']",3
+1168,'Yorkshire terrier',['Pets'],3
+1169,'wire-haired fox terrier',"['Pets', 'Dogs']",3
+1170,'Lakeland terrier',"['Pets', 'Dogs']",3
+1171,'Sealyham terrier',"['Pets', 'Dogs']",3
+1172,'Sealyham',"['Pets', 'Dogs']",3
+1173,'Airedale',['Dogs'],3
+1174,'Airedale terrier',['Dogs'],3
+1175,'cairn',['Dogs'],3
+1176,'cairn terrier',['Dogs'],3
+1177,'Australian terrier',"['Pets', 'Dogs']",3
+1178,'Dandie Dinmont',"['Pets', 'Dogs']",3
+1179,'Dandie Dinmont terrier',"['Pets', 'Dogs']",3
+1180,'Boston bull',"['Pets', 'Dogs']",3
+1181,'Boston terrier',"['Pets', 'Dogs']",3
+1182,'miniature schnauzer',"['Pets', 'Dogs']",3
+1183,'giant schnauzer',"['Pets', 'Dogs', 'Large Animals']",3
+1184,'standard schnauzer',"['Pets', 'Dogs']",3
+1185,'Scotch terrier',['Dogs'],3
+1186,'Scottish terrier',['Dogs'],3
+1187,'Scottie',['Dogs'],3
+1188,'Tibetan terrier',"['Pets', 'Dogs']",3
+1189,'chrysanthemum dog',"['Pets', 'Dogs']",3
+1190,'silky terrier',['Dogs'],3
+1191,'Sydney silky',['Dogs'],3
+1192,'soft-coated wheaten terrier',['Dogs'],3
+1193,'West Highland white terrier',['Dogs'],3
+1194,'Lhasa',['Dogs'],3
+1195,'Lhasa apso',['Dogs'],3
+1196,'flat-coated retriever',['Pets'],3
+1197,'curly-coated retriever',"['Pets', 'Dogs']",3
+1198,'golden retriever',"['Pets', 'Dogs']",3
+1199,'Labrador retriever',['Pets'],3
+1200,'Chesapeake Bay retriever',"['Pets', 'Dogs']",3
+1201,'German short-haired pointer',['Dogs'],3
+1202,'vizsla',['Dogs'],3
+1203,'Hungarian pointer',['Dogs'],3
+1204,'English setter',['Dogs'],3
+1205,'Irish setter',['Dogs'],3
+1206,'red setter',['Dogs'],3
+1207,'Gordon setter',['Dogs'],3
+1208,'Brittany spaniel',"['Pets', 'Dogs']",3
+1209,'clumber',['Dogs'],3
+1210,'clumber spaniel',['Dogs'],3
+1211,'English springer',['Dogs'],3
+1212,'English springer spaniel',['Dogs'],3
+1213,'Welsh springer spaniel',['Dogs'],3
+1214,'cocker spaniel',['Dogs'],3
+1215,'English cocker spaniel',['Dogs'],3
+1216,'cocker',['Dogs'],3
+1217,'Sussex spaniel',"['Pets', 'Dogs']",3
+1218,'Irish water spaniel',"['Pets', 'Dogs']",3
+1219,'kuvasz',['Large Animals'],3
+1220,'schipperke',['Dogs'],3
+1221,'malinois',"['Pets', 'Dogs']",3
+1222,'briard',['Dogs'],3
+1223,'komondor',['Dogs'],3
+1224,'Old English sheepdog',['Dogs'],3
+1225,'bobtail',['Dogs'],3
+1226,'Shetland sheepdog',['Dogs'],3
+1227,'Shetland sheep dog',['Dogs'],3
+1228,'Shetland',['Dogs'],3
+1229,'collie',"['Pets', 'Dogs']",3
+1230,'Border collie',['Pets'],3
+1231,'Rottweiler',"['Pets', 'Dogs']",3
+1232,'German shepherd',['Dogs'],3
+1233,'German shepherd dog',['Dogs'],3
+1234,'German police dog',['Dogs'],3
+1235,'alsatian',['Dogs'],3
+1236,'Doberman',['Dogs'],3
+1237,'Doberman pinscher',['Dogs'],3
+1238,'miniature pinscher',"['Pets', 'Dogs']",3
+1239,'Greater Swiss Mountain dog',"['Pets', 'Dogs', 'Large Animals']",3
+1240,'Bernese mountain dog',"['Pets', 'Dogs']",3
+1241,'Appenzeller',"['Large Animals', 'Food & Drink', 'Food & Drink']",3
+1242,'boxer',"['Pets', 'Dogs']",3
+1243,'bull mastiff',"['Pets', 'Dogs']",3
+1244,'Tibetan mastiff',['Dogs'],3
+1245,'French bulldog',['Dogs'],3
+1246,'Great Dane',"['Pets', 'Large Animals']",3
+1247,'Eskimo dog',"['Pets', 'Dogs']",3
+1248,'husky',"['Pets', 'Dogs']",3
+1249,'malamute',['Dogs'],3
+1250,'malemute',['Dogs'],3
+1251,'Alaskan malamute',['Dogs'],3
+1252,'Siberian husky',"['Pets', 'Dogs']",3
+1253,'dalmatian',"['Pets', 'Dogs', 'Large Animals']",3
+1254,'coach dog',"['Pets', 'Dogs', 'Large Animals']",3
+1255,'carriage dog',"['Pets', 'Dogs', 'Large Animals']",3
+1256,'affenpinscher',"['Pets', 'Dogs', 'Large Animals']",3
+1257,'monkey pinscher',"['Pets', 'Dogs', 'Large Animals']",3
+1258,'monkey dog',"['Pets', 'Dogs', 'Large Animals']",3
+1259,'basenji',"['Pets', 'Dogs']",3
+1260,'pug',"['Pets', 'Dogs']",3
+1261,'pug-dog',"['Pets', 'Dogs']",3
+1262,'Leonberg',['Large Animals'],3
+1263,'Newfoundland',"['Pets', 'Dogs']",3
+1264,'Newfoundland dog',"['Pets', 'Dogs']",3
+1265,'Great Pyrenees',"['Pets', 'Dogs']",3
+1266,'Samoyed',"['Pets', 'Dogs']",3
+1267,'Samoyede',"['Pets', 'Dogs']",3
+1268,'Pomeranian',['Pets'],3
+1269,'chow',['Dogs'],3
+1270,'chow chow',['Dogs'],3
+1271,'keeshond',"['Pets', 'Dogs']",3
+1272,'Brabancon griffon',"['Pets', 'Dogs']",3
+1273,'Pembroke',['Dogs'],3
+1274,'Pembroke Welsh corgi',['Dogs'],3
+1275,'miniature poodle',"['Pets', 'Dogs']",3
+1276,'standard poodle',['Pets'],3
+1277,'Mexican hairless',"['Pets', 'Dogs']",3
+1278,'tabby',"['Pets', 'Cats']",3
+1279,'tabby cat',"['Pets', 'Cats']",3
+1280,'tiger cat',['Cats'],3
+1281,'Persian cat',['Pets'],3
+1282,'Siamese cat',"['Pets', 'Cats']",3
+1283,'Siamese',"['Pets', 'Cats']",3
+1284,'Egyptian cat',"['Pets', 'Style & Fashion', 'Style & Fashion']",3
+1285,'tiger',['Cats'],3
+1286,'Panthera tigris',['Cats'],3
+1287,'ice bear',['Polar Travel'],3
+1288,'polar bear',['Polar Travel'],3
+1289,'Ursus Maritimus',['Polar Travel'],3
+1290,'Thalarctos maritimus',['Polar Travel'],3
+1291,'abacus',"['Technology Industry', 'Education', 'Education']",3
+1292,'abaya',"[""Women's Clothing"", ""Women's Formal Wear"", 'Shopping', 'Shopping']",3
+1293,'academic gown',"['Graduation', 'Events and Attractions', 'Education', 'Events and Attractions', 'Education']",3
+1294,'academic robe',"['Graduation', 'Events and Attractions', 'Education', 'Events and Attractions', 'Education']",3
+1295,"""judge's robe""","['Graduation', 'Events and Attractions', 'Education', 'Events and Attractions', 'Education']",3
+1296,'accordion',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1297,'piano accordion',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1298,'squeeze box',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1299,'acoustic guitar',['Music and Audio'],3
+1300,'ambulance',"['Commercial Trucks', 'Medical Health', 'Medical Health']",3
+1301,'backpack',"['Travel Accessories', 'Education', 'Education']",3
+1302,'back pack',"['Travel Accessories', 'Education', 'Education']",3
+1303,'knapsack',"['Travel Accessories', 'Education', 'Education']",3
+1304,'packsack',"['Travel Accessories', 'Education', 'Education']",3
+1305,'rucksack',"['Travel Accessories', 'Education', 'Education']",3
+1306,'haversack',"['Travel Accessories', 'Education', 'Education']",3
+1307,'bakery',['Desserts and Baking'],3
+1308,'bakeshop',['Desserts and Baking'],3
+1309,'bakehouse',['Desserts and Baking'],3
+1310,'balance beam',['Fitness and Exercise'],3
+1311,'beam',['Fitness and Exercise'],3
+1312,'balloon',"[""Children's Games and Toys"", 'Events and Attractions', 'Events and Attractions']",3
+1313,'Band Aid',['Medical Health'],3
+1314,'barbell',"['Sports', 'Healthy Living', 'Home & Garden', 'Healthy Living', 'Home & Garden']",3
+1315,'barometer',"['Technology Industry', 'Science', 'Science', 'Science']",3
+1316,'barrow',"['Home & Garden', 'Gardening', 'Landscaping']",3
+1317,'garden cart',"['Home & Garden', 'Gardening', 'Landscaping']",3
+1318,'lawn cart',"['Home & Garden', 'Gardening', 'Landscaping']",3
+1319,'wheelbarrow',"['Home & Garden', 'Gardening', 'Landscaping']",3
+1320,'baseball',"['Sports', 'Events and Attractions', 'Events and Attractions']",3
+1321,'basketball',"['Sports', 'Events and Attractions', 'Events and Attractions']",3
+1322,'bassoon',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1323,'bathtub',"['Home & Garden', 'Bath and Shower', 'Healthy Living', 'Medical Health', 'Healthy Living', 'Medical Health']",3
+1324,'bathing tub',"['Home & Garden', 'Bath and Shower', 'Healthy Living', 'Medical Health', 'Healthy Living', 'Medical Health']",3
+1325,'bath',"['Home & Garden', 'Bath and Shower', 'Healthy Living', 'Medical Health', 'Healthy Living', 'Medical Health']",3
+1326,'tub',"['Home & Garden', 'Bath and Shower', 'Bath and Shower', 'Healthy Living', 'Medical Health', 'Healthy Living', 'Medical Health']",3
+1327,'beach wagon',"['Station Wagon', 'Travel', 'Travel']",3
+1328,'station wagon',"['Station Wagon', 'Travel', 'Travel']",3
+1329,'wagon',"['Station Wagon', 'Travel', 'Travel']",3
+1330,'estate car',"['Station Wagon', 'Travel', 'Travel']",3
+1331,'beach waggon',"['Station Wagon', 'Travel', 'Travel']",3
+1332,'station waggon',"['Station Wagon', 'Travel', 'Travel']",3
+1333,'waggon',"['Station Wagon', 'Travel', 'Travel']",3
+1334,'beer bottle',"['Dining Out', 'Events and Attractions', 'Travel', 'Style & Fashion', 'Events and Attractions', 'Travel', 'Style & Fashion']",3
+1335,'beer glass',"['Bars & Restaurants', 'Dining Out', 'Style & Fashion', 'Shopping', 'Home & Garden', 'Style & Fashion', 'Shopping', 'Home & Garden']",3
+1336,'bikini',"['Style & Fashion', ""Women's Clothing"", 'Shopping', 'Shopping']",3
+1337,'two-piece',"['Style & Fashion', ""Women's Clothing"", 'Shopping', 'Shopping']",3
+1338,'birdhouse',['Home & Garden'],3
+1339,'bow tie',"[""Men's Formal Wear"", 'Events and Attractions', 'Business and Finance', 'Events and Attractions', 'Business and Finance']",3
+1340,'bow-tie',"[""Men's Formal Wear"", 'Events and Attractions', 'Business and Finance', 'Events and Attractions', 'Business and Finance']",3
+1341,'bowtie',"[""Men's Formal Wear"", 'Events and Attractions', 'Business and Finance', 'Events and Attractions', 'Business and Finance']",3
+1342,'bulletproof vest',"['Apparel Industry', 'Science', 'Technology & Computing', 'Science', 'Technology & Computing']",3
+1343,'bullet train',"['Rail Travel', 'Automotive', 'Automotive']",3
+1344,'bullet',"['Rail Travel', 'Automotive', 'Automotive']",3
+1345,'butcher shop',"['Food Industry', 'Retail Industry', 'Food & Drink', 'Cooking', 'Shopping', 'Grocery Shopping']",3
+1346,'meat market',"['Food Industry', 'Retail Industry', 'Food & Drink', 'Cooking', 'Shopping', 'Grocery Shopping']",3
+1347,'caldron',"['Cooking', 'Events and Attractions', 'Religion & Spirituality', 'Events and Attractions', 'Religion & Spirituality']",3
+1348,'cauldron',"['Cooking', 'Events and Attractions', 'Religion & Spirituality', 'Events and Attractions', 'Religion & Spirituality']",3
+1349,'car wheel',['Automotive'],3
+1350,'cassette',"['Media Industry', 'Music and Audio', 'Music and Audio', 'Movies', 'Pop Culture', 'Music and Audio', 'Movies', 'Pop Culture']",3
+1351,'cassette player',"['Music and Audio', 'Consumer Electronics']",3
+1352,'cello',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1353,'violoncello',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1354,'cellular telephone',"['Telecommunications Industry', 'Consumer Electronics', 'Smartphones', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming']",3
+1355,'cellular phone',"['Telecommunications Industry', 'Consumer Electronics', 'Smartphones', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming']",3
+1356,'cellphone',"['Telecommunications Industry', 'Consumer Electronics', 'Smartphones', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming']",3
+1357,'cell',"['Telecommunications Industry', 'Consumer Electronics', 'Smartphones', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming']",3
+1358,'mobile phone',"['Telecommunications Industry', 'Consumer Electronics', 'Smartphones', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming']",3
+1359,'chime',"['Musical Instruments', 'Music and Audio', 'Events and Attractions', 'Music and Audio', 'Events and Attractions']",3
+1360,'bell',"['Musical Instruments', 'Music and Audio', 'Events and Attractions', 'Music and Audio', 'Events and Attractions']",3
+1361,'gong',"['Musical Instruments', 'Music and Audio', 'Events and Attractions', 'Music and Audio', 'Events and Attractions']",3
+1362,'china cabinet',"['Home & Garden', 'Style & Fashion', 'Style & Fashion']",3
+1363,'china closet',"['Home & Garden', 'Style & Fashion', 'Style & Fashion']",3
+1364,'church',"['Religious Events', 'Religion & Spirituality', 'Religion & Spirituality']",3
+1365,'church building',"['Religious Events', 'Religion & Spirituality', 'Religion & Spirituality']",3
+1366,'cleaver',['Cooking'],3
+1367,'meat cleaver',['Cooking'],3
+1368,'chopper',['Cooking'],3
+1369,'cloak',"['Apparel Industry', 'Religion & Spirituality', 'Religion & Spirituality']",3
+1370,'cocktail shaker',['Cooking'],3
+1371,'coffee mug',"['Food & Drink', 'Shopping', 'Style & Fashion', 'Shopping', 'Style & Fashion']",3
+1372,'combination lock',"['Technology Industry', 'Consumer Electronics', 'Events and Attractions', 'Events and Attractions']",3
+1373,'computer keyboard',"['Technology & Computing', 'Laptops', 'Consumer Electronics', 'Desktops', 'Smartphones']",3
+1374,'keypad',"['Technology & Computing', 'Laptops', 'Consumer Electronics', 'Desktops', 'Smartphones']",3
+1375,'confectionery',"['Food Industry', 'Retail Industry', 'Desserts and Baking', 'Shopping', 'Holiday Shopping', 'Events and Attractions', 'Events and Attractions']",3
+1376,'confectionary',"['Food Industry', 'Retail Industry', 'Desserts and Baking', 'Shopping', 'Holiday Shopping', 'Events and Attractions', 'Events and Attractions']",3
+1377,'candy store',"['Food Industry', 'Retail Industry', 'Desserts and Baking', 'Shopping', 'Holiday Shopping', 'Events and Attractions', 'Events and Attractions']",3
+1378,'convertible',"['Auto Type', 'Travel', 'Travel']",3
+1379,'corkscrew',"['Cooking', 'Events and Attractions', 'Events and Attractions']",3
+1380,'bottle screw',"['Cooking', 'Events and Attractions', 'Events and Attractions']",3
+1381,'cornet',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1382,'horn',"['Musical Instruments', 'Musical Instruments', 'Music and Audio', 'Music and Audio', 'Music and Audio', 'Music and Audio']",3
+1383,'trumpet',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1384,'trump',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1385,'cowboy boot',['Style & Fashion'],3
+1386,'desktop computer',"['Technology Industry', 'Smart Home', 'Consumer Electronics', 'Movies', 'Education', 'Shopping', 'Television', 'Pop Culture', 'Movies', 'Education', 'Shopping', 'Television', 'Pop Culture']",3
+1387,'digital clock',"['Technology Industry', 'Pop Culture', 'Pop Culture']",3
+1388,'digital watch',"['Technology Industry', ""Women's Jewelry and Watches"", 'Technology & Computing', 'Smartphones', 'Education', 'Healthy Living', 'Science', 'Medical Health', 'Pop Culture', 'Education', 'Healthy Living', 'Science', 'Medical Health', 'Pop Culture']",3
+1389,'dishwasher',"['Home Appliances', 'Consumer Electronics', 'Food & Drink', 'Food & Drink']",3
+1390,'dish washer',"['Home Appliances', 'Consumer Electronics', 'Food & Drink', 'Food & Drink']",3
+1391,'dishwashing machine',"['Home Appliances', 'Consumer Electronics', 'Food & Drink', 'Food & Drink']",3
+1392,'disk brake',['Auto Parts'],3
+1393,'disc brake',['Auto Parts'],3
+1394,'drum',"['Musical Instruments', 'Music and Audio']",3
+1395,'membranophone',"['Musical Instruments', 'Music and Audio']",3
+1396,'tympan',"['Musical Instruments', 'Music and Audio']",3
+1397,'drumstick',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1398,'electric fan',"['Consumer Electronics', 'Home & Garden', 'Home & Garden']",3
+1399,'blower',"['Consumer Electronics', 'Home & Garden', 'Home & Garden']",3
+1400,'electric guitar',['Music and Audio'],3
+1401,'entertainment center',"['Shopping', 'Television', 'Video Gaming', 'Education', 'Video Gaming', 'Education']",3
+1402,'espresso maker',"['Food Industry', 'Food & Drink', 'Cooking', 'Home Appliances']",3
+1403,'fire engine',"['Commercial Trucks', 'Medical Health', 'Medical Health']",3
+1404,'fire truck',"['Commercial Trucks', 'Medical Health', 'Medical Health']",3
+1405,'flute',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1406,'transverse flute',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1407,'French horn',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1408,'frying pan',['Cooking'],3
+1409,'frypan',['Cooking'],3
+1410,'skillet',['Cooking'],3
+1411,'fur coat',"[""Women's Clothing"", ""Men's Clothing""]",3
+1412,'garbage truck',"['Commercial Trucks', 'Logistics and Transportation Industry']",3
+1413,'dustcart',"['Commercial Trucks', 'Logistics and Transportation Industry']",3
+1414,'goblet',"['Cooking', 'Style & Fashion', 'Style & Fashion']",3
+1415,'gown',"['Apparel Industry', 'Style & Fashion', ""Women's Clothing"", ""Women's Formal Wear""]",3
+1416,'grand piano',"['Musical Instruments', 'Music and Audio', 'Music and Audio', 'Music and Audio']",3
+1417,'grand',"['Musical Instruments', 'Music and Audio', 'Music and Audio', 'Music and Audio']",3
+1418,'greenhouse',"['Gardening', 'Landscaping']",3
+1419,'nursery',"['Gardening', 'Landscaping']",3
+1420,'glasshouse',"['Gardening', 'Landscaping']",3
+1421,'grille',"['Sedan', 'Coupe', 'Pickup Trucks', 'Auto Parts', 'Convertible']",3
+1422,'radiator grille',"['Sedan', 'Coupe', 'Pickup Trucks', 'Auto Parts', 'Convertible']",3
+1423,'grocery store',"['Business and Finance', 'Food Industry', 'Retail Industry', 'Food & Drink', 'Desserts and Baking', 'Retail Property', 'Shopping', 'Grocery Shopping', 'Household Supplies']",3
+1424,'grocery',"['Business and Finance', 'Food Industry', 'Retail Industry', 'Food & Drink', 'Desserts and Baking', 'Retail Property', 'Shopping', 'Grocery Shopping', 'Household Supplies']",3
+1425,'food market',"['Business and Finance', 'Food Industry', 'Retail Industry', 'Food & Drink', 'Desserts and Baking', 'Retail Property', 'Shopping', 'Grocery Shopping', 'Household Supplies']",3
+1426,'market',"['Business and Finance', 'Food Industry', 'Retail Industry', 'Food & Drink', 'Desserts and Baking', 'Retail Property', 'Shopping', 'Grocery Shopping', 'Household Supplies']",3
+1427,'hair slide',['Style & Fashion'],3
+1428,'hand blower',['Hair Care'],3
+1429,'blow dryer',['Hair Care'],3
+1430,'blow drier',['Hair Care'],3
+1431,'hair dryer',['Hair Care'],3
+1432,'hair drier',['Hair Care'],3
+1433,'hand-held computer',"['Technology Industry', 'Technology & Computing', 'Consumer Electronics', 'Tablets and E-readers']",3
+1434,'hand-held microcomputer',"['Technology Industry', 'Technology & Computing', 'Consumer Electronics', 'Tablets and E-readers']",3
+1435,'harmonica',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1436,'mouth organ',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1437,'harp',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1438,'mouth harp',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1439,'hoopskirt',"[""Women's Clothing""]",3
+1440,'crinoline',"[""Women's Clothing""]",3
+1441,'horizontal bar',"['Fitness and Exercise', 'Sports']",3
+1442,'high bar',"['Fitness and Exercise', 'Sports']",3
+1443,'hourglass',"['Technology Industry', 'Technology & Computing', 'Hobbies & Interests', 'Hobbies & Interests']",3
+1444,'iPod',"['Music and Audio', 'Technology & Computing', 'Movies', 'Pop Culture', 'Travel', 'Style & Fashion', 'Technology & Computing', 'Movies', 'Pop Culture', 'Travel', 'Style & Fashion']",3
+1445,'jean',"['Style & Fashion', ""Women's Handbags and Wallets"", ""Women's Clothing"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Casual Wear""]",3
+1446,'blue jean',"['Style & Fashion', ""Women's Handbags and Wallets"", ""Women's Clothing"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Casual Wear""]",3
+1447,'denim',"['Style & Fashion', ""Women's Handbags and Wallets"", ""Women's Clothing"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Casual Wear""]",3
+1448,'jeep',"['SUV', 'Pickup Trucks', 'Luxury Cars']",3
+1449,'landrover',"['SUV', 'Pickup Trucks', 'Luxury Cars']",3
+1450,'joystick',"['Consumer Electronics', 'Video Gaming', 'Video Gaming']",3
+1451,'kimono',"['Apparel Industry', 'Style & Fashion', ""Women's Clothing"", ""Women's Formal Wear""]",3
+1452,'lab coat',"[""Women's Clothing"", ""Women's Formal Wear"", ""Men's Clothing"", ""Men's Formal Wear""]",3
+1453,'laboratory coat',"[""Women's Clothing"", ""Women's Formal Wear"", ""Men's Clothing"", ""Men's Formal Wear""]",3
+1454,'laptop',"['Smart Home', 'Technology & Computing', 'Laptops', 'Consumer Electronics']",3
+1455,'laptop computer',"['Smart Home', 'Technology & Computing', 'Laptops', 'Consumer Electronics']",3
+1456,'lawn mower',['Landscaping'],3
+1457,'mower',['Landscaping'],3
+1458,'lens cap',['Cameras and Camcorders'],3
+1459,'lens cover',['Cameras and Camcorders'],3
+1460,'limousine',"['Luxury Cars', 'Auto Rentals']",3
+1461,'limo',"['Luxury Cars', 'Auto Rentals']",3
+1462,'lipstick',"['Beauty', 'Makeup and Accessories']",3
+1463,'lip rouge',"['Beauty', 'Makeup and Accessories']",3
+1464,'loudspeaker',"['Music and Audio', 'Consumer Electronics']",3
+1465,'speaker',"['Music and Audio', 'Consumer Electronics']",3
+1466,'speaker unit',"['Music and Audio', 'Consumer Electronics']",3
+1467,'loudspeaker system',"['Music and Audio', 'Consumer Electronics']",3
+1468,'speaker system',"['Music and Audio', 'Consumer Electronics']",3
+1469,'maillot',"[""Women's Clothing"", ""Women's Clothing""]",3
+1470,'tank suit',"[""Women's Clothing""]",3
+1471,'marimba',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1472,'xylophone',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1473,'mask',"['Apparel Industry', ""Women's Clothing"", ""Men's Clothing""]",3
+1474,'maypole',['Outdoor Activities'],3
+1475,'maze',['Outdoor Activities'],3
+1476,'labyrinth',['Outdoor Activities'],3
+1477,'measuring cup',"['Food & Drink', 'Cooking', 'Desserts and Baking']",3
+1478,'microphone',"['Music and Audio', 'Consumer Electronics']",3
+1479,'mike',"['Music and Audio', 'Consumer Electronics']",3
+1480,'microwave',"['Cooking', 'Home Appliances', 'Consumer Electronics']",3
+1481,'microwave oven',"['Cooking', 'Home Appliances', 'Consumer Electronics']",3
+1482,'military uniform',"['Apparel Industry', ""Women's Clothing"", ""Women's Shoes and Footwear"", ""Men's Clothing""]",3
+1483,'milk can',"['Food Industry', 'Food & Drink']",3
+1484,'miniskirt',"[""Women's Clothing""]",3
+1485,'mini',"[""Women's Clothing""]",3
+1486,'minivan',"['Auto Parts', 'Auto Rentals']",3
+1487,'mitten',"[""Women's Clothing"", ""Men's Clothing""]",3
+1488,'mixing bowl',"['Cooking', 'Desserts and Baking']",3
+1489,'mobile home',"['Remodeling & Construction', 'Home Improvement', 'Real Estate', 'Houses']",3
+1490,'manufactured home',"['Remodeling & Construction', 'Home Improvement', 'Real Estate', 'Houses']",3
+1491,'Model T',"['Auto Type', 'Auto Shows']",3
+1492,'modem',"['Laptops', 'Consumer Electronics']",3
+1493,'monitor',"['Technology & Computing', 'Laptops', 'Consumer Electronics', 'Cameras and Camcorders']",3
+1494,'mortar',"['Barbecues and Grilling', 'Cooking', 'Home & Garden', 'Home & Garden']",3
+1495,'motor scooter',['Motorcycles'],3
+1496,'scooter',['Motorcycles'],3
+1497,'mountain bike',"['Parks & Nature', 'Sports', 'Sports']",3
+1498,'all-terrain bike',"['Parks & Nature', 'Sports', 'Sports']",3
+1499,'off-roader',"['Parks & Nature', 'Sports', 'Sports']",3
+1500,'mountain tent',"['North America Travel', 'South America Travel']",3
+1501,'mousetrap',"['Technology Industry', 'Home & Garden', 'Home & Garden']",3
+1502,'moving van',"['Auto Type', 'Auto Rentals', 'Logistics and Transportation Industry']",3
+1503,'notebook',['Laptops'],3
+1504,'notebook computer',['Laptops'],3
+1505,'oboe',['Musical Instruments'],3
+1506,'hautboy',['Musical Instruments'],3
+1507,'hautbois',['Musical Instruments'],3
+1508,'ocarina',"['Musical Instruments', 'Food & Drink', 'Food & Drink']",3
+1509,'sweet potato',"['Musical Instruments', 'Food & Drink', 'Food & Drink']",3
+1510,'odometer',"['Automotive', 'Automotive Industry']",3
+1511,'hodometer',"['Automotive', 'Automotive Industry']",3
+1512,'mileometer',"['Automotive', 'Automotive Industry']",3
+1513,'milometer',"['Automotive', 'Automotive Industry']",3
+1514,'oil filter',['Automotive Industry'],3
+1515,'organ',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1516,'pipe organ',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1517,'overskirt',"[""Women's Clothing"", ""Women's Formal Wear""]",3
+1518,'padlock',"['Technology Industry', 'Home & Garden', 'Home & Garden']",3
+1519,'pajama',"[""Women's Clothing"", ""Men's Clothing""]",3
+1520,'pyjama',"[""Women's Clothing"", ""Men's Clothing""]",3
+1521,"""pj's""","[""Women's Clothing"", ""Men's Clothing""]",3
+1522,'jammies',"[""Women's Clothing"", ""Men's Clothing""]",3
+1523,'park bench',['Parks & Nature'],3
+1524,'passenger car',"['Logistics and Transportation Industry', 'Travel']",3
+1525,'coach',"['Logistics and Transportation Industry', 'Travel']",3
+1526,'carriage',"['Logistics and Transportation Industry', 'Travel']",3
+1527,'patio',"['Outdoor Activities', 'Home & Garden', 'Landscaping', 'Apartments', 'Hotel Properties', 'Houses']",3
+1528,'terrace',"['Outdoor Activities', 'Home & Garden', 'Landscaping', 'Apartments', 'Hotel Properties', 'Houses']",3
+1529,'perfume',"['Beauty', 'Perfume and Fragrance']",3
+1530,'essence',"['Beauty', 'Perfume and Fragrance']",3
+1531,'photocopier',['Consumer Electronics'],3
+1532,'pick',['Musical Instruments'],3
+1533,'plectrum',['Musical Instruments'],3
+1534,'plectron',['Musical Instruments'],3
+1535,'pickup',"['Pickup Trucks', 'Luxury Cars', 'Auto Type', 'Auto Shows']",3
+1536,'pickup truck',"['Pickup Trucks', 'Luxury Cars', 'Auto Type', 'Auto Shows']",3
+1537,'pier',['Dining Out'],3
+1538,'pitcher',['Cooking'],3
+1539,'ewer',['Cooking'],3
+1540,'planetarium',['Space and Astronomy'],3
+1541,'plow',"['Commercial Trucks', 'Pickup Trucks']",3
+1542,'plough',"['Commercial Trucks', 'Pickup Trucks']",3
+1543,'Polaroid camera',"['Consumer Electronics', 'Cameras and Camcorders']",3
+1544,'Polaroid Land camera',"['Consumer Electronics', 'Cameras and Camcorders']",3
+1545,'poncho',"[""Women's Clothing"", ""Men's Clothing""]",3
+1546,'pop bottle',"['Food Industry', 'Food & Drink', 'Non-Alcoholic Beverages']",3
+1547,'soda bottle',"['Food Industry', 'Food & Drink', 'Non-Alcoholic Beverages']",3
+1548,'pot',['Gardening'],3
+1549,'flowerpot',['Gardening'],3
+1550,'power drill',"['Technology Industry', 'Consumer Electronics']",3
+1551,'printer',"['Technology & Computing', 'Consumer Electronics']",3
+1552,'puck',['Sports'],3
+1553,'hockey puck',['Sports'],3
+1554,'racer',"['Automotive', 'Auto Body Styles', 'Auto Type', 'Auto Shows', 'Auto Rentals']",3
+1555,'race car',"['Automotive', 'Auto Body Styles', 'Auto Type', 'Auto Shows', 'Auto Rentals']",3
+1556,'racing car',"['Automotive', 'Auto Body Styles', 'Auto Type', 'Auto Shows', 'Auto Rentals']",3
+1557,'racket',['Sports'],3
+1558,'racquet',['Sports'],3
+1559,'radiator',['Consumer Electronics'],3
+1560,'radio',"['Entertainment Industry', 'Technology Industry', 'Telecommunications Industry', 'Consumer Electronics']",3
+1561,'wireless',"['Entertainment Industry', 'Technology Industry', 'Telecommunications Industry', 'Consumer Electronics']",3
+1562,'radio telescope',"['Technology Industry', 'Space and Astronomy']",3
+1563,'radio reflector',"['Technology Industry', 'Space and Astronomy']",3
+1564,'recreational vehicle',"['Auto Type', 'Auto Rentals']",3
+1565,'RV',"['Auto Type', 'Auto Rentals']",3
+1566,'R.V.',"['Auto Type', 'Auto Rentals']",3
+1567,'reel',['Technology Industry'],3
+1568,'refrigerator',['Home Appliances'],3
+1569,'icebox',['Home Appliances'],3
+1570,'remote control',"['Smart Home', 'Technology & Computing', 'Consumer Electronics']",3
+1571,'remote',"['Smart Home', 'Technology & Computing', 'Consumer Electronics']",3
+1572,'restaurant',"['Food Industry', 'Malls & Shopping Centers', 'Bars & Restaurants', 'Food & Drink', 'World Cuisines', 'Cooking', 'Desserts and Baking', 'Dining Out']",3
+1573,'eating house',"['Food Industry', 'Malls & Shopping Centers', 'Bars & Restaurants', 'Food & Drink', 'World Cuisines', 'Cooking', 'Desserts and Baking', 'Dining Out']",3
+1574,'eating place',"['Food Industry', 'Malls & Shopping Centers', 'Bars & Restaurants', 'Food & Drink', 'World Cuisines', 'Cooking', 'Desserts and Baking', 'Dining Out']",3
+1575,'eatery',"['Food Industry', 'Malls & Shopping Centers', 'Bars & Restaurants', 'Food & Drink', 'World Cuisines', 'Cooking', 'Desserts and Baking', 'Dining Out']",3
+1576,'rotisserie',['Cooking'],3
+1577,'sarong',"[""Women's Clothing"", ""Men's Clothing""]",3
+1578,'sax',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1579,'saxophone',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1580,'scale',"['Technology Industry', 'Technology & Computing', 'Consumer Electronics']",3
+1581,'weighing machine',"['Technology Industry', 'Technology & Computing', 'Consumer Electronics']",3
+1582,'school bus',"['Commercial Trucks', 'Auto Type', 'Primary Education']",3
+1583,'sewing machine',"['Apparel Industry', 'Consumer Electronics', 'Style & Fashion', 'Hobbies & Interests', 'Style & Fashion', 'Hobbies & Interests']",3
+1584,'shopping basket',['Holiday Shopping'],3
+1585,'shower cap',"[""Men's Clothing"", 'Bath and Shower']",3
+1586,'shower curtain',['Bath and Shower'],3
+1587,'ski mask',"[""Women's Clothing"", ""Men's Clothing""]",3
+1588,'slide rule',"['Education industry', 'Technology Industry', 'Technology & Computing']",3
+1589,'slipstick',"['Education industry', 'Technology Industry', 'Technology & Computing']",3
+1590,'sliding door',['Home & Garden'],3
+1591,'slot',"['Casinos & Gambling', 'Consumer Electronics', 'Video Gaming', 'Video Gaming']",3
+1592,'one-armed bandit',"['Casinos & Gambling', 'Consumer Electronics', 'Video Gaming', 'Video Gaming']",3
+1593,'snorkel',"['Apparel Industry', 'Outdoor Activities']",3
+1594,'snowmobile',['Auto Rentals'],3
+1595,'sock',"[""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear""]",3
+1596,'solar dish',['Technology Industry'],3
+1597,'solar collector',['Technology Industry'],3
+1598,'solar furnace',['Technology Industry'],3
+1599,'soup bowl',['Food & Drink'],3
+1600,'space bar',"['Technology Industry', 'Technology & Computing', 'Consumer Electronics']",3
+1601,'space heater',"['Home Appliances', 'Consumer Electronics']",3
+1602,'spatula',"['Cooking', 'Desserts and Baking']",3
+1603,'spider web',['Home & Garden'],3
+1604,"""spider's web""",['Home & Garden'],3
+1605,'spotlight',"['Technology Industry', 'Consumer Electronics']",3
+1606,'spot',"['Technology Industry', 'Consumer Electronics']",3
+1607,'stage',"['Entertainment Industry', 'Theater Venues and Events']",3
+1608,'steel drum',"['Musical Instruments', 'Music and Audio', 'Music and Audio']",3
+1609,'stopwatch',"[""Women's Jewelry and Watches"", 'Consumer Electronics']",3
+1610,'stop watch',"[""Women's Jewelry and Watches"", 'Consumer Electronics']",3
+1611,'stove',"['Cooking', 'Home Appliances']",3
+1612,'strainer',['Cooking'],3
+1613,'streetcar',['Rail Travel'],3
+1614,'tram',['Rail Travel'],3
+1615,'tramcar',['Rail Travel'],3
+1616,'trolley',['Rail Travel'],3
+1617,'trolley car',['Rail Travel'],3
+1618,'sunglasses',['Style & Fashion'],3
+1619,'dark glasses',['Style & Fashion'],3
+1620,'shades',['Style & Fashion'],3
+1621,'sweatshirt',"[""Men's Casual Wear""]",3
+1622,'swimming trunks',"[""Women's Clothing"", ""Men's Clothing""]",3
+1623,'bathing trunks',"[""Women's Clothing"", ""Men's Clothing""]",3
+1624,'switch',['Consumer Electronics'],3
+1625,'electric switch',['Consumer Electronics'],3
+1626,'electrical switch',['Consumer Electronics'],3
+1627,'tape player',"['Music and Audio', 'Consumer Electronics']",3
+1628,'teapot',['Cooking'],3
+1629,'teddy',"[""Children's Games and Toys"", 'Birthday']",3
+1630,'teddy bear',"[""Children's Games and Toys"", 'Birthday']",3
+1631,'tennis ball',['Sports'],3
+1632,'thatch',['Houses'],3
+1633,'thatched roof',['Houses'],3
+1634,'toaster',"['Home Appliances', 'Consumer Electronics']",3
+1635,'tobacco shop',"['Retail Industry', 'Retail Property', 'Shopping']",3
+1636,'tobacconist shop',"['Retail Industry', 'Retail Property', 'Shopping']",3
+1637,'tobacconist',"['Retail Industry', 'Retail Property', 'Shopping']",3
+1638,'toilet seat',['Home Appliances'],3
+1639,'tow truck',"['Commercial Trucks', 'Pickup Trucks', 'Road-Side Assistance']",3
+1640,'tow car',"['Commercial Trucks', 'Pickup Trucks', 'Road-Side Assistance']",3
+1641,'wrecker',"['Commercial Trucks', 'Pickup Trucks', 'Road-Side Assistance']",3
+1642,'tractor',"['Commercial Trucks', 'Pickup Trucks']",3
+1643,'trailer truck',"['Commercial Trucks', 'Pickup Trucks', 'Logistics and Transportation Industry']",3
+1644,'tractor trailer',"['Commercial Trucks', 'Pickup Trucks', 'Logistics and Transportation Industry']",3
+1645,'trucking rig',"['Commercial Trucks', 'Pickup Trucks', 'Logistics and Transportation Industry']",3
+1646,'rig',"['Commercial Trucks', 'Pickup Trucks', 'Logistics and Transportation Industry']",3
+1647,'articulated lorry',"['Commercial Trucks', 'Pickup Trucks', 'Logistics and Transportation Industry']",3
+1648,'semi',"['Commercial Trucks', 'Pickup Trucks', 'Logistics and Transportation Industry']",3
+1649,'trench coat',"[""Men's Clothing""]",3
+1650,'tripod',['Technology Industry'],3
+1651,'trombone',['Musical Instruments'],3
+1652,'vat',['Bath and Shower'],3
+1653,'turnstile',['Technology Industry'],3
+1654,'typewriter keyboard',['Consumer Electronics'],3
+1655,'umbrella',['Travel Accessories'],3
+1656,'upright',['Musical Instruments'],3
+1657,'upright piano',['Musical Instruments'],3
+1658,'vacuum',['Consumer Electronics'],3
+1659,'vacuum cleaner',['Consumer Electronics'],3
+1660,'velvet',"[""Women's Clothing"", ""Women's Formal Wear"", ""Men's Clothing"", ""Men's Formal Wear""]",3
+1661,'vending machine',"['Food Industry', 'Retail Industry', 'Technology Industry', 'Technology & Computing']",3
+1662,'vestment',"[""Men's Clothing""]",3
+1663,'violin',['Musical Instruments'],3
+1664,'fiddle',['Musical Instruments'],3
+1665,'volleyball',['Sports'],3
+1666,'waffle iron',['Consumer Electronics'],3
+1667,'wall clock',"['Technology Industry', 'Technology & Computing']",3
+1668,'wallet',"[""Women's Handbags and Wallets""]",3
+1669,'billfold',"[""Women's Handbags and Wallets""]",3
+1670,'notecase',"[""Women's Handbags and Wallets""]",3
+1671,'pocketbook',"[""Women's Handbags and Wallets""]",3
+1672,'wardrobe',"['Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Formal Wear""]",3
+1673,'closet',"['Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Formal Wear""]",3
+1674,'press',"['Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Formal Wear""]",3
+1675,'warplane',"['Aviation Industry', 'Air Travel']",3
+1676,'military plane',"['Aviation Industry', 'Air Travel']",3
+1677,'washer',"['Home Appliances', 'Consumer Electronics']",3
+1678,'automatic washer',"['Home Appliances', 'Consumer Electronics']",3
+1679,'washing machine',"['Home Appliances', 'Consumer Electronics']",3
+1680,'water bottle',['Food & Drink'],3
+1681,'wig',['Style & Fashion'],3
+1682,'window screen',['Home & Garden'],3
+1683,'window shade',['Home & Garden'],3
+1684,'wine bottle',"['Food Industry', 'Cooking', 'Dining Out']",3
+1685,'wooden spoon',"['Food & Drink', 'Cooking', 'Desserts and Baking']",3
+1686,'yurt',['Houses'],3
+1687,'crossword puzzle',['Games and Puzzles'],3
+1688,'crossword',['Games and Puzzles'],3
+1689,'street sign',['Road-Side Assistance'],3
+1690,'book jacket',['Books and Literature'],3
+1691,'dust cover',['Books and Literature'],3
+1692,'dust jacket',['Books and Literature'],3
+1693,'dust wrapper',['Books and Literature'],3
+1694,'menu',"['Dining Out', 'Technology & Computing', 'Technology & Computing']",3
+1695,'plate',"['Barbecues and Grilling', 'Cooking', 'Desserts and Baking']",3
+1696,'guacamole',"['Food & Drink', 'Cooking', 'Events and Attractions', 'Events and Attractions']",3
+1697,'consomme',"['Food Industry', 'Food & Drink', 'Cooking']",3
+1698,'hot pot',"['Cooking', 'Healthy Living', 'Shopping', 'Healthy Living', 'Shopping']",3
+1699,'hotpot',"['Cooking', 'Healthy Living', 'Shopping', 'Healthy Living', 'Shopping']",3
+1700,'trifle',"['Food & Drink', 'Cooking']",3
+1701,'ice cream',"['Food & Drink', 'Desserts and Baking']",3
+1702,'icecream',"['Food & Drink', 'Desserts and Baking']",3
+1703,'ice lolly',['Desserts and Baking'],3
+1704,'lolly',['Desserts and Baking'],3
+1705,'lollipop',['Desserts and Baking'],3
+1706,'popsicle',['Desserts and Baking'],3
+1707,'French loaf',"['Food & Drink', 'Cooking']",3
+1708,'bagel',"['Food Industry', 'Bars & Restaurants', 'Food & Drink', 'Cooking', 'Dining Out', 'Grocery Shopping']",3
+1709,'beigel',"['Food Industry', 'Bars & Restaurants', 'Food & Drink', 'Cooking', 'Dining Out', 'Grocery Shopping']",3
+1710,'pretzel',"['Food & Drink', 'Cooking']",3
+1711,'cheeseburger',"['Food Industry', 'Cooking', 'Travel', 'Travel']",3
+1712,'hotdog',"['Food & Drink', 'Barbecues and Grilling', 'Cooking']",3
+1713,'hot dog',"['Food & Drink', 'Barbecues and Grilling', 'Cooking']",3
+1714,'red hot',"['Food & Drink', 'Barbecues and Grilling', 'Cooking']",3
+1715,'mashed potato',"['Food & Drink', 'Cooking']",3
+1716,'head cabbage',"['Cooking', 'Healthy Living', 'Healthy Living']",3
+1717,'broccoli',"['Cooking', 'Healthy Living', 'Healthy Living']",3
+1718,'cauliflower',"['Cooking', 'Healthy Living', 'Healthy Living']",3
+1719,'spaghetti squash',['Cooking'],3
+1720,'acorn squash',"['Desserts and Baking', 'Healthy Living', 'Healthy Living']",3
+1721,'butternut squash',"['Cooking', 'Desserts and Baking', 'Healthy Living', 'Healthy Living']",3
+1722,'artichoke',"['Desserts and Baking', 'Healthy Living', 'Healthy Living']",3
+1723,'globe artichoke',"['Desserts and Baking', 'Healthy Living', 'Healthy Living']",3
+1724,'bell pepper',"['Cooking', 'Home & Garden', 'Healthy Living', 'Home & Garden', 'Healthy Living']",3
+1725,'strawberry',['Food & Drink'],3
+1726,'orange',['Food & Drink'],3
+1727,'lemon',['Food & Drink'],3
+1728,'banana',"['Food & Drink', 'Desserts and Baking', 'Healthy Living', 'Home & Garden', 'Healthy Living', 'Home & Garden']",3
+1729,'custard apple',['Food & Drink'],3
+1730,'carbonara',"['Food & Drink', 'Cooking']",3
+1731,'chocolate sauce',"['Food & Drink', 'Cooking', 'Desserts and Baking', 'Food & Drink', 'Food & Drink']",3
+1732,'chocolate syrup',"['Food & Drink', 'Cooking', 'Desserts and Baking', 'Food & Drink', 'Food & Drink']",3
+1733,'dough',"['Food & Drink', 'Cooking']",3
+1734,'meat loaf',"['Food & Drink', 'Cooking']",3
+1735,'meatloaf',"['Food & Drink', 'Cooking']",3
+1736,'pizza',"['Food & Drink', 'Cooking', 'Dining Out', 'Grocery Shopping']",3
+1737,'pizza pie',"['Food & Drink', 'Cooking', 'Dining Out', 'Grocery Shopping']",3
+1738,'potpie',['Cooking'],3
+1739,'burrito',"['Food Industry', 'Food & Drink', 'Cooking', 'Desserts and Baking', 'Dining Out']",3
+1740,'red wine',"['Bars & Restaurants', 'Cooking']",3
+1741,'espresso',"['Food Industry', 'Bars & Restaurants', 'Cooking', 'Dining Out']",3
+1742,'eggnog',"['Alcoholic Beverages', 'Cooking', 'Events and Attractions', 'Religion & Spirituality', 'Pop Culture', 'Events and Attractions', 'Religion & Spirituality', 'Pop Culture']",3
+1743,'bubble',"[""Children's Games and Toys""]",3
+1744,'lakeside',['Parks & Nature'],3
+1745,'lakeshore',['Parks & Nature'],3
+1746,'sandbar',['Beach Travel'],3
+1747,'sand bar',['Beach Travel'],3
+1748,'seashore',"['Travel Locations', 'Beach Travel']",3
+1749,'coast',"['Travel Locations', 'Beach Travel']",3
+1750,'seacoast',"['Travel Locations', 'Beach Travel']",3
+1751,'sea-coast',"['Travel Locations', 'Beach Travel']",3
+1752,'ballplayer',['Sports'],3
+1753,'baseball player',['Sports'],3
+1754,"""yellow lady's slipper""","['Flower Shopping', 'Home & Garden', 'Home & Garden']",3
+1755,'yellow lady-slipper',"['Flower Shopping', 'Home & Garden', 'Home & Garden']",3
+1756,'Cypripedium calceolus',"['Flower Shopping', 'Home & Garden', 'Home & Garden']",3
+1757,'Cypripedium parviflorum',"['Flower Shopping', 'Home & Garden', 'Home & Garden']",3
+1758,'corn',"['Food Industry', 'Cooking']",3
+1759,'hip',"['Flower Shopping', 'Home & Garden', 'Home & Garden']",3
+1760,'rose hip',"['Flower Shopping', 'Home & Garden', 'Home & Garden']",3
+1761,'rosehip',"['Flower Shopping', 'Home & Garden', 'Home & Garden']",3
+1762,"Violin, fiddle",['Musical Instruments'],3
+1763,Vocal music,"['Concerts & Music Events', 'Music and Audio']",3
+1764,'hair spray',['Beauty'],3
+1765,Water,"['Food & Drink', 'Bath and Shower']",3
+1766,kissing,['Dating'],3
+1767,'screen',['Desktops'],3
+1768,'CRT screen',['Desktops'],3
+1769,'mouse',['Desktops'],3
+1770,'computer mouse',['Desktops'],3
+1771,Wedding music,"['Wedding', 'Music and Audio']",3
+1772,Whimper (dog),['Dogs'],3
+1773,Wild animals,"['Parks & Nature', 'Zoos & Aquariums']",3
+1774,ice fishing,['Polar Travel'],3
+1775,"Wind instrument, woodwind instrument",['Musical Instruments'],3
+1776,Wind noise (microphone),['Music and Audio'],3
+1777,Wood block,"[""Children's Games and Toys""]",3
+1778,Writing,['Books and Literature'],3
+1779,texting,['Smartphones'],3
+1780,Traffic light,"['Travel', 'Travel']",3
+1781,Traffic sign,['Travel'],3
+1782,Zipper (clothing),"[""Men's Clothing"", ""Men's Casual Wear"", ""Women's Clothing"", ""Women's Formal Wear""]",3
+1783,Marine mammal,['Zoos & Aquariums'],3
+1784,'anemone fish',"['Zoos & Aquariums', 'Pets', 'Pets']",3
+1785,'apiary',"['Pets', 'Pets']",3
+1786,'bee house',"['Pets', 'Pets']",3
+1787,'Arctic fox',"['Travel', 'Travel']",3
+1788,'white fox',"['Travel', 'Travel']",3
+1789,'Alopex lagopus',"['Travel', 'Travel']",3
+1790,'bathing cap',"['Healthy Living', 'Medical Health', 'Education', 'Sports', 'Healthy Living', 'Medical Health', 'Education', 'Sports']",3
+1791,'swimming cap',"['Healthy Living', 'Medical Health', 'Education', 'Sports', 'Healthy Living', 'Medical Health', 'Education', 'Sports']",3
+1792,'bicycle-built-for-two',"['Travel', 'Travel']",3
+1793,'tandem bicycle',"['Travel', 'Travel']",3
+1794,'tandem',"['Travel', 'Travel']",3
+1795,'bittern',"['Travel', 'Travel']",3
+1796,'black grouse',"['Home & Garden', 'Home & Garden']",3
+1797,'black stork',"['Travel', 'Travel']",3
+1798,'Ciconia nigra',"['Travel', 'Travel']",3
+1799,'buckle',"['Automotive', 'Automotive']",3
+1800,'cab',"['Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel']",3
+1801,'hack',"['Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel']",3
+1802,'taxi',"['Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel']",3
+1803,'taxicab',"['Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel']",3
+1804,'can opener',"['Food & Drink', 'Food & Drink']",3
+1805,'tin opener',"['Food & Drink', 'Food & Drink']",3
+1806,'canoe',"['Travel', 'Healthy Living', 'Home & Garden', 'Travel', 'Travel', 'Healthy Living', 'Home & Garden', 'Travel']",3
+1807,'castle',"['Events and Attractions', 'Travel', 'Education', 'Events and Attractions', 'Travel', 'Education']",3
+1808,'CD player',"['Music and Audio', 'Music and Audio']",3
+1809,'chain mail',"['Events and Attractions', 'Television', 'Events and Attractions', 'Television']",3
+1810,'ring mail',"['Events and Attractions', 'Television', 'Events and Attractions', 'Television']",3
+1811,'mail',"['Events and Attractions', 'Television', 'Events and Attractions', 'Television']",3
+1812,'chain armor',"['Events and Attractions', 'Television', 'Events and Attractions', 'Television']",3
+1813,'chain armour',"['Events and Attractions', 'Television', 'Events and Attractions', 'Television']",3
+1814,'ring armor',"['Events and Attractions', 'Television', 'Events and Attractions', 'Television']",3
+1815,'ring armour',"['Events and Attractions', 'Television', 'Events and Attractions', 'Television']",3
+1816,'cheetah',"['Education', 'Education']",3
+1817,'chetah',"['Education', 'Education']",3
+1818,'Acinonyx jubatus',"['Education', 'Education']",3
+1819,'cliff dwelling',"['Travel', 'Education', 'Travel', 'Education']",3
+1820,'cliff',"['Real Estate', 'Travel', 'Real Estate', 'Travel']",3
+1821,'drop',"['Real Estate', 'Travel', 'Real Estate', 'Travel']",3
+1822,'drop-off',"['Real Estate', 'Travel', 'Real Estate', 'Travel']",3
+1823,'cougar',"['Travel', 'Travel']",3
+1824,'puma',"['Travel', 'Travel']",3
+1825,'catamount',"['Travel', 'Travel']",3
+1826,'mountain lion',"['Travel', 'Travel']",3
+1827,'painter',"['Travel', 'Travel']",3
+1828,'panther',"['Travel', 'Travel']",3
+1829,'Felis concolor',"['Travel', 'Travel']",3
+1830,'crane (bird)',"['Travel', 'Travel']",3
+1831,'cup',"['Style & Fashion', 'Home & Garden', 'Style & Fashion', 'Home & Garden']",3
+1832,'desk',"['Education', 'Business and Finance', 'Education', 'Business and Finance']",3
+1833,'dining table',"['Events and Attractions', 'Style & Fashion', 'Events and Attractions', 'Style & Fashion']",3
+1834,'board',"['Events and Attractions', 'Style & Fashion', 'Events and Attractions', 'Style & Fashion']",3
+1835,'dock',"['Real Estate', 'Real Estate']",3
+1836,'dockage',"['Real Estate', 'Real Estate']",3
+1837,'docking facility',"['Real Estate', 'Real Estate']",3
+1838,'dogsled',"['Sports', 'Sports']",3
+1839,'dog sled',"['Sports', 'Sports']",3
+1840,'dog sleigh',"['Sports', 'Sports']",3
+1841,'dome',"['Travel', 'Religion & Spirituality', 'Travel', 'Religion & Spirituality']",3
+1842,'drilling platform',"['Real Estate', 'Real Estate']",3
+1843,'offshore rig',"['Real Estate', 'Real Estate']",3
+1844,'fig',"['Home & Garden', 'Home & Garden']",3
+1845,'file',"['Business and Finance', 'Home & Garden', 'Business and Finance', 'Home & Garden']",3
+1846,'file cabinet',"['Business and Finance', 'Home & Garden', 'Business and Finance', 'Home & Garden']",3
+1847,'filing cabinet',"['Business and Finance', 'Home & Garden', 'Business and Finance', 'Home & Garden']",3
+1848,'flagpole',"['Sports', 'Sports']",3
+1849,'flagstaff',"['Sports', 'Sports']",3
+1850,'four-poster',"['Style & Fashion', 'Style & Fashion']",3
+1851,'freight car',"['Automotive', 'Automotive']",3
+1852,'geyser',"['Travel', 'Travel']",3
+1853,'giant panda',"['Events and Attractions', 'Events and Attractions']",3
+1854,'panda',"['Events and Attractions', 'Events and Attractions']",3
+1855,'panda bear',"['Events and Attractions', 'Events and Attractions']",3
+1856,'coon bear',"['Events and Attractions', 'Events and Attractions']",3
+1857,'Ailuropoda melanoleuca',"['Events and Attractions', 'Events and Attractions']",3
+1858,'go-kart',"['Travel', 'Sports', 'Pop Culture', 'Travel', 'Sports', 'Pop Culture']",3
+1859,'half track',"['Technology & Computing', 'Technology & Computing']",3
+1860,'hay',"['Food & Drink', 'Home & Garden', 'Food & Drink', 'Home & Garden']",3
+1861,'hen-of-the-woods',"['Food & Drink', 'Healthy Living', 'Food & Drink', 'Healthy Living']",3
+1862,'hen of the woods',"['Food & Drink', 'Healthy Living', 'Food & Drink', 'Healthy Living']",3
+1863,'Polyporus frondosus',"['Food & Drink', 'Healthy Living', 'Food & Drink', 'Healthy Living']",3
+1864,'Grifola frondosa',"['Food & Drink', 'Healthy Living', 'Food & Drink', 'Healthy Living']",3
+1865,'horse cart',"['Hobbies & Interests', 'Pets', 'Sports', 'Hobbies & Interests', 'Pets', 'Sports']",3
+1866,'horse-cart',"['Hobbies & Interests', 'Pets', 'Sports', 'Hobbies & Interests', 'Pets', 'Sports']",3
+1867,'manhole cover',"['Hobbies & Interests', 'Hobbies & Interests']",3
+1868,'Marine',"['Hobbies & Interests', 'Hobbies & Interests']",3
+1869,'mosque',"['Religion & Spirituality', 'Religion & Spirituality']",3
+1870,'oxygen mask',"['Medical Health', 'Medical Health']",3
+1871,'steel arch bridge',"['Hobbies & Interests', 'Hobbies & Interests']",3
+1872,'stole',"['Style & Fashion', 'Style & Fashion']",3
+1873,'stone wall',"['Home & Garden', 'Home & Garden']",3
+1874,Cutting board,"['Food & Drink', 'Food & Drink']",3
+1875,electric ray,"['Pets', 'Pets']",3
+1876,infant cry,['Parenting'],3

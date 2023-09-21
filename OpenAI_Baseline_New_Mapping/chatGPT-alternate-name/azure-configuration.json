@@ -1,0 +1,5 @@
+{
+    "endpoint": "https://mafopenai-inst01.openai.azure.com/",
+    "key": "d18dcc447e8749dab7b493b3d7f5d32b",
+    "deployment_name": "ADTech2"
+}

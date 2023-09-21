@@ -1,0 +1,943 @@
+item,node_id,IAB_Candidates,H_Scores
+closet,1221,"['Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Formal Wear""]","[0.726366246, 0.71877271, 0.723077517, 0.710872927]"
+rosehip,36510,"['Flower Shopping', 'Home & Garden']","[0.742494378, 1.0]"
+appenzeller,53549,['Food & Drink'],[1.0]
+english_springer,5232,['Dogs'],[0.76407377]
+grocery,945,"['Business and Finance', 'Food Industry', 'Retail Industry', 'Food & Drink', 'Desserts and Baking', 'Retail Property', 'Shopping', 'Grocery Shopping', 'Household Supplies']","[0.7733311140000001, 0.863967368, 0.8380571059999999, 0.775782028, 0.72015559, 0.81518876, 0.825216354, 0.960761628, 0.772538293]"
+siberian_husky,662,"['Pets', 'Dogs']","[0.738195057, 0.819781564]"
+man-eating_shark,96941,['Large Animals'],[0.744134087]
+upright_piano,3772,['Musical Instruments'],[0.7823162779999999]
+miniature_poodle,4795,"['Pets', 'Dogs', 'Large Animals']","[0.757090667, 0.8408349509999999, 0.72506731]"
+washing_machine,7197,"['Home Appliances', 'Consumer Electronics']","[0.784225498, 0.717050335]"
+mouth_organ,17824,"['Musical Instruments', 'Music and Audio']","[0.794053874, 1.0]"
+bee_house,45589,['Pets'],[1.0]
+beer_bottle,4581,"['Food Industry', 'Dining Out', 'Events and Attractions', 'Travel', 'Style & Fashion']","[0.784907495, 0.746185324, 1.0, 1.0, 1.0]"
+great_white_shark,7511,['Large Animals'],[0.744134087]
+border_collie,22877,['Pets'],[0.719476369]
+hungarian_pointer,13295,['Dogs'],[0.760129176]
+kuvasz,18558,['Large Animals'],[0.7449910359999999]
+pickup,3340,"['Commercial Trucks', 'Pickup Trucks', 'Luxury Cars', 'Auto Type']","[0.808956638, 0.967530528, 0.739401805, 0.71993284]"
+globe_artichoke,46477,['Healthy Living'],[1.0]
+residence,1056,"['Home & Garden', 'Smart Home', 'Home Appliances', 'Home Entertaining', 'Home Improvement', 'Home Security', 'Real Estate', 'Apartments', 'Retail Property', 'Houses', 'Land and Farms', 'Household Supplies']","[0.8008469979999999, 0.813714059, 0.823670363, 0.8079224429999999, 0.8305625670000001, 0.833352717, 0.749426739, 0.7727118690000001, 0.746341245, 0.794322302, 0.714121839, 0.7126022890000001]"
+coach,312,"['Logistics and Transportation Industry', 'Travel']","[0.7204749559999999, 0.699363825]"
+wireless,482,"['Automotive', 'Entertainment Industry', 'Technology Industry', 'Telecommunications Industry', 'Music and Audio', 'Consumer Electronics', 'Smartphones']","[0.71689951, 0.7286450990000001, 0.730458513, 0.7486335690000001, 0.7742068329999999, 0.821379018, 0.636530454]"
+acorn_squash,4445,['Healthy Living'],[1.0]
+dock,343,"['Outdoor Activities', 'Real Estate']","[0.785321, 1.0]"
+hand_blower,1153,['Hair Care'],[0.786192617]
+birdhouse,4167,['Home & Garden'],[0.721076588]
+medicine_cabinet,8856,['Medical Health'],[0.773211047]
+church_building,3539,"['Religious Events', 'Religion & Spirituality']","[0.7432778459999999, 1.0]"
+web_site,371,"['Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Dating']","[0.73599898, 0.7756112609999999, 0.739853487, 0.759261401, 0.789649765, 0.7459666290000001, 0.760978223, 0.671098857]"
+grampus,7937,['Large Animals'],[0.714841607]
+swimming_cap,42345,"['Healthy Living', 'Medical Health', 'Education', 'Sports']","[1.0, 1.0, 1.0, 1.0]"
+curly-coated_retriever,82446,"['Pets', 'Dogs']","[0.721520415, 0.813365275]"
+desktop_computer,9570,"['Technology Industry', 'Smart Home', 'Consumer Electronics', 'Movies', 'Education', 'Shopping', 'Television', 'Pop Culture']","[0.740275882, 0.741750382, 0.838419861, 1.0, 1.0, 1.0, 1.0, 1.0]"
+sealyham,32804,"['Pets', 'Dogs']","[0.7778794309999999, 0.8674643670000001]"
+grand,2263,"['Musical Instruments', 'Music and Audio', 'Music and Audio']","[0.811993828, 0.714414042, 1.0]"
+wardrobe,3170,"['Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Formal Wear""]","[0.726366246, 0.71877271, 0.723077517, 0.710872927]"
+chain_armor,5123,"[""Men's Clothing"", ""Men's Formal Wear"", 'Events and Attractions', 'Television']","[0.732664642, 0.7297287579999999, 1.0, 1.0]"
+space_heater,3410,"['Home Appliances', 'Consumer Electronics']","[0.7878104509999999, 0.803876245]"
+loafer,11487,"[""Women's Shoes and Footwear"", ""Women's Clothing""]","[0.814953138, 0.7638923409999999]"
+chime,14800,"['Musical Instruments', 'Music and Audio', 'Events and Attractions']","[0.747099533, 1.0, 1.0]"
+electric_fan,6182,"['Consumer Electronics', 'Home & Garden']","[0.7865685929999999, 1.0]"
+bow_tie,37364,"[""Men's Formal Wear"", 'Events and Attractions', 'Business and Finance']","[0.739764438, 1.0, 1.0]"
+harp,255,"['Musical Instruments', 'Music and Audio']","[0.794053874, 1.0]"
+mosque,327,['Religion & Spirituality'],[1.0]
+aptenodytes_patagonica,42348,['Birds'],[0.7948212809999999]
+peke,49190,['Dogs'],[0.7109972040000001]
+cd_player,2787,"['Consumer Electronics', 'Music and Audio']","[0.784507253, 1.0]"
+ocarina,16912,"['Musical Instruments', 'Food & Drink']","[0.7249116290000001, 1.0]"
+burrito,1914,"['Food & Drink', 'Cooking', 'Dining Out']","[0.8049373790000001, 0.7543228359999999, 0.719057851]"
+wrecker,18317,"['Commercial Trucks', 'Pickup Trucks', 'Road-Side Assistance']","[0.813929652, 0.8451799520000001, 0.755052646]"
+quail,61,"['Birds', 'Large Animals']","[0.857522227, 0.7146199190000001]"
+lawn_cart,83930,"['Home & Garden', 'Gardening', 'Landscaping']","[0.737058219, 0.75148269, 0.732089512]"
+english_springer_spaniel,7831,['Dogs'],[0.76407377]
+husky,9982,"['Pets', 'Dogs']","[0.761427451, 0.852484767]"
+spaghetti_squash,24127,"['Cooking', 'Desserts and Baking']","[0.7409031779999999, 0.7858352740000001]"
+padlock,23739,"['Technology Industry', 'Home & Garden']","[0.794201961, 1.0]"
+cairn_terrier,5294,['Dogs'],[0.7720369690000001]
+pyjama,3258,"[""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear""]","[0.718434212, 0.733496974, 0.72317541]"
+eating_place,6068,"['Food Industry', 'Malls & Shopping Centers', 'Bars & Restaurants', 'Food & Drink', 'World Cuisines', 'Cooking', 'Desserts and Baking', 'Dining Out']","[0.785636667, 0.72141469, 0.870533467, 0.818637886, 0.717774528, 0.7602281559999999, 0.7502017329999999, 0.91375805]"
+racing_car,8709,"['Automotive', 'Auto Body Styles', 'Auto Type', 'Auto Shows', 'Auto Rentals']","[0.7396785640000001, 0.759071855, 0.744780995, 0.8086413840000001, 0.7529551459999999]"
+white_fox,37995,['Travel'],[1.0]
+carbonara,6750,"['Food Industry', 'Cooking']","[0.7393548409999999, 0.775103526]"
+steel_arch_bridge,52816,['Hobbies & Interests'],[1.0]
+tank_suit,77412,"[""Women's Clothing""]",[0.764464013]
+hen-of-the-woods,36252,"['Food & Drink', 'Healthy Living']","[1.0, 1.0]"
+shetland,2203,['Dogs'],[0.7831943029999999]
+black_swan,10383,['Birds'],[0.774529639]
+monitor,2423,"['Technology & Computing', 'Laptops', 'Consumer Electronics', 'Cameras and Camcorders']","[0.737789192, 0.7486362190000001, 0.85198292, 0.73470964]"
+sports,5793,"['Sports', 'Entertainment Industry', 'Outdoor Activities', 'Fitness and Exercise', 'Sports', 'Wellness']","[0.6834278290000001, 0.719503343, 0.7119667190000001, 0.731700204, 0.931252219, 0.64744595]"
+newfoundland,2224,"['Pets', 'Dogs']","[0.739168039, 0.824601977]"
+basenji,10415,"['Pets', 'Dogs']","[0.723355592, 0.824855618]"
+haliaeetus_leucocephalus,8226,['Birds'],[0.7857245340000001]
+african_gray,2731,['Birds'],[0.769697176]
+grille,5882,"['Sedan', 'Coupe', 'Pickup Trucks', 'Auto Parts', 'Convertible']","[0.73074753, 0.7340676840000001, 0.714825478, 0.7145947229999999, 0.675856114]"
+shoe_store,2633,"['Apparel Industry', 'Retail Industry', 'Malls & Shopping Centers', 'Retail Property', 'Shopping', 'Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear"", 'Travel Accessories']","[0.7280852290000001, 0.729988561, 0.744976229, 0.727997663, 0.787045105, 0.739044665, 0.780687809, 0.7900483890000001, 0.78186337, 0.723656465]"
+steel_drum,12648,"['Musical Instruments', 'Music and Audio']","[0.798681415, 1.0]"
+toaster,12393,"['Home Appliances', 'Consumer Electronics']","[0.76511979, 0.8192967529999999]"
+fiddle,186,['Musical Instruments'],[0.8336945570000001]
+trombone,1283,['Musical Instruments'],[0.8351409240000001]
+mouth_harp,68733,"['Musical Instruments', 'Music and Audio']","[0.794053874, 1.0]"
+dogsled,1572,"['Dogs', 'Sports']","[0.797075236, 1.0]"
+beam,1446,['Fitness and Exercise'],[0.7413849659999999]
+white_shark,26623,['Large Animals'],[0.744134087]
+sliding_door,10285,['Home & Garden'],[0.735829031]
+trench_coat,18488,"[""Men's Clothing""]",[0.8107731840000001]
+rose_hip,15839,"['Flower Shopping', 'Home & Garden']","[0.742494378, 1.0]"
+bathtub,820,"['Home & Garden', 'Bath and Shower', 'Healthy Living', 'Medical Health']","[0.733386097, 0.952007824, 1.0, 1.0]"
+egretta_albus,2127,['Birds'],[0.790165204]
+scottish_deerhound,39551,"['Pets', 'Dogs']","[0.7409787409999999, 0.824139712]"
+crinoline,6179,"[""Women's Clothing"", ""Women's Formal Wear""]","[0.728578185, 0.7133196270000001]"
+dishwasher,5260,"['Home Appliances', 'Consumer Electronics', 'Food & Drink']","[0.776695323, 0.7198272370000001, 1.0]"
+can_opener,1715,['Food & Drink'],[1.0]
+lawn_mower,10830,['Landscaping'],[0.717353481]
+cellular_telephone,8131,"['Telecommunications Industry', 'Consumer Electronics', 'Smartphones', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming']","[0.71513848, 0.7396869620000001, 0.772696085, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+cauldron,1346,"['Cooking', 'Events and Attractions', 'Religion & Spirituality']","[0.781694887, 1.0, 1.0]"
+shih-tzu,30385,"['Pets', 'Dogs']","[0.739421745, 0.8108595259999999]"
+menu,1657,"['Dining Out', 'Technology & Computing']","[0.714086074, 1.0]"
+pay-station,42768,"['Road-Side Assistance', 'Business and Finance']","[0.7909823570000001, 0.758554746]"
+business,2151,"['Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Food Industry', 'Healthcare Industry', 'Hospitality Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Apparel Industry', 'Retail Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Education', 'Real Estate', 'Retail Property', 'Consumer Electronics', 'Hobbies & Interests', 'Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Food Industry', 'Healthcare Industry', 'Hospitality Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Apparel Industry', 'Retail Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Education', 'Primary Education', 'Smart Home', 'Home Improvement', 'Home Security', 'Real Estate', 'Retail Property', 'Technology & Computing', 'Consumer Electronics', 'Hobbies & Interests', 'Education', 'Travel']","[0.872321282, 0.822669806, 0.7912380459999999, 0.861005085, 0.7973897609999999, 0.817363662, 0.801290026, 0.815426943, 0.795165281, 0.764943501, 0.8216292959999999, 0.796288113, 0.792479121, 0.79052473, 0.791886196, 0.724525269, 0.73318791, 0.7543288909999999, 0.737168017, 0.6678926239999999, 0.872321282, 0.822669806, 0.7912380459999999, 0.861005085, 0.7973897609999999, 0.817363662, 0.801290026, 0.815426943, 0.795165281, 0.764943501, 0.8216292959999999, 0.796288113, 0.792479121, 0.79052473, 0.791886196, 0.724525269, 0.72063179, 0.71872605, 0.732110523, 0.714253535, 0.73318791, 0.7543288909999999, 0.710985647, 0.737168017, 0.6678926239999999, 1.0, 1.0]"
+cab,279,"['Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+bassoon,2828,"['Musical Instruments', 'Music and Audio']","[0.8162677740000001, 1.0]"
+chetah,38381,"['Cats', 'Large Animals', 'Education']","[0.8198202490000001, 0.7793905040000001, 1.0]"
+tobacco_shop,53716,"['Retail Industry', 'Retail Property']","[0.718103893, 0.722374673]"
+tennis_ball,1575,['Sports'],[0.713981185]
+transportation,3912,"['Luxury Cars', 'Road-Side Assistance', 'Auto Rentals', 'Logistics and Transportation Industry', 'Aviation Industry', 'Travel', 'Travel Accessories', 'Travel Locations', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'Polar Travel', 'South America Travel', 'Hotels and Motels', 'Rail Travel', 'Air Travel', 'Beach Travel', 'Cruises']","[0.7155804040000001, 0.7231260279999999, 0.724277334, 0.842193868, 0.723072339, 0.889681926, 0.825058084, 0.864016377, 0.8270263240000001, 0.8379164370000001, 0.785664701, 0.846764669, 0.815569799, 0.815104927, 0.812745747, 0.720589363, 0.8832072790000001, 0.8483552670000001, 0.83094395, 0.682774368]"
+courgette,717,['Desserts and Baking'],[0.740220221]
+hornbill,13060,['Birds'],[0.811370389]
+convertible,6584,['Travel'],[1.0]
+packsack,16281,"['Travel Accessories', 'Education']","[0.714945823, 1.0]"
+arctic_fox,4850,['Travel'],[1.0]
+bath,231,"['Home & Garden', 'Bath and Shower', 'Healthy Living', 'Medical Health']","[0.733386097, 0.952007824, 1.0, 1.0]"
+greenhouse,489,"['Gardening', 'Landscaping']","[0.76103887, 0.74655118]"
+beigel,8950,"['Bars & Restaurants', 'Cooking', 'Dining Out', 'Grocery Shopping']","[0.7123146440000001, 0.765197583, 0.7113746559999999, 0.728523681]"
+ten-gallon_hat,45524,"[""Men's Clothing""]",[0.8004714629999999]
+mailbox,1970,['Office Property'],[0.738089792]
+yurt,2231,['Houses'],[0.7362739340000001]
+medicine_chest,1674,['Medical Health'],[0.773211047]
+espresso_maker,40995,"['Food Industry', 'Food & Drink', 'Cooking', 'Home Appliances']","[0.716563415, 0.725422722, 0.828775741, 0.7396091159999999]"
+japanese_spaniel,58273,"['Pets', 'Dogs']","[0.737623987, 0.8289801109999999]"
+mobile_home,4336,"['Logistics and Transportation Industry', 'Remodeling & Construction', 'Home Improvement', 'Real Estate', 'Houses']","[0.7202487609999999, 0.7582122020000001, 0.857331428, 0.77668683, 0.805088527]"
+water_hen,21157,['Birds'],[0.798484877]
+komodo_dragon,9830,['Reptiles'],[0.7850878370000001]
+beer_glass,48974,"['Food Industry', 'Bars & Restaurants', 'Style & Fashion', 'Shopping', 'Home & Garden']","[0.8049292140000001, 0.733760118, 1.0, 1.0, 1.0]"
+panda,8074,"['Large Animals', 'Large Animals', 'Events and Attractions']","[0.7422521540000001, 0.773266625, 1.0]"
+radiator_grille,41682,"['Sedan', 'Coupe', 'Pickup Trucks', 'Auto Parts', 'Convertible']","[0.73074753, 0.7340676840000001, 0.714825478, 0.7145947229999999, 0.675856114]"
+park_bench,20339,"['Outdoor Activities', 'Parks & Nature']","[0.729104662, 0.718926856]"
+prairie_fowl,29092,['Large Animals'],[0.7308066240000001]
+panther,3540,"['Cats', 'Cats', 'Travel']","[0.7174311290000001, 0.750924626, 1.0]"
+umbrella,5589,['Travel Accessories'],[0.778473759]
+maltese_dog,9783,"['Pets', 'Dogs']","[0.7484222340000001, 0.831199606]"
+english_setter,2265,['Dogs'],[0.8010850190000001]
+linnet,1386,['Birds'],[0.761299885]
+bakery,5889,['Desserts and Baking'],[0.7370943679999999]
+swimming_trunks,11141,"[""Women's Clothing"", ""Men's Clothing""]","[0.737690983, 0.755149155]"
+weighing_machine,8068,"['Technology Industry', 'Technology & Computing', 'Consumer Electronics']","[0.743873882, 0.730682004, 0.797087735]"
+malinois,3584,"['Pets', 'Dogs']","[0.713536232, 0.823896709]"
+hoopskirt,40841,"[""Women's Clothing"", ""Women's Formal Wear""]","[0.728578185, 0.7133196270000001]"
+english_foxhound,70526,['Dogs'],[0.792603678]
+goldfinch,11340,['Birds'],[0.752816313]
+barrow,1002,"['Home & Garden', 'Gardening', 'Landscaping']","[0.737058219, 0.75148269, 0.732089512]"
+black_stork,32969,"['Birds', 'Travel']","[0.775971297, 1.0]"
+american_staffordshire_terrier,20268,['Dogs'],[0.816347918]
+cougar,2864,"['Cats', 'Travel']","[0.7174311290000001, 1.0]"
+popsicle,4051,['Desserts and Baking'],[0.710930532]
+boxer,1964,"['Pets', 'Dogs']","[0.719764645, 0.8268178009999999]"
+dockage,22774,"['Outdoor Activities', 'Real Estate']","[0.785321, 1.0]"
+hair_dryer,14196,['Hair Care'],[0.786192617]
+acoustic_guitar,5143,['Music and Audio'],[0.762581425]
+horse-cart,57277,"['Hobbies & Interests', 'Pets', 'Sports']","[1.0, 1.0, 1.0]"
+mini,110,"[""Women's Clothing""]",[0.763431888]
+backpack,314,"['Travel Accessories', 'Education']","[0.714945823, 1.0]"
+trolley,1930,['Rail Travel'],[0.786351885]
+eggnog,4398,"['Food Industry', 'Alcoholic Beverages', 'Cooking', 'Events and Attractions', 'Religion & Spirituality', 'Pop Culture']","[0.775166713, 0.78484752, 0.7753205470000001, 1.0, 1.0, 1.0]"
+oxygen_mask,10787,"[""Women's Clothing"", ""Men's Clothing"", 'Medical Health']","[0.7567314070000001, 0.7613877179999999, 1.0]"
+anemone_fish,23325,"['Zoos & Aquariums', 'Pets']","[0.640401407, 1.0]"
+german_police_dog,54774,['Dogs'],[0.8342992440000001]
+standard_poodle,3957,['Pets'],[0.758930674]
+power_drill,8507,"['Technology Industry', 'Consumer Electronics']","[0.734804432, 0.796655937]"
+organ,2407,"['Musical Instruments', 'Music and Audio']","[0.798592117, 1.0]"
+scale,1139,"['Technology Industry', 'Technology & Computing', 'Consumer Electronics']","[0.743873882, 0.730682004, 0.797087735]"
+red_setter,69411,['Dogs'],[0.75891554]
+ciconia_nigra,3971,"['Birds', 'Travel']","[0.775971297, 1.0]"
+polaroid_camera,106036,"['Consumer Electronics', 'Cameras and Camcorders']","[0.71935128, 0.831320452]"
+great_white_heron,7943,['Birds'],[0.790165204]
+king_penguin,5618,['Birds'],[0.7948212809999999]
+lollipop,2440,['Desserts and Baking'],[0.710930532]
+lakeland_terrier,41330,"['Pets', 'Dogs']","[0.745462032, 0.824554557]"
+loudspeaker,4219,"['Music and Audio', 'Consumer Electronics']","[0.7500630690000001, 0.744803323]"
+racket,5481,['Sports'],[0.796611693]
+vacuum,1094,['Consumer Electronics'],[0.765951006]
+hack,599,"['Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+picture_palace,53398,"['Movies', 'Entertainment Industry', 'Theater Venues and Events', 'Cinemas and Events', 'Music and Audio', 'Television']","[0.8371503370000001, 0.7162231579999999, 0.8268268670000001, 0.875171853, 0.742720568, 0.7164709509999999]"
+table_lamp,22895,['Home & Garden'],[0.718894417]
+trifle,5381,"['Food Industry', 'Food & Drink', 'Cooking']","[0.778800646, 0.79648097, 0.7625474390000001]"
+cliff,1983,"['Real Estate', 'Travel']","[1.0, 1.0]"
+trolley_car,12565,['Rail Travel'],[0.786351885]
+cowboy_hat,23082,"[""Men's Clothing""]",[0.8004714629999999]
+window_shade,6786,['Home & Garden'],[0.74257985]
+giant_panda,2527,"['Large Animals', 'Events and Attractions']","[0.7422521540000001, 1.0]"
+hot_pot,8617,"['Cooking', 'Healthy Living', 'Shopping']","[0.8543741509999999, 1.0, 1.0]"
+fringilla_montifringilla,47473,['Birds'],[0.8941372040000001]
+acinonyx_jubatus,25795,"['Cats', 'Large Animals', 'Education']","[0.8198202490000001, 0.7793905040000001, 1.0]"
+movie_house,11953,"['Movies', 'Entertainment Industry', 'Theater Venues and Events', 'Cinemas and Events', 'Music and Audio', 'Television']","[0.8371503370000001, 0.7162231579999999, 0.8268268670000001, 0.875171853, 0.742720568, 0.7164709509999999]"
+two-piece,47626,"['Style & Fashion', ""Women's Clothing"", 'Shopping']","[0.768798012, 0.832437622, 1.0]"
+confectionery,5855,"['Food Industry', 'Retail Industry', 'Desserts and Baking', 'Shopping', 'Events and Attractions']","[0.744507027, 0.737122307, 0.7668528370000001, 0.7126039390000001, 1.0]"
+airedale,51385,['Dogs'],[0.7652939940000001]
+polaroid_land_camera,18542,"['Consumer Electronics', 'Cameras and Camcorders']","[0.71935128, 0.831320452]"
+oil_filter,4284,"['Technology Industry', 'Automotive Industry']","[0.787736928, 0.735242363]"
+schipperke,30276,['Dogs'],[0.8111240409999999]
+blower,6240,"['Consumer Electronics', 'Home & Garden']","[0.7865685929999999, 1.0]"
+tram,1931,['Rail Travel'],[0.786351885]
+black-and-tan_coonhound,85488,['Dogs'],[0.755759341]
+food_market,17189,"['Business and Finance', 'Food Industry', 'Retail Industry', 'Food & Drink', 'Desserts and Baking', 'Retail Property', 'Shopping', 'Grocery Shopping', 'Household Supplies']","[0.7733311140000001, 0.863967368, 0.8380571059999999, 0.775782028, 0.72015559, 0.81518876, 0.825216354, 0.960761628, 0.772538293]"
+lemon,6818,['Food & Drink'],[0.7398747859999999]
+cat_bear,43412,['Large Animals'],[0.773266625]
+pot,1203,['Gardening'],[0.7566378659999999]
+suit,1026,"[""Men's Clothing"", 'Apparel Industry', 'Fashion Events', 'Style & Fashion', ""Women's Clothing"", ""Women's Formal Wear"", ""Men's Formal Wear"", 'Prom']","[0.895601691, 0.768867772, 0.7295762, 0.768158473, 0.84946004, 0.848087533, 0.8910864340000001, 0.675522684]"
+digital_clock,15539,"['Technology Industry', 'Smart Home', 'Music and Audio', 'Pop Culture']","[0.732602194, 0.713714533, 0.7771746820000001, 1.0]"
+komondor,11976,['Dogs'],[0.800040885]
+pay-phone,114095,"['Road-Side Assistance', 'Business and Finance']","[0.7909823570000001, 0.758554746]"
+cell,137,"['Telecommunications Industry', 'Consumer Electronics', 'Smartphones', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming']","[0.71513848, 0.7396869620000001, 0.772696085, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+consomme,21616,"['Food Industry', 'Food & Drink', 'Cooking']","[0.7173929179999999, 0.7461237690000001, 0.739546533]"
+mountain_lion,3663,"['Cats', 'Travel']","[0.7174311290000001, 1.0]"
+strix_nebulosa,12587,['Birds'],[0.778239089]
+file,985,"['Business and Finance', 'Home & Garden']","[1.0, 1.0]"
+anole,15843,['Reptiles'],[0.71168795]
+pembroke_welsh_corgi,8022,['Dogs'],[0.71256651]
+remote_control,4957,"['Smart Home', 'Home Security', 'Technology & Computing', 'Consumer Electronics']","[0.7253921409999999, 0.743409304, 0.71695378, 0.781990958]"
+turnstile,3870,['Technology Industry'],[0.7865057109999999]
+grand_piano,19469,"['Musical Instruments', 'Music and Audio', 'Music and Audio']","[0.811993828, 0.714414042, 1.0]"
+shetland_sheep_dog,58177,['Dogs'],[0.7831943029999999]
+common_iguana,9941,['Reptiles'],[0.7899185120000001]
+psittacus_erithacus,16782,['Birds'],[0.769697176]
+polyporus_frondosus,64409,"['Food & Drink', 'Healthy Living']","[1.0, 1.0]"
+geyser,1848,['Travel'],[1.0]
+chesapeake_bay_retriever,24995,"['Pets', 'Dogs']","[0.732301195, 0.8018586129999999]"
+corn,682,"['Food Industry', 'Cooking', 'Land and Farms']","[0.8310947879999999, 0.781695525, 0.748849078]"
+monkey_pinscher,75980,"['Pets', 'Dogs']","[0.7476108859999999, 0.839695656]"
+american_coot,18796,['Birds'],[0.798484877]
+guacamole,479,"['Food Industry', 'Food & Drink', 'Cooking', 'Events and Attractions']","[0.774129568, 0.799848006, 0.766800316, 1.0]"
+scottie,19722,['Dogs'],[0.791511972]
+rig,5362,"['Commercial Trucks', 'Logistics and Transportation Industry']","[0.920690529, 0.722615795]"
+sock,693,"[""Women's Shoes and Footwear"", ""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear""]","[0.798915035, 0.810218887, 0.80886948, 0.7790931870000001]"
+flute,1847,"['Musical Instruments', 'Music and Audio']","[0.79435041, 1.0]"
+racquet,3099,['Sports'],[0.796611693]
+panthera_pardus,9792,['Cats'],[0.7449341420000001]
+car_mirror,19083,"['Luxury Cars', 'Technology Industry', 'Automotive Industry']","[0.781560338, 0.7923579629999999, 0.773782917]"
+afghan_hound,14310,['Dogs'],[0.7701064409999999]
+science,26470,"['Books and Literature', 'Education industry', 'Technology Industry', 'Education', 'College Education', 'Primary Education', 'Science', 'Space and Astronomy', 'Technology & Computing']","[0.7582144890000001, 0.7668604040000001, 0.716295754, 0.784349905, 0.771390782, 0.7597792240000001, 0.931252199, 0.796655187, 0.722262917]"
+weimaraner,13296,['Pets'],[0.7374762859999999]
+news,40750,"['Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Healthcare Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Events and Attractions', 'Fashion Events', 'Concerts & Music Events', 'Medical Health', 'Travel', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'South America Travel', 'Air Travel', 'Entertainment Industry', 'Media Industry']","[0.763236789, 0.769505184, 0.7817538940000001, 0.7777089620000001, 0.754302617, 0.7553776390000001, 0.799006526, 0.7421277709999999, 0.748950082, 0.7257573, 0.764483164, 0.7197493840000001, 0.74015012, 0.713727503, 0.71460465, 0.7178211170000001, 0.7371793440000001, 0.741996678, 0.724362882, 0.740942702, 0.724261044, 0.730262117, 0.724842957, 0.715215536, 0.743221993]"
+lolly,3154,['Desserts and Baking'],[0.710930532]
+coffee_mug,2140,"['Food Industry', 'Shopping', 'Style & Fashion']","[0.720389141, 1.0, 1.0]"
+fire_truck,2257,"['Commercial Trucks', 'Road-Side Assistance', 'Medical Health']","[0.8067062859999999, 0.73494511, 1.0]"
+drilling_platform,4821,"['Outdoor Activities', 'Real Estate']","[0.747652242, 1.0]"
+pipe_organ,4162,"['Musical Instruments', 'Music and Audio']","[0.798592117, 1.0]"
+green_snake,32747,['Birds'],[0.712268217]
+wine_bottle,7199,"['Food Industry', 'Cooking', 'Dining Out']","[0.7892052559999999, 0.7505723009999999, 0.7624391309999999]"
+cock,2810,"['Birds', 'Home & Garden', 'Healthy Living']","[0.769410438, 1.0, 1.0]"
+high_bar,1532,"['Outdoor Activities', 'Fitness and Exercise', 'Sports']","[0.741961322, 0.757469829, 0.772725076]"
+chain_armour,56860,"[""Men's Clothing"", ""Men's Formal Wear"", 'Events and Attractions', 'Television']","[0.732664642, 0.7297287579999999, 1.0, 1.0]"
+academic_gown,5823,"['Graduation', ""Women's Clothing"", ""Women's Formal Wear"", ""Men's Clothing"", ""Men's Formal Wear"", 'Events and Attractions', 'Education']","[0.789665643, 0.811012512, 0.839056639, 0.8108119359999999, 0.8383037940000001, 1.0, 1.0]"
+hautbois,30272,['Musical Instruments'],[0.8223355170000001]
+dalmatian,9060,"['Pets', 'Dogs', 'Large Animals']","[0.77844368, 0.859156327, 0.7175421820000001]"
+shoe-shop,99457,"['Apparel Industry', 'Retail Industry', 'Malls & Shopping Centers', 'Retail Property', 'Shopping', 'Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear"", 'Travel Accessories']","[0.7280852290000001, 0.729988561, 0.744976229, 0.727997663, 0.787045105, 0.739044665, 0.780687809, 0.7900483890000001, 0.78186337, 0.723656465]"
+mollymawk,10630,['Birds'],[0.844961345]
+russian_wolfhound,22675,['Dogs'],[0.755162702]
+sandal,5894,"[""Men's Clothing"", ""Women's Shoes and Footwear"", 'Style & Fashion', ""Women's Clothing""]","[0.7941688659999999, 0.892623543, 0.7369786979999999, 0.8004638890000001]"
+gown,2398,"['Apparel Industry', 'Fashion Events', 'Style & Fashion', ""Women's Clothing"", ""Women's Formal Wear""]","[0.743545995, 0.750370993, 0.748479122, 0.84062912, 0.881159475]"
+stopwatch,22240,"[""Women's Jewelry and Watches"", 'Consumer Electronics']","[0.775214176, 0.71901258]"
+bathing_cap,6349,"['Healthy Living', 'Medical Health', 'Education', 'Sports']","[1.0, 1.0, 1.0, 1.0]"
+balance_beam,49395,['Fitness and Exercise'],[0.7413849659999999]
+beach_waggon,17934,"['Station Wagon', 'Travel']","[0.978162367, 1.0]"
+wheelbarrow,4948,"['Home & Garden', 'Gardening', 'Landscaping']","[0.737058219, 0.75148269, 0.732089512]"
+man-eater,114598,['Large Animals'],[0.744134087]
+indigo_bunting,2433,['Birds'],[0.776091247]
+pets,2657,"['Pets', 'Cats', 'Dogs', 'Large Animals']","[0.931252259, 0.840195182, 0.8419054970000001, 0.760571825]"
+bottle_screw,61456,"['Cooking', 'Events and Attractions']","[0.76443839, 1.0]"
+desk,676,"['Office Property', 'Education', 'Business and Finance']","[0.747103066, 1.0, 1.0]"
+red_panda,2062,['Large Animals'],[0.773266625]
+maze,6450,['Outdoor Activities'],[0.763356919]
+sea_wolf,9275,['Large Animals'],[0.714841607]
+teddy_bear,5601,"[""Children's Games and Toys"", 'Birthday']","[0.72407991, 0.6937410559999999]"
+manufactured_home,36742,"['Logistics and Transportation Industry', 'Remodeling & Construction', 'Home Improvement', 'Real Estate', 'Houses']","[0.7202487609999999, 0.7582122020000001, 0.857331428, 0.77668683, 0.805088527]"
+one-armed_bandit,65489,"['Casinos & Gambling', 'Video Gaming']","[0.789404087, 1.0]"
+solar_collector,8058,['Technology Industry'],[0.741753036]
+microwave_oven,3929,"['Cooking', 'Home Appliances', 'Consumer Electronics']","[0.761767847, 0.777155777, 0.722142863]"
+spot,306,"['Technology Industry', 'Consumer Electronics']","[0.7448645159999999, 0.807595046]"
+bathing_trunks,1980,"[""Women's Clothing"", ""Men's Clothing""]","[0.737690983, 0.755149155]"
+baseball_player,5242,['Sports'],[0.7379699209999999]
+suit_of_clothes,58266,"[""Men's Clothing"", 'Apparel Industry', 'Fashion Events', 'Style & Fashion', ""Women's Clothing"", ""Women's Formal Wear"", ""Men's Formal Wear"", 'Prom']","[0.895601691, 0.768867772, 0.7295762, 0.768158473, 0.84946004, 0.848087533, 0.8910864340000001, 0.675522684]"
+icebox,5395,['Home Appliances'],[0.7761051609999999]
+painter,559,"['Cats', 'Travel']","[0.7174311290000001, 1.0]"
+borzoi,5331,['Dogs'],[0.755162702]
+snow_leopard,473,['Large Animals'],[0.751361462]
+semi,3647,"['Commercial Trucks', 'Logistics and Transportation Industry']","[0.920690529, 0.722615795]"
+west_highland_white_terrier,6185,"['Dogs', 'Large Animals']","[0.806815336, 0.7206266720000001]"
+coon_bear,2528,"['Large Animals', 'Events and Attractions']","[0.7422521540000001, 1.0]"
+hair_spray,527,['Beauty'],[0.702534729]
+coach_dog,14994,"['Pets', 'Dogs', 'Large Animals']","[0.77844368, 0.859156327, 0.7175421820000001]"
+chow,6479,['Cats'],[0.7428733240000001]
+combination_lock,23740,"['Technology Industry', 'Events and Attractions']","[0.811970929, 1.0]"
+megalithic_structure,69089,['Outdoor Activities'],[0.7127958870000001]
+pier,1317,['Dining Out'],[0.774386805]
+cape_hunting_dog,10858,['Dogs'],[0.8524347859999999]
+french_bulldog,24529,['Dogs'],[0.828416459]
+mountain_bike,8755,"['Parks & Nature', 'Sports']","[0.719296433, 1.0]"
+moving_van,11633,"['Auto Type', 'Auto Rentals', 'Logistics and Transportation Industry']","[0.712081964, 0.726499549, 0.7161400090000001]"
+frying_pan,4407,"['Cooking', 'Desserts and Baking']","[0.833810913, 0.7496542909999999]"
+staffordshire_terrier,61209,['Dogs'],[0.816347918]
+flowerpot,3467,['Gardening'],[0.7566378659999999]
+market,1335,"['Business and Finance', 'Food Industry', 'Retail Industry', 'Food & Drink', 'Desserts and Baking', 'Retail Property', 'Shopping', 'Grocery Shopping', 'Household Supplies']","[0.7733311140000001, 0.863967368, 0.8380571059999999, 0.775782028, 0.72015559, 0.81518876, 0.825216354, 0.960761628, 0.772538293]"
+television_system,65779,"['Entertainment Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Smart Home', 'Music and Audio', 'Consumer Electronics', 'Television', 'Video Gaming']","[0.801618339, 0.773447435, 0.712623978, 0.765176645, 0.731051034, 0.762531438, 0.801080472, 0.951652742, 0.729644799]"
+vacuum_cleaner,5212,['Consumer Electronics'],[0.765951006]
+relationship,16651,"['Family and Relationships', 'Parenting', 'Single Life', 'Personal Celebrations & Life Events', 'Family and Relationships', 'Parenting', 'Religion & Spirituality', 'Dating', 'Parenting', 'Single Life', 'Personal Celebrations & Life Events', 'Family and Relationships', 'Single Life', 'Healthy Living', 'Dating', 'Parenting', 'Single Life', 'Family and Relationships', 'Dating', 'Parenting']","[0.770721604, 0.629894775, 0.628738425, 0.7823783059999999, 0.903366144, 0.705858, 0.668902265, 0.664847693, 0.6275242360000001, 0.659750786, 0.756932878, 0.8437091459999999, 0.7897204609999999, 0.731072065, 0.681495126, 0.668160326, 0.596070494, 0.840279572, 0.681169548, 0.663230289]"
+fur_coat,23558,"[""Women's Clothing"", ""Men's Clothing""]","[0.78757019, 0.799331569]"
+garbage_truck,31844,"['Commercial Trucks', 'Logistics and Transportation Industry']","[0.856448076, 0.712549243]"
+horse_cart,45338,"['Hobbies & Interests', 'Pets', 'Sports']","[1.0, 1.0, 1.0]"
+bell_pepper,2277,"['Cooking', 'Home & Garden', 'Healthy Living']","[0.7408405929999999, 1.0, 1.0]"
+radiator,2084,['Consumer Electronics'],[0.7966333259999999]
+trump,568,"['Musical Instruments', 'Music and Audio']","[0.78076778, 1.0]"
+food,1256,"['Food Industry', 'Bars & Restaurants', 'Food & Drink', 'World Cuisines', 'Cooking', 'Desserts and Baking', 'Dining Out', 'Grocery Shopping']","[0.8759893540000001, 0.7408902140000001, 0.8667960090000001, 0.729328503, 0.8028823009999999, 0.7874497020000001, 0.7608581440000001, 0.739485487]"
+bell,484,"['Musical Instruments', 'Music and Audio', 'Events and Attractions']","[0.747099533, 1.0, 1.0]"
+boat_paddle,15439,"['Sports', 'Outdoor Activities', 'Beach Travel', 'Camping']","[0.763829891, 0.7493414759999999, 0.742320553, 0.713586029]"
+movie_theater,7483,"['Movies', 'Entertainment Industry', 'Theater Venues and Events', 'Cinemas and Events', 'Music and Audio', 'Television']","[0.8371503370000001, 0.7162231579999999, 0.8268268670000001, 0.875171853, 0.742720568, 0.7164709509999999]"
+pop_bottle,13618,"['Food Industry', 'Non-Alcoholic Beverages']","[0.741506456, 0.795078286]"
+racer,3143,"['Automotive', 'Auto Body Styles', 'Auto Type', 'Auto Shows', 'Auto Rentals']","[0.7396785640000001, 0.759071855, 0.744780995, 0.8086413840000001, 0.7529551459999999]"
+taxicab,730,"['Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+movie_theatre,14745,"['Movies', 'Entertainment Industry', 'Theater Venues and Events', 'Cinemas and Events', 'Music and Audio', 'Television']","[0.8371503370000001, 0.7162231579999999, 0.8268268670000001, 0.875171853, 0.742720568, 0.7164709509999999]"
+hand-held_computer,29713,"['Technology Industry', 'Technology & Computing', 'Consumer Electronics', 'Tablets and E-readers']","[0.7122108140000001, 0.736553748, 0.748014098, 0.80547558]"
+ipod,2336,"['Music and Audio', 'Technology & Computing', 'Movies', 'Pop Culture', 'Travel', 'Style & Fashion']","[0.7516602659999999, 1.0, 1.0, 1.0, 1.0, 1.0]"
+kerry_blue_terrier,90015,['Pets'],[0.719294014]
+pickup_truck,4006,"['Commercial Trucks', 'Pickup Trucks', 'Luxury Cars', 'Auto Type']","[0.808956638, 0.967530528, 0.739401805, 0.71993284]"
+rotisserie,19868,['Cooking'],[0.87730404]
+press,962,"['Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Formal Wear""]","[0.726366246, 0.71877271, 0.723077517, 0.710872927]"
+felis_concolor,6501,"['Cats', 'Travel']","[0.7174311290000001, 1.0]"
+electric_switch,76685,['Consumer Electronics'],[0.776941743]
+water_ouzel,499,['Birds'],[0.790813715]
+wig,690,['Style & Fashion'],[0.7270643459999999]
+pomeranian,9867,['Pets'],[0.76862573]
+tin_opener,58461,['Food & Drink'],[1.0]
+public,8461,"['Education industry', 'Healthcare Industry', 'Logistics and Transportation Industry', 'Education', 'Primary Education', 'Religious Events', 'Theater Venues and Events']","[0.766050553, 0.72335969, 0.711027005, 0.751745957, 0.7637955470000001, 0.737025879, 0.7194051379999999]"
+puma,5366,"['Cats', 'Travel']","[0.7174311290000001, 1.0]"
+snorkel,2562,['Outdoor Activities'],[0.761661995]
+harmonica,4575,"['Musical Instruments', 'Music and Audio']","[0.794053874, 1.0]"
+shoe_shop,2914,"['Apparel Industry', 'Retail Industry', 'Malls & Shopping Centers', 'Retail Property', 'Shopping', 'Style & Fashion', ""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear"", 'Travel Accessories']","[0.7280852290000001, 0.729988561, 0.744976229, 0.727997663, 0.787045105, 0.739044665, 0.780687809, 0.7900483890000001, 0.78186337, 0.723656465]"
+home_theatre,38664,"['Smart Home', 'Home Entertaining', 'Music and Audio', 'Retail Property', 'Houses', 'Apartments', 'Television', 'Video Gaming', 'Sports']","[0.8227061290000001, 0.834798541, 0.7334340779999999, 0.7223535109999999, 0.776463507, 0.705040708, 0.692021621, 1.0, 1.0]"
+music,182,"['Concerts & Music Events', 'Musical Instruments', 'Music and Audio', 'Pop Culture']","[0.84883788, 0.80190291, 0.878411773, 0.7724767579999999]"
+albatross,3414,['Birds'],[0.844961345]
+maltese,2770,"['Pets', 'Dogs']","[0.7484222340000001, 0.831199606]"
+velvet,1328,"[""Women's Clothing"", ""Women's Formal Wear"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Formal Wear""]","[0.7264337009999999, 0.7537295970000001, 0.731302065, 0.731863762, 0.75695349]"
+grifola_frondosa,35132,"['Food & Drink', 'Healthy Living']","[1.0, 1.0]"
+catamount,4610,"['Cats', 'Cats', 'Travel']","[0.7174311290000001, 0.775467213, 1.0]"
+chocolate_syrup,34081,"['Food Industry', 'Food & Drink', 'Alcoholic Beverages', 'Desserts and Baking', 'Non-Alcoholic Beverages', 'Food & Drink']","[0.731316306, 0.8063419270000001, 0.735024118, 0.883411698, 0.7316585109999999, 1.0]"
+american_pit_bull_terrier,20267,['Dogs'],[0.816347918]
+cornet,23,"['Musical Instruments', 'Music and Audio']","[0.78076778, 1.0]"
+trucking_rig,103008,"['Commercial Trucks', 'Logistics and Transportation Industry']","[0.920690529, 0.722615795]"
+clumber_spaniel,888,['Dogs'],[0.7148551459999999]
+off-roader,75384,"['Parks & Nature', 'Sports']","[0.719296433, 1.0]"
+hodometer,41239,"['Automotive', 'Automotive Industry', 'Consumer Electronics']","[0.763510537, 0.715653414, 0.8099763440000001]"
+cocker_spaniel,2997,['Dogs'],[0.77933547]
+canoe,3118,"['Beach Travel', 'Camping', 'Travel', 'Healthy Living', 'Home & Garden', 'Travel']","[0.718729883, 0.7261192320000001, 1.0, 1.0, 1.0, 1.0]"
+microphone,5559,"['Music and Audio', 'Consumer Electronics']","[0.776573265, 0.767045135]"
+boston_bull,35478,"['Pets', 'Dogs']","[0.71254715, 0.811585269]"
+butternut_squash,35291,"['Cooking', 'Desserts and Baking', 'Healthy Living']","[0.736976748, 0.750457277, 1.0]"
+four-poster,29802,['Style & Fashion'],[1.0]
+love,28009,"['Dating', 'Parenting', 'Single Life', 'Personal Celebrations & Life Events', 'Family and Relationships', 'Single Life', 'Healthy Living', 'Dating', 'Parenting']","[0.664847693, 0.6275242360000001, 0.659750786, 0.756932878, 0.8437091459999999, 0.7897204609999999, 0.731072065, 0.681495126, 0.668160326]"
+mashed_potato,9065,"['Food Industry', 'Food & Drink', 'Cooking']","[0.755536723, 0.781143767, 0.797162169]"
+lip_rouge,1343,"['Beauty', 'Makeup and Accessories']","[0.738123874, 0.84716608]"
+chrysanthemum_dog,4978,"['Pets', 'Dogs']","[0.7544281429999999, 0.841722352]"
+carriage,1191,"['Logistics and Transportation Industry', 'Travel']","[0.7204749559999999, 0.699363825]"
+speaker_system,27942,"['Music and Audio', 'Consumer Electronics']","[0.7500630690000001, 0.744803323]"
+notebook,4360,['Laptops'],[0.893438721]
+black_grouse,8827,"['Birds', 'Home & Garden']","[0.8304943090000001, 1.0]"
+kite,2283,['Birds'],[0.8245725279999999]
+balloon,5085,"[""Children's Games and Toys"", 'Events and Attractions']","[0.721945353, 1.0]"
+trumpet,173,"['Musical Instruments', 'Music and Audio']","[0.78076778, 1.0]"
+horn,1818,"['Musical Instruments', 'Musical Instruments', 'Music and Audio', 'Music and Audio']","[0.78076778, 0.78168368, 1.0, 1.0]"
+laptop,3196,"['Technology & Computing', 'Laptops', 'Consumer Electronics']","[0.7409329729999999, 0.898628413, 0.796815265]"
+bittern,5066,"['Birds', 'Travel']","[0.79876937, 1.0]"
+upright,65,['Musical Instruments'],[0.7823162779999999]
+bee_eater,32941,['Birds'],[0.8142463040000001]
+cup,787,"['Cooking', 'Desserts and Baking', 'Style & Fashion', 'Home & Garden']","[0.869661005, 0.828926377, 1.0, 1.0]"
+offshore_rig,19079,"['Outdoor Activities', 'Real Estate']","[0.747652242, 1.0]"
+wall_clock,12670,"['Technology Industry', 'Technology & Computing']","[0.768692478, 0.7611182329999999]"
+freight_car,6136,"['Asia Travel', 'Automotive']","[0.684767282, 1.0]"
+grass_snake,8566,['Birds'],[0.712268217]
+screen,73,['Desktops'],[0.6362829560000001]
+irish_setter,748,['Dogs'],[0.75891554]
+motor_scooter,9076,"['Auto Type', 'Motorcycles', 'Auto Rentals']","[0.740861338, 0.8380423379999999, 0.7240475690000001]"
+switch,597,['Consumer Electronics'],[0.776941743]
+vending_machine,4306,"['Food Industry', 'Retail Industry', 'Technology Industry', 'Technology & Computing']","[0.7283363740000001, 0.7279720690000001, 0.8088837729999999, 0.783800655]"
+american_chameleon,3942,['Reptiles'],[0.71168795]
+notebook_computer,8901,['Laptops'],[0.893438721]
+cassette,7083,"['Media Industry', 'Technology Industry', 'Music and Audio', 'Music and Audio', 'Movies', 'Pop Culture']","[0.712760583, 0.8023831840000001, 0.732815653, 1.0, 1.0, 1.0]"
+afghan,2001,['Dogs'],[0.7701064409999999]
+bedlington_terrier,52373,"['Pets', 'Dogs']","[0.714706725, 0.7999934609999999]"
+blow_drier,71869,['Hair Care'],[0.786192617]
+hotdog,11199,"['Food Industry', 'Food & Drink', 'Barbecues and Grilling', 'Cooking', 'Dining Out']","[0.759341193, 0.795140961, 0.713491313, 0.757636255, 0.734433538]"
+cheetah,4329,"['Cats', 'Large Animals', 'Education']","[0.8198202490000001, 0.7793905040000001, 1.0]"
+indigo_finch,2432,['Birds'],[0.776091247]
+scoreboard,13520,['Sports'],[0.855392409]
+violoncello,4071,"['Musical Instruments', 'Music and Audio']","[0.7818995190000001, 1.0]"
+lipstick,1342,"['Beauty', 'Makeup and Accessories']","[0.738123874, 0.84716608]"
+pizza_pie,13980,"['Food Industry', 'Cooking', 'Dining Out', 'Grocery Shopping']","[0.767042443, 0.799883927, 0.740637275, 0.723208683]"
+american_egret,28179,['Birds'],[0.790165204]
+wooden_spoon,853,"['Cooking', 'Desserts and Baking']","[0.838874, 0.7987085979999999]"
+rhodesian_ridgeback,13962,['Dogs'],[0.7655590809999999]
+car_wheel,24810,"['Automotive', 'Commercial Trucks', 'Station Wagon', 'Pickup Trucks']","[0.79012924, 0.757134092, 0.714563663, 0.741322383]"
+trailer_truck,26355,"['Commercial Trucks', 'Logistics and Transportation Industry']","[0.920690529, 0.722615795]"
+cleaver,1195,['Cooking'],[0.78818102]
+welsh_springer_spaniel,85140,['Dogs'],[0.802857809]
+bagel,2706,"['Bars & Restaurants', 'Cooking', 'Dining Out', 'Grocery Shopping']","[0.7123146440000001, 0.765197583, 0.7113746559999999, 0.728523681]"
+all-terrain_bike,77604,"['Parks & Nature', 'Sports']","[0.719296433, 1.0]"
+abacus,8473,"['Technology Industry', 'Education']","[0.804807504, 1.0]"
+pit_bull_terrier,24595,['Dogs'],[0.816347918]
+keypad,2890,"['Technology & Computing', 'Laptops', 'Consumer Electronics', 'Desktops']","[0.740856262, 0.771642487, 0.78100591, 0.686775554]"
+ailurus_fulgens,8041,['Large Animals'],[0.773266625]
+labyrinth,1726,['Outdoor Activities'],[0.763356919]
+rottweiler,31279,"['Pets', 'Dogs']","[0.769610463, 0.8600927859999999]"
+lakeside,7603,['Parks & Nature'],[0.7553497659999999]
+sunglasses,858,['Style & Fashion'],[0.730989595]
+greater_swiss_mountain_dog,32663,"['Pets', 'Dogs', 'Large Animals', 'Land and Farms']","[0.7385201840000001, 0.832797371, 0.7846918629999999, 0.71880892]"
+home_theater,3921,"['Smart Home', 'Home Entertaining', 'Music and Audio', 'Retail Property', 'Houses', 'Apartments', 'Television', 'Video Gaming', 'Sports']","[0.8227061290000001, 0.834798541, 0.7334340779999999, 0.7223535109999999, 0.776463507, 0.705040708, 0.692021621, 1.0, 1.0]"
+bubalus_bubalis,25235,['Large Animals'],[0.7506359029999999]
+tibetan_terrier,4979,"['Pets', 'Dogs']","[0.7544281429999999, 0.841722352]"
+internet_site,40817,"['Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Dating']","[0.73599898, 0.7756112609999999, 0.739853487, 0.759261401, 0.789649765, 0.7459666290000001, 0.760978223, 0.671098857]"
+pekingese,13363,['Dogs'],[0.7109972040000001]
+church,167,"['Religious Events', 'Religion & Spirituality']","[0.7432778459999999, 1.0]"
+thalarctos_maritimus,57131,['Polar Travel'],[0.794313128]
+porphyrio_porphyrio,22308,"['Birds', 'Large Animals', 'Africa Travel', 'Asia Travel', 'Europe Travel', 'North America Travel', 'South America Travel']","[0.811811882, 0.733309175, 0.7497513579999999, 0.746147962, 0.7557602440000001, 0.746066789, 0.750125261]"
+bakeshop,22100,['Desserts and Baking'],[0.7370943679999999]
+bikini,5274,"['Style & Fashion', ""Women's Clothing"", 'Shopping']","[0.768798012, 0.832437622, 1.0]"
+fashion,9072,"[""Women's Shoes and Footwear"", 'Entertainment Industry', 'Apparel Industry', 'Fashion Events', 'Pop Culture', 'Shopping', 'Style & Fashion', 'Beauty', 'Makeup and Accessories', ""Women's Handbags and Wallets"", ""Women's Jewelry and Watches"", ""Women's Clothing"", ""Women's Formal Wear"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Casual Wear"", ""Men's Formal Wear""]","[0.649694596, 0.7150018340000001, 0.750532315, 0.8432154079999999, 0.73628715, 0.722225537, 0.832043964, 0.7345091429999999, 0.7560603290000001, 0.771419783, 0.7753168490000001, 0.791085013, 0.7655697770000001, 0.777230166, 0.77565856, 0.774194103, 0.750470564]"
+french_loaf,27018,"['Cooking', 'Dining Out']","[0.8037907540000001, 0.7240525329999999]"
+great_pyrenees,5368,"['Pets', 'Dogs']","[0.74369265, 0.816689419]"
+mexican_hairless,21863,"['Pets', 'Dogs', 'Large Animals']","[0.713743875, 0.8117515670000001, 0.72030438]"
+otter_hound,8443,"['Pets', 'Dogs']","[0.7369838959999999, 0.8309702659999999]"
+pretzel,5516,"['Food Industry', 'Cooking']","[0.77965309, 0.73754163]"
+pug-dog,116740,"['Pets', 'Dogs']","[0.789188837, 0.863065583]"
+hair_slide,14388,['Style & Fashion'],[0.738768164]
+space_bar,6548,"['Technology Industry', 'Technology & Computing', 'Consumer Electronics']","[0.714879435, 0.736823621, 0.7926446690000001]"
+cacatua_galerita,27035,['Birds'],[0.7879779109999999]
+keeshond,4195,"['Pets', 'Dogs']","[0.7255223279999999, 0.828662575]"
+sulphur-crested_cockatoo,36764,['Birds'],[0.7879779109999999]
+disk_brake,3582,['Auto Parts'],[0.751509564]
+file_cabinet,5357,"['Business and Finance', 'Home & Garden']","[1.0, 1.0]"
+little_blue_heron,21898,['Birds'],[0.804940633]
+microwave,4279,"['Cooking', 'Home Appliances', 'Consumer Electronics']","[0.761767847, 0.777155777, 0.722142863]"
+slot,124,"['Casinos & Gambling', 'Video Gaming']","[0.789404087, 1.0]"
+lhasa,813,['Dogs'],[0.713497685]
+accordion,392,"['Musical Instruments', 'Music and Audio', 'Music and Audio']","[0.79780725, 0.7220575379999999, 1.0]"
+samoyed,12785,"['Pets', 'Dogs']","[0.7252748440000001, 0.819489647]"
+gordon_setter,47796,['Dogs'],[0.783716533]
+stone_wall,11894,"['Home & Garden', 'Music and Audio', 'Sports', 'Hobbies & Interests', 'Education', 'Food & Drink', 'Pets']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+beach_wagon,2391,"['Station Wagon', 'Travel']","[0.978162367, 1.0]"
+drop-off,10193,"['Real Estate', 'Travel']","[1.0, 1.0]"
+electrical_switch,3777,['Consumer Electronics'],[0.776941743]
+electric_guitar,3087,['Music and Audio'],[0.735540002]
+soft-coated_wheaten_terrier,84841,['Dogs'],[0.8056613970000001]
+crt_screen,42946,['Desktops'],[0.6362829560000001]
+tub,678,"['Home & Garden', 'Bath and Shower', 'Bath and Shower', 'Healthy Living', 'Medical Health']","[0.733386097, 0.952007824, 0.819402078, 1.0, 1.0]"
+lesser_panda,2061,['Large Animals'],[0.773266625]
+mower,1960,['Landscaping'],[0.717353481]
+jammies,30944,"[""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear""]","[0.718434212, 0.733496974, 0.72317541]"
+street_sign,25917,['Road-Side Assistance'],[0.7508672359999999]
+orca,7894,['Large Animals'],[0.714841607]
+labrador_retriever,42080,['Pets'],[0.749005475]
+tiger_cat,10639,['Cats'],[0.8747376040000001]
+brabancon_griffon,3523,"['Pets', 'Dogs']","[0.737658693, 0.81964035]"
+squeeze_box,32278,"['Musical Instruments', 'Music and Audio', 'Music and Audio']","[0.79780725, 0.7220575379999999, 1.0]"
+felis_onca,62247,['Cats'],[0.750924626]
+corkscrew,12613,"['Cooking', 'Events and Attractions']","[0.76443839, 1.0]"
+minivan,4867,"['Auto Parts', 'Auto Rentals']","[0.724198355, 0.730903592]"
+oboe,2827,['Musical Instruments'],[0.8223355170000001]
+shopping_basket,1230,['Holiday Shopping'],[0.7889256490000001]
+television,1340,"['Entertainment Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Smart Home', 'Music and Audio', 'Consumer Electronics', 'Television', 'Video Gaming']","[0.801618339, 0.773447435, 0.712623978, 0.765176645, 0.731051034, 0.762531438, 0.801080472, 0.951652742, 0.729644799]"
+house_finch,28166,['Birds'],[0.761299885]
+ring_armour,74006,"[""Men's Clothing"", ""Men's Formal Wear"", 'Events and Attractions', 'Television']","[0.732664642, 0.7297287579999999, 1.0, 1.0]"
+jean,5689,"['Style & Fashion', ""Women's Handbags and Wallets"", ""Women's Clothing"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Casual Wear""]","[0.7436001440000001, 0.733627406, 0.8056332509999999, 0.746386668, 0.7897102559999999, 0.844394781]"
+walker_hound,35809,['Dogs'],[0.780741481]
+haversack,26073,"['Travel Accessories', 'Education']","[0.714945823, 1.0]"
+gong,1216,"['Musical Instruments', 'Music and Audio', 'Events and Attractions']","[0.747099533, 1.0, 1.0]"
+shades,3626,['Style & Fashion'],[0.730989595]
+technology,1338,"['Education industry', 'Financial Industry', 'Healthcare Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Science', 'Technology & Computing', 'Consumer Electronics', 'Smartphones']","[0.779978233, 0.742356317, 0.7682852020000001, 0.7532497890000001, 0.781390853, 0.725524908, 0.897572203, 0.7836501229999999, 0.770160283, 0.75790792, 0.728670355, 0.869161025, 0.757497807, 0.641972191]"
+castle,1303,"['Events and Attractions', 'Travel', 'Education']","[1.0, 1.0, 1.0]"
+pekinese,9808,['Dogs'],[0.7109972040000001]
+icecream,23819,"['Food Industry', 'Food & Drink', 'Desserts and Baking']","[0.744225606, 0.805691485, 0.8303084740000001]"
+jaguar,9860,['Cats'],[0.750924626]
+killer,2685,['Large Animals'],[0.714841607]
+alsatian,4197,['Dogs'],[0.8342992440000001]
+milk_can,36962,['Food Industry'],[0.730756243]
+hair_drier,1154,['Hair Care'],[0.786192617]
+bow-tie,114001,"[""Men's Formal Wear"", 'Events and Attractions', 'Business and Finance']","[0.739764438, 1.0, 1.0]"
+soup_bowl,13071,['Food & Drink'],[0.7619148179999999]
+toilet_seat,4621,['Home Appliances'],[0.7228650959999999]
+bakehouse,12661,['Desserts and Baking'],[0.7370943679999999]
+chain_mail,1820,"[""Men's Clothing"", ""Men's Formal Wear"", 'Events and Attractions', 'Television']","[0.732664642, 0.7297287579999999, 1.0, 1.0]"
+mitten,18146,"[""Women's Clothing"", ""Men's Clothing""]","[0.76859493, 0.7642239590000001]"
+bulbul,9475,['Birds'],[0.807448429]
+international,4054,"['Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Healthcare Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Events and Attractions', 'Fashion Events', 'Concerts & Music Events', 'Medical Health', 'Travel', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'South America Travel', 'Air Travel', 'Education industry', 'Education', 'College Education', 'Religious Events', 'Pop Culture', 'Religion & Spirituality', 'Hobbies & Interests', 'Hospitality Industry', 'Events and Attractions', 'Personal Celebrations & Life Events', 'World Cuisines', 'Hotel Properties', 'Flower Shopping', 'Holiday Shopping', 'Travel', 'Travel Locations', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'South America Travel', 'Hotels and Motels', 'Rail Travel', 'Air Travel', 'Beach Travel', 'Cruises']","[0.763236789, 0.769505184, 0.7817538940000001, 0.7777089620000001, 0.754302617, 0.7553776390000001, 0.799006526, 0.7421277709999999, 0.748950082, 0.7257573, 0.764483164, 0.7197493840000001, 0.74015012, 0.713727503, 0.71460465, 0.7178211170000001, 0.7371793440000001, 0.741996678, 0.724362882, 0.740942702, 0.724261044, 0.730262117, 0.724842957, 0.790463765, 0.757885062, 0.7322559270000001, 0.765366384, 0.737175809, 0.724646107, 0.704363393, 0.7551545540000001, 0.7879134940000001, 0.794054776, 0.759310643, 0.7433559059999999, 0.7111621309999999, 0.841930944, 0.801629287, 0.79575033, 0.7963498720000001, 0.7900910090000001, 0.78419554, 0.810894697, 0.803740311, 0.8082011109999999, 0.749554374, 0.733003031, 0.782291457, 0.8334856620000001, 0.723747413]"
+parallel_bars,8969,"['Sports', 'Outdoor Activities', 'Fitness and Exercise']","[0.771649038, 0.734361011, 0.75452302]"
+recreational_vehicle,4887,"['Auto Type', 'Auto Rentals']","[0.71514365, 0.758220254]"
+remote,783,"['Smart Home', 'Home Security', 'Technology & Computing', 'Consumer Electronics']","[0.7253921409999999, 0.743409304, 0.71695378, 0.781990958]"
+banana,1522,"['Healthy Living', 'Home & Garden']","[1.0, 1.0]"
+tape_player,6619,"['Music and Audio', 'Consumer Electronics']","[0.7903851390000001, 0.799024952]"
+chow_chow,6404,['Cats'],[0.7428733240000001]
+lens_cap,34596,['Cameras and Camcorders'],[0.718516917]
+holiday,41868,"['Hospitality Industry', 'Events and Attractions', 'Personal Celebrations & Life Events', 'World Cuisines', 'Hotel Properties', 'Flower Shopping', 'Holiday Shopping', 'Travel', 'Travel Locations', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'South America Travel', 'Hotels and Motels', 'Rail Travel', 'Air Travel', 'Beach Travel', 'Cruises']","[0.7551545540000001, 0.7879134940000001, 0.794054776, 0.759310643, 0.7433559059999999, 0.7111621309999999, 0.841930944, 0.801629287, 0.79575033, 0.7963498720000001, 0.7900910090000001, 0.78419554, 0.810894697, 0.803740311, 0.8082011109999999, 0.749554374, 0.733003031, 0.782291457, 0.8334856620000001, 0.723747413]"
+artichoke,17046,['Healthy Living'],[1.0]
+dustcart,14338,"['Commercial Trucks', 'Logistics and Transportation Industry']","[0.856448076, 0.712549243]"
+rv,6929,"['Auto Type', 'Auto Rentals']","[0.71514365, 0.758220254]"
+skillet,10253,"['Cooking', 'Desserts and Baking']","[0.833810913, 0.7496542909999999]"
+education,10286,"['Books and Literature', 'Business and Finance', 'Education industry', 'Financial Industry', 'Healthcare Industry', 'Logistics and Transportation Industry', 'Technology Industry', 'Education', 'College Education', 'Primary Education', 'Daycare and Pre-School', 'Medical Health', 'Science', 'Graduation', 'Hobbies & Interests', 'Parenting']","[0.715854819, 0.7512387970000001, 0.883043213, 0.7484558790000001, 0.7738604370000001, 0.713241702, 0.716469173, 0.931252219, 0.896429678, 0.892395924, 0.77330917, 0.785477813, 0.784349905, 0.7093669429999999, 0.651628227, 0.6865407840000001]"
+miniskirt,23198,"[""Women's Clothing""]",[0.763431888]
+site,1132,"['Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Dating']","[0.73599898, 0.7756112609999999, 0.739853487, 0.759261401, 0.789649765, 0.7459666290000001, 0.760978223, 0.671098857]"
+african_grey,2732,['Birds'],[0.769697176]
+giant_schnauzer,50014,"['Pets', 'Dogs', 'Large Animals']","[0.739785032, 0.8288124309999999, 0.750050067]"
+blow_dryer,3894,['Hair Care'],[0.786192617]
+groom,200,"['Family and Relationships', 'Wedding']","[0.614354676, 0.829395696]"
+radio,649,"['Automotive', 'Entertainment Industry', 'Technology Industry', 'Telecommunications Industry', 'Music and Audio', 'Consumer Electronics', 'Smartphones']","[0.71689951, 0.7286450990000001, 0.730458513, 0.7486335690000001, 0.7742068329999999, 0.821379018, 0.636530454]"
+ice_cream,515,"['Food Industry', 'Food & Drink', 'Desserts and Baking']","[0.744225606, 0.805691485, 0.8303084740000001]"
+sleuthhound,45086,"['Pets', 'Dogs']","[0.7239127679999999, 0.83707486]"
+denim,950,"['Style & Fashion', ""Women's Handbags and Wallets"", ""Women's Clothing"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Casual Wear""]","[0.7436001440000001, 0.733627406, 0.8056332509999999, 0.746386668, 0.7897102559999999, 0.844394781]"
+cello,391,"['Musical Instruments', 'Music and Audio']","[0.7818995190000001, 1.0]"
+sweet_potato,15290,"['Musical Instruments', 'Food & Drink']","[0.7249116290000001, 1.0]"
+great_dane,11879,"['Pets', 'Large Animals']","[0.762114273, 0.72657546]"
+carriage_dog,17054,"['Pets', 'Dogs', 'Large Animals']","[0.77844368, 0.859156327, 0.7175421820000001]"
+dish_washer,28495,"['Home Appliances', 'Consumer Electronics', 'Food & Drink']","[0.776695323, 0.7198272370000001, 1.0]"
+red_hot,7102,"['Food Industry', 'Food & Drink', 'Barbecues and Grilling', 'Cooking', 'Dining Out']","[0.759341193, 0.795140961, 0.713491313, 0.757636255, 0.734433538]"
+asiatic_buffalo,5120,['Large Animals'],[0.7506359029999999]
+bubble,3656,"[""Children's Games and Toys""]",[0.759468205]
+african_hunting_dog,7017,['Dogs'],[0.8524347859999999]
+maillot,11698,"[""Women's Clothing"", ""Women's Clothing""]","[0.764464013, 0.731161761]"
+bluetick,94948,['Dogs'],[0.807978952]
+staffordshire_bull_terrier,2680,['Dogs'],[0.788951795]
+maltese_terrier,48246,"['Pets', 'Dogs']","[0.7484222340000001, 0.831199606]"
+vizsla,19725,['Dogs'],[0.760129176]
+leopard,977,['Cats'],[0.7449341420000001]
+eatery,2710,"['Food Industry', 'Malls & Shopping Centers', 'Bars & Restaurants', 'Food & Drink', 'World Cuisines', 'Cooking', 'Desserts and Baking', 'Dining Out']","[0.785636667, 0.72141469, 0.870533467, 0.818637886, 0.717774528, 0.7602281559999999, 0.7502017329999999, 0.91375805]"
+billfold,1743,"[""Women's Handbags and Wallets""]",[0.747856986]
+literature,23961,"['Books and Literature', 'Primary Education', 'Science', 'Education']","[0.876813475, 0.712312548, 0.7659120770000001, 0.7101011690000001]"
+hyaena,15484,['Large Animals'],[0.783298845]
+culture,2829,"['Pop Culture', 'Books and Literature', 'Education industry', 'Religious Events', 'Family and Relationships', 'World Cuisines', 'Pop Culture', 'Religion & Spirituality', 'South America Travel']","[0.684878543, 0.717812751, 0.733027558, 0.79559341, 0.7603110259999999, 0.74036823, 0.8082786059999999, 0.73231751, 0.711102441]"
+doberman_pinscher,28990,['Dogs'],[0.779710784]
+gazelle_hound,13392,['Dogs'],[0.782450649]
+water_ox,28052,['Large Animals'],[0.7506359029999999]
+tee_shirt,71909,"[""Men's Clothing"", 'Apparel Industry', ""Women's Clothing"", ""Men's Casual Wear""]","[0.81443486, 0.716709973, 0.790229062, 0.808359747]"
+living,5815,"['Personal Celebrations & Life Events', 'Family and Relationships', 'Single Life', 'Dining Out', 'Healthy Living', 'Religion & Spirituality']","[0.7435259, 0.7851478390000001, 0.7972067909999999, 0.754807742, 0.862502883, 0.669440419]"
+sarong,3177,"[""Women's Clothing"", ""Men's Clothing""]","[0.800097785, 0.76524039]"
+shower_cap,78992,"[""Men's Clothing"", 'Bath and Shower']","[0.7141937890000001, 0.780352594]"
+tractor,3717,['Commercial Trucks'],[0.809839524]
+home,518,"['Home & Garden', 'Smart Home', 'Home Appliances', 'Home Entertaining', 'Home Improvement', 'Home Security', 'Real Estate', 'Apartments', 'Retail Property', 'Houses', 'Land and Farms', 'Household Supplies']","[0.8008469979999999, 0.813714059, 0.823670363, 0.8079224429999999, 0.8305625670000001, 0.833352717, 0.749426739, 0.7727118690000001, 0.746341245, 0.794322302, 0.714121839, 0.7126022890000001]"
+modem,3847,"['Laptops', 'Consumer Electronics']","[0.732750342, 0.82030376]"
+odometer,6311,"['Automotive', 'Automotive Industry', 'Consumer Electronics']","[0.763510537, 0.715653414, 0.8099763440000001]"
+laptop_computer,746,"['Technology & Computing', 'Laptops', 'Consumer Electronics']","[0.7409329729999999, 0.898628413, 0.796815265]"
+collie,9436,"['Pets', 'Dogs']","[0.764945923, 0.8634696079999999]"
+frilled_lizard,5317,['Reptiles'],[0.737089135]
+horizontal_bar,29532,"['Outdoor Activities', 'Fitness and Exercise', 'Sports']","[0.741961322, 0.757469829, 0.772725076]"
+marine,27124,"['Zoos & Aquariums', 'Hobbies & Interests']","[0.644235476, 1.0]"
+poncho,4308,"[""Women's Clothing"", ""Men's Clothing""]","[0.785576006, 0.7823594290000001]"
+chopper,2373,['Cooking'],[0.78818102]
+border_terrier,45833,"['Pets', 'Dogs']","[0.7419974909999999, 0.845091901]"
+lifestyle,23495,"[""Women's Shoes and Footwear"", 'Entertainment Industry', 'Apparel Industry', 'Fashion Events', 'Pop Culture', 'Shopping', 'Style & Fashion', 'Beauty', 'Makeup and Accessories', ""Women's Handbags and Wallets"", ""Women's Jewelry and Watches"", ""Women's Clothing"", ""Women's Formal Wear"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Casual Wear"", ""Men's Formal Wear""]","[0.649694596, 0.7150018340000001, 0.750532315, 0.8432154079999999, 0.73628715, 0.722225537, 0.832043964, 0.7345091429999999, 0.7560603290000001, 0.771419783, 0.7753168490000001, 0.791085013, 0.7655697770000001, 0.777230166, 0.77565856, 0.774194103, 0.750470564]"
+film,3781,"['Movies', 'Entertainment Industry', 'Media Industry', 'Awards Shows', 'Theater Venues and Events', 'Cinemas and Events', 'Comedy Events', 'Movies', 'Pop Culture', 'Television']","[0.6791644840000001, 0.818061305, 0.735209228, 0.729306043, 0.738479971, 0.7316984679999999, 0.802379053, 0.788029155, 0.7355517709999999, 0.7711593529999999]"
+slipstick,27455,"['Technology Industry', 'Technology & Computing']","[0.812549704, 0.775690247]"
+cellphone,3575,"['Telecommunications Industry', 'Consumer Electronics', 'Smartphones', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming']","[0.71513848, 0.7396869620000001, 0.772696085, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+pembroke,8021,['Dogs'],[0.71256651]
+christmas_stocking,5941,['Wedding'],[0.7209950709999999]
+lab_coat,10463,"[""Women's Clothing"", ""Women's Formal Wear"", ""Men's Clothing"", ""Men's Formal Wear""]","[0.7571085040000001, 0.745370869, 0.770362854, 0.7661391740000001]"
+sports_car,8913,"['Sports', 'Automotive', 'Auto Body Styles', 'Convertible', 'Luxury Cars', 'Auto Type', 'Auto Shows', 'Auto Rentals', 'Automotive Industry', 'Travel']","[0.813943905, 0.8118066709999999, 0.8127584729999999, 0.7818099470000001, 0.911262051, 0.791927815, 0.85202909, 0.816438214, 0.7332746290000001, 0.694494637]"
+goose,648,"['Birds', 'Large Animals', 'Food & Drink']","[0.843847692, 0.715358125, 1.0]"
+tobacconist,17048,"['Retail Industry', 'Retail Property']","[0.718103893, 0.722374673]"
+dandie_dinmont,19429,"['Pets', 'Dogs']","[0.7778794609999999, 0.86746432]"
+basketball,566,"['Sports', 'Events and Attractions']","[0.7799013659999999, 1.0]"
+dome,1530,"['Travel', 'Religion & Spirituality']","[1.0, 1.0]"
+seacoast,11517,"['Travel Locations', 'Beach Travel']","[0.719809281, 0.881203427]"
+german_shepherd_dog,63389,['Dogs'],[0.8342992440000001]
+entertainment,2563,"['Movies', 'Entertainment Industry', 'Media Industry', 'Awards Shows', 'Theater Venues and Events', 'Cinemas and Events', 'Comedy Events', 'Movies', 'Pop Culture', 'Television']","[0.6791644840000001, 0.818061305, 0.735209228, 0.729306043, 0.738479971, 0.7316984679999999, 0.802379053, 0.788029155, 0.7355517709999999, 0.7711593529999999]"
+running_shoe,19518,"[""Men's Clothing"", ""Women's Shoes and Footwear"", 'Style & Fashion', ""Women's Clothing""]","[0.8285066879999999, 0.902434501, 0.739947072, 0.829778683]"
+sea-coast,86593,"['Travel Locations', 'Beach Travel']","[0.719809281, 0.881203427]"
+carpodacus_mexicanus,52415,['Birds'],[0.761299885]
+sand_bar,28239,['Beach Travel'],[0.806683472]
+school_bus,15721,"['Daycare and Pre-School', 'Commercial Trucks', 'Auto Type', 'Primary Education', 'Travel Locations', 'North America Travel']","[0.781579329, 0.746558632, 0.715711725, 0.7291072759999999, 0.719512697, 0.712152387]"
+eschrichtius_robustus,53300,['Large Animals'],[0.7262935159999999]
+hyena_dog,31898,['Dogs'],[0.8524347859999999]
+bustard,8835,['Birds'],[0.81355827]
+chlamydosaurus_kingi,5318,['Reptiles'],[0.737089135]
+scotch_terrier,33381,['Dogs'],[0.791511972]
+meatloaf,1130,"['Food Industry', 'Food & Drink', 'Cooking']","[0.750858641, 0.7596203009999999, 0.8097347420000001]"
+great_gray_owl,33741,['Birds'],[0.778239089]
+anolis_carolinensis,3943,['Reptiles'],[0.71168795]
+stop_watch,22519,"[""Women's Jewelry and Watches"", 'Consumer Electronics']","[0.775214176, 0.71901258]"
+sussex_spaniel,36266,"['Pets', 'Dogs']","[0.7336186170000001, 0.8067911590000001]"
+english_cocker_spaniel,17682,['Dogs'],[0.77933547]
+american_eagle,13558,['Birds'],[0.7857245340000001]
+limpkin,1611,['Birds'],[0.78989697]
+limo,13794,"['Luxury Cars', 'Auto Rentals']","[0.795002278, 0.7628123990000001]"
+spatula,7084,"['Cooking', 'Desserts and Baking']","[0.8633517540000001, 0.8088921929999999]"
+maypole,29849,['Outdoor Activities'],[0.7957938640000001]
+dipper,1282,['Birds'],[0.790813715]
+digital_watch,8787,"['Technology Industry', ""Women's Jewelry and Watches"", 'Education', 'Healthy Living', 'Science', 'Medical Health', 'Pop Culture']","[0.746240158, 0.757895283, 1.0, 1.0, 1.0, 1.0, 1.0]"
+travel,6401,"['Luxury Cars', 'Road-Side Assistance', 'Auto Rentals', 'Logistics and Transportation Industry', 'Aviation Industry', 'Travel', 'Travel Accessories', 'Travel Locations', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'Polar Travel', 'South America Travel', 'Hotels and Motels', 'Rail Travel', 'Air Travel', 'Beach Travel', 'Cruises']","[0.7155804040000001, 0.7231260279999999, 0.724277334, 0.842193868, 0.723072339, 0.889681926, 0.825058084, 0.864016377, 0.8270263240000001, 0.8379164370000001, 0.785664701, 0.846764669, 0.815569799, 0.815104927, 0.812745747, 0.720589363, 0.8832072790000001, 0.8483552670000001, 0.83094395, 0.682774368]"
+cassette_player,8503,"['Music and Audio', 'Consumer Electronics']","[0.784852386, 0.7962177340000001]"
+gray_whale,20505,['Large Animals'],[0.7262935159999999]
+whippet,8554,['Dogs'],[0.841166085]
+papillon,570,"['Pets', 'Dogs']","[0.7146998309999999, 0.8116491859999999]"
+carcharodon_carcharias,10134,['Large Animals'],[0.744134087]
+cheeseburger,16738,"['Food Industry', 'Cooking', 'Travel']","[0.783011316, 0.750379517, 1.0]"
+photocopier,966,['Consumer Electronics'],[0.817014279]
+salt_shaker,11892,['Desserts and Baking'],[0.719830623]
+loudspeaker_system,21670,"['Music and Audio', 'Consumer Electronics']","[0.7500630690000001, 0.744803323]"
+necklace,2578,['Makeup and Accessories'],[0.771186549]
+knapsack,1886,"['Travel Accessories', 'Education']","[0.714945823, 1.0]"
+military_uniform,10943,"['Apparel Industry', ""Women's Clothing"", ""Women's Shoes and Footwear"", ""Men's Clothing""]","[0.761936409, 0.822549803, 0.77779752, 0.8324852559999999]"
+kimono,8040,"['Apparel Industry', 'Style & Fashion', ""Women's Clothing"", ""Women's Formal Wear""]","[0.735467199, 0.72985295, 0.80146626, 0.76432134]"
+family,7547,"['Family and Relationships', 'Parenting', 'Single Life', 'Personal Celebrations & Life Events', 'Family and Relationships', 'Parenting', 'Religion & Spirituality', 'Family and Relationships', 'Parenting', 'Single Life', 'Personal Celebrations & Life Events', 'Family and Relationships', 'Home & Garden', 'Parenting', 'Religion & Spirituality', 'Religious Events']","[0.770721604, 0.629894775, 0.628738425, 0.7823783059999999, 0.903366144, 0.705858, 0.668902265, 0.769525186, 0.610232511, 0.5072360779999999, 0.826869552, 0.8765452770000001, 0.750064779, 0.682659602, 0.690972203, 0.709527233]"
+limousine,9382,"['Luxury Cars', 'Auto Rentals']","[0.795002278, 0.7628123990000001]"
+ice_lolly,2441,['Desserts and Baking'],[0.710930532]
+panthera_uncia,474,['Large Animals'],[0.751361462]
+brittany_spaniel,30274,"['Pets', 'Dogs']","[0.730191881, 0.8225543120000001]"
+mobile_phone,3139,"['Telecommunications Industry', 'Consumer Electronics', 'Smartphones', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming']","[0.71513848, 0.7396869620000001, 0.772696085, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+kakatoe_galerita,9246,['Birds'],[0.7879779109999999]
+briard,25525,['Dogs'],[0.8168494470000001]
+patio,2700,"['Outdoor Activities', 'Home & Garden', 'Remodeling & Construction', 'Landscaping', 'Apartments', 'Hotel Properties', 'Houses']","[0.7422736259999999, 0.8512880709999999, 0.718400288, 0.829477989, 0.747647866, 0.7139366629999999, 0.756513344]"
+buckle,1807,['Automotive'],[1.0]
+boston_terrier,29780,"['Pets', 'Dogs']","[0.71254715, 0.811585269]"
+grey_whale,25861,['Large Animals'],[0.7262935159999999]
+australian_terrier,98648,"['Pets', 'Dogs']","[0.7621710190000001, 0.8444665459999999]"
+docking_facility,32879,"['Outdoor Activities', 'Real Estate']","[0.785321, 1.0]"
+academic_robe,20597,"['Graduation', ""Women's Clothing"", ""Women's Formal Wear"", ""Men's Clothing"", ""Men's Formal Wear"", 'Events and Attractions', 'Education']","[0.789665643, 0.811012512, 0.839056639, 0.8108119359999999, 0.8383037940000001, 1.0, 1.0]"
+ursus_maritimus,3187,['Polar Travel'],[0.794313128]
+ailuropoda_melanoleuca,36577,"['Large Animals', 'Events and Attractions']","[0.7422521540000001, 1.0]"
+plow,1787,['Commercial Trucks'],[0.718073333]
+nursery,3301,"['Gardening', 'Landscaping']","[0.76103887, 0.74655118]"
+transverse_flute,2098,"['Musical Instruments', 'Music and Audio']","[0.79435041, 1.0]"
+redbone,13873,['Dogs'],[0.806754317]
+lion,563,['Cats'],[0.773798323]
+measuring_cup,12781,"['Food & Drink', 'Cooking', 'Desserts and Baking']","[0.7282241629999999, 0.840277108, 0.812902377]"
+computer_mouse,37309,['Desktops'],[0.630952587]
+articulated_lorry,3156,"['Commercial Trucks', 'Logistics and Transportation Industry']","[0.920690529, 0.722615795]"
+lycaon_pictus,7016,['Dogs'],[0.8524347859999999]
+estate_car,13484,"['Station Wagon', 'Travel']","[0.978162367, 1.0]"
+malamute,23810,['Dogs'],[0.7490479729999999]
+hautboy,39259,['Musical Instruments'],[0.8223355170000001]
+bobtail,15366,['Dogs'],[0.79385823]
+cypripedium_calceolus,8642,"['Flower Shopping', 'Home & Garden']","[0.790135569, 1.0]"
+broccoli,7104,"['Cooking', 'Healthy Living']","[0.756586269, 1.0]"
+dragon_lizard,12182,['Reptiles'],[0.7850878370000001]
+panda_bear,12508,"['Large Animals', 'Events and Attractions']","[0.7422521540000001, 1.0]"
+sewing_machine,4692,"['Apparel Industry', 'Consumer Electronics', 'Style & Fashion', 'Hobbies & Interests']","[0.724951129, 0.718582527, 1.0, 1.0]"
+water_buffalo,1367,['Large Animals'],[0.7506359029999999]
+monkey_dog,6757,"['Pets', 'Dogs']","[0.7476108859999999, 0.839695656]"
+sport_car,55146,"['Sports', 'Automotive', 'Auto Body Styles', 'Convertible', 'Luxury Cars', 'Auto Type', 'Auto Shows', 'Auto Rentals', 'Automotive Industry', 'Travel']","[0.813943905, 0.8118066709999999, 0.8127584729999999, 0.7818099470000001, 0.911262051, 0.791927815, 0.85202909, 0.816438214, 0.7332746290000001, 0.694494637]"
+devilfish,40194,['Large Animals'],[0.7262935159999999]
+varanus_komodoensis,31799,['Reptiles'],[0.7850878370000001]
+samoyede,12786,"['Pets', 'Dogs']","[0.7252748440000001, 0.819489647]"
+hay,641,"['Food & Drink', 'Home & Garden']","[1.0, 1.0]"
+golden_retriever,2425,"['Pets', 'Dogs']","[0.763938316, 0.856236187]"
+mortar,3226,"['Barbecues and Grilling', 'Cooking', 'Home & Garden']","[0.730864518, 0.8481564709999999, 1.0]"
+brambling,4818,['Birds'],[0.8941372040000001]
+pitcher,2405,['Cooking'],[0.75476654]
+affenpinscher,27648,"['Pets', 'Dogs']","[0.7476108859999999, 0.839695656]"
+megalith,7716,['Outdoor Activities'],[0.7127958870000001]
+printer,1449,"['Technology & Computing', 'Consumer Electronics']","[0.722463953, 0.831787798]"
+walker_foxhound,38967,['Dogs'],[0.780741481]
+tabby_cat,19,"['Pets', 'Cats']","[0.7246589790000001, 0.8790887909999999]"
+china_closet,70545,"['Makeup and Accessories', 'Bath and Shower', 'Travel Accessories', 'Asia Travel', 'Australia and Oceania Travel', 'Style & Fashion']","[0.720683049, 0.727186055, 0.716546309, 0.67252889, 0.688375218, 1.0]"
+people,4181,"['Single Life', 'Education industry', 'Primary Education', 'Events and Attractions', 'Parks & Nature', 'Personal Celebrations & Life Events', 'Religious Events', 'Theater Venues and Events', 'Family and Relationships', 'Daycare and Pre-School', 'Single Life', 'Healthy Living', 'Pop Culture', 'Religion & Spirituality', 'Education', 'Hobbies & Interests', 'Parenting', 'Personal Celebrations & Life Events', 'Family and Relationships', 'Single Life', 'Dining Out', 'Healthy Living', 'Religion & Spirituality', 'Pop Culture', 'Books and Literature', 'Education industry', 'Religious Events', 'Family and Relationships', 'World Cuisines', 'Pop Culture', 'Religion & Spirituality', 'South America Travel']","[0.533438917, 0.7305022790000001, 0.7119860109999999, 0.716033225, 0.721101277, 0.81979775, 0.755230189, 0.7118126379999999, 0.8200355779999999, 0.722204669, 0.847658516, 0.827655068, 0.7235511290000001, 0.72966838, 0.709703924, 0.690710009, 0.616295797, 0.7435259, 0.7851478390000001, 0.7972067909999999, 0.754807742, 0.862502883, 0.669440419, 0.684878543, 0.717812751, 0.733027558, 0.79559341, 0.7603110259999999, 0.74036823, 0.8082786059999999, 0.73231751, 0.711102441]"
+sax,8466,"['Musical Instruments', 'Music and Audio']","[0.823355815, 1.0]"
+wallet,1625,"[""Women's Handbags and Wallets""]",[0.747856986]
+tray,367,['Dining Out'],[0.753464424]
+road,5311,"['Automotive', 'Commercial Trucks', 'Station Wagon', 'Pickup Trucks', 'Green Vehicles', 'Luxury Cars', 'Auto Type', 'Auto Parts', 'Auto Repair', 'Auto Rentals', 'Logistics and Transportation Industry', 'Automotive Industry', 'North America Travel', 'South America Travel']","[0.778019977, 0.773104461, 0.7267403, 0.746348399, 0.795113595, 0.7987588309999999, 0.7709021140000001, 0.796000138, 0.781789024, 0.771035673, 0.721153664, 0.7541276109999999, 0.7375791209999999, 0.7329757109999999]"
+irish_water_spaniel,71371,"['Pets', 'Dogs']","[0.736250541, 0.826813822]"
+ewer,14536,['Cooking'],[0.75476654]
+solar_dish,30755,['Technology Industry'],[0.741753036]
+malemute,11040,['Dogs'],[0.7490479729999999]
+persian_cat,14157,['Pets'],[0.765027738]
+ski,471,"['Sports', 'Outdoor Activities', 'Travel']","[0.85044192, 0.77790012, 0.682026013]"
+norfolk_terrier,6589,"['Pets', 'Dogs']","[0.757564217, 0.828581607]"
+volleyball,5437,['Sports'],[0.73550146]
+filing_cabinet,17111,"['Business and Finance', 'Home & Garden']","[1.0, 1.0]"
+cocker,2996,['Dogs'],[0.77933547]
+dog_sleigh,69914,"['Dogs', 'Sports']","[0.797075236, 1.0]"
+flagpole,7093,['Sports'],[1.0]
+website,1337,"['Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Media Industry', 'Retail Industry', 'Technology Industry', 'Dating']","[0.73599898, 0.7756112609999999, 0.739853487, 0.759261401, 0.789649765, 0.7459666290000001, 0.760978223, 0.671098857]"
+chocolate_sauce,5954,"['Food Industry', 'Food & Drink', 'Alcoholic Beverages', 'Desserts and Baking', 'Non-Alcoholic Beverages', 'Food & Drink']","[0.731316306, 0.8063419270000001, 0.735024118, 0.883411698, 0.7316585109999999, 1.0]"
+ballplayer,1583,['Sports'],[0.7379699209999999]
+military_plane,32553,"['Aviation Industry', 'Air Travel']","[0.7569222409999999, 0.739623114]"
+bathing_tub,43974,"['Home & Garden', 'Bath and Shower', 'Healthy Living', 'Medical Health']","[0.733386097, 0.952007824, 1.0, 1.0]"
+hot_dog,1453,"['Food Industry', 'Food & Drink', 'Barbecues and Grilling', 'Cooking', 'Dining Out']","[0.759341193, 0.795140961, 0.713491313, 0.757636255, 0.734433538]"
+coucal,2762,['Birds'],[0.7525702059999999]
+flagstaff,8906,['Sports'],[1.0]
+german_shepherd,18328,['Dogs'],[0.8342992440000001]
+dough,1713,['Cooking'],[0.807401897]
+planetarium,7040,['Space and Astronomy'],[0.757177675]
+radio_reflector,85842,"['Technology Industry', 'Space and Astronomy']","[0.711560561, 0.748807625]"
+ski_mask,5403,"[""Women's Clothing"", ""Men's Clothing""]","[0.792421898, 0.796290596]"
+automatic_washer,17568,"['Home Appliances', 'Consumer Electronics']","[0.784225498, 0.717050335]"
+go-kart,88688,"['Travel', 'Sports', 'Pop Culture']","[1.0, 1.0, 1.0]"
+german_short-haired_pointer,60107,['Dogs'],[0.789788816]
+polar_bear,3188,['Polar Travel'],[0.794313128]
+shower_curtain,7645,['Bath and Shower'],[0.8621097940000001]
+waffle_iron,12536,['Consumer Electronics'],[0.7569473959999999]
+tow_car,27875,"['Commercial Trucks', 'Pickup Trucks', 'Road-Side Assistance']","[0.813929652, 0.8451799520000001, 0.755052646]"
+mask,2595,"['Apparel Industry', ""Women's Clothing"", ""Men's Clothing""]","[0.731801652, 0.805906635, 0.809783685]"
+typewriter_keyboard,6547,['Consumer Electronics'],[0.7637909740000001]
+world,25812,"['Hospitality Industry', 'Events and Attractions', 'Personal Celebrations & Life Events', 'World Cuisines', 'Hotel Properties', 'Flower Shopping', 'Holiday Shopping', 'Travel', 'Travel Locations', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'South America Travel', 'Hotels and Motels', 'Rail Travel', 'Air Travel', 'Beach Travel', 'Cruises']","[0.7551545540000001, 0.7879134940000001, 0.794054776, 0.759310643, 0.7433559059999999, 0.7111621309999999, 0.841930944, 0.801629287, 0.79575033, 0.7963498720000001, 0.7900910090000001, 0.78419554, 0.810894697, 0.803740311, 0.8082011109999999, 0.749554374, 0.733003031, 0.782291457, 0.8334856620000001, 0.723747413]"
+automobile,9098,"['Automotive', 'Commercial Trucks', 'Station Wagon', 'Pickup Trucks', 'Green Vehicles', 'Luxury Cars', 'Auto Type', 'Auto Parts', 'Auto Repair', 'Auto Rentals', 'Logistics and Transportation Industry', 'Automotive Industry', 'North America Travel', 'South America Travel']","[0.778019977, 0.773104461, 0.7267403, 0.746348399, 0.795113595, 0.7987588309999999, 0.7709021140000001, 0.796000138, 0.781789024, 0.771035673, 0.721153664, 0.7541276109999999, 0.7375791209999999, 0.7329757109999999]"
+miniature_schnauzer,60585,"['Pets', 'Dogs']","[0.7490372209999999, 0.831478243]"
+mixing_bowl,7680,"['Cooking', 'Desserts and Baking']","[0.8589658720000001, 0.824374065]"
+siamese_cat,5183,"['Pets', 'Cats']","[0.746036329, 0.856637106]"
+stove,436,"['Cooking', 'Home Appliances']","[0.734997725, 0.814652039]"
+egretta_caerulea,21899,['Birds'],[0.804940633]
+rucksack,24984,"['Travel Accessories', 'Education']","[0.714945823, 1.0]"
+barometer,1413,"['Consumer Electronics', 'Science']","[0.75392907, 1.0]"
+crossword_puzzle,15116,['Games and Puzzles'],[0.815313196]
+marimba,3619,"['Musical Instruments', 'Music and Audio']","[0.7998789059999999, 1.0]"
+tiger,1295,['Cats'],[0.7462262590000001]
+shopping,10464,"['Malls & Shopping Centers', 'Retail Property', 'Shopping', 'Flower Shopping', 'Grocery Shopping', 'Holiday Shopping']","[0.865212072, 0.719131381, 0.931252259, 0.855234595, 0.90131571, 0.881993464]"
+laboratory_coat,90895,"[""Women's Clothing"", ""Women's Formal Wear"", ""Men's Clothing"", ""Men's Formal Wear""]","[0.7571085040000001, 0.745370869, 0.770362854, 0.7661391740000001]"
+tow_truck,11435,"['Commercial Trucks', 'Pickup Trucks', 'Road-Side Assistance']","[0.813929652, 0.8451799520000001, 0.755052646]"
+italian_greyhound,42478,"['Pets', 'Dogs']","[0.7227637640000001, 0.8248360229999999]"
+pizza,1599,"['Food Industry', 'Cooking', 'Dining Out', 'Grocery Shopping']","[0.767042443, 0.799883927, 0.740637275, 0.723208683]"
+yellow_lady-slipper,37908,"['Flower Shopping', 'Home & Garden']","[0.790135569, 1.0]"
+bulletproof_vest,34460,"['Apparel Industry', 'Science', 'Technology & Computing']","[0.715142258, 1.0, 1.0]"
+puck,2039,['Sports'],[0.7598088959999999]
+pug,822,"['Pets', 'Dogs']","[0.789188837, 0.863065583]"
+vacation,7989,"['Hospitality Industry', 'Events and Attractions', 'Personal Celebrations & Life Events', 'World Cuisines', 'Hotel Properties', 'Flower Shopping', 'Holiday Shopping', 'Travel', 'Travel Locations', 'Africa Travel', 'Asia Travel', 'Australia and Oceania Travel', 'Europe Travel', 'North America Travel', 'South America Travel', 'Hotels and Motels', 'Rail Travel', 'Air Travel', 'Beach Travel', 'Cruises']","[0.7551545540000001, 0.7879134940000001, 0.794054776, 0.759310643, 0.7433559059999999, 0.7111621309999999, 0.841930944, 0.801629287, 0.79575033, 0.7963498720000001, 0.7900910090000001, 0.78419554, 0.810894697, 0.803740311, 0.8082011109999999, 0.749554374, 0.733003031, 0.782291457, 0.8334856620000001, 0.723747413]"
+newfoundland_dog,54802,"['Pets', 'Dogs']","[0.739168039, 0.824601977]"
+station_waggon,81235,"['Station Wagon', 'Travel']","[0.978162367, 1.0]"
+passerina_cyanea,15874,['Birds'],[0.776091247]
+eskimo_dog,15488,"['Pets', 'Dogs']","[0.761427451, 0.852484767]"
+speaker,37,"['Music and Audio', 'Consumer Electronics']","[0.7500630690000001, 0.744803323]"
+otterhound,8353,"['Pets', 'Dogs']","[0.7369838959999999, 0.8309702659999999]"
+saluki,7737,['Dogs'],[0.782450649]
+sandbar,9119,['Beach Travel'],[0.806683472]
+pocketbook,15265,"[""Women's Handbags and Wallets""]",[0.747856986]
+great_grey_owl,2765,['Birds'],[0.778239089]
+cliff_dwelling,3854,"['Travel', 'Education']","[1.0, 1.0]"
+football_helmet,1551,"['Sports', ""Men's Clothing""]","[0.88258169, 0.7120696590000001]"
+teapot,2118,['Cooking'],[0.861130765]
+dandie_dinmont_terrier,48465,"['Pets', 'Dogs']","[0.7778794609999999, 0.86746432]"
+bridegroom,3228,"['Family and Relationships', 'Wedding']","[0.614354676, 0.829395696]"
+piano_accordion,393,"['Musical Instruments', 'Music and Audio', 'Music and Audio']","[0.79780725, 0.7220575379999999, 1.0]"
+cowboy_boot,34500,['Style & Fashion'],[0.7162962279999999]
+ice_bear,10983,['Polar Travel'],[0.794313128]
+blue_jean,59206,"['Style & Fashion', ""Women's Handbags and Wallets"", ""Women's Clothing"", ""Women's Shoes and Footwear"", ""Men's Clothing"", ""Men's Casual Wear""]","[0.7436001440000001, 0.733627406, 0.8056332509999999, 0.746386668, 0.7897102559999999, 0.844394781]"
+prairie_grouse,56966,['Large Animals'],[0.7308066240000001]
+cypripedium_parviflorum,38274,"['Flower Shopping', 'Home & Garden']","[0.790135569, 1.0]"
+vat,2052,['Bath and Shower'],[0.819402078]
+taxi,2190,"['Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel', 'Travel']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+spotlight,592,"['Technology Industry', 'Consumer Electronics']","[0.7448645159999999, 0.807595046]"
+milometer,20284,"['Automotive', 'Automotive Industry', 'Consumer Electronics']","[0.763510537, 0.715653414, 0.8099763440000001]"
+hand-held_microcomputer,83778,"['Technology Industry', 'Technology & Computing', 'Consumer Electronics', 'Tablets and E-readers']","[0.7122108140000001, 0.736553748, 0.748014098, 0.80547558]"
+solar_furnace,8234,['Technology Industry'],[0.741753036]
+french_horn,4288,"['Musical Instruments', 'Music and Audio']","[0.78168368, 1.0]"
+yorkshire_terrier,35101,['Pets'],[0.752494317]
+politics,22248,"['Education industry', 'Education', 'College Education', 'Religious Events', 'Pop Culture', 'Religion & Spirituality', 'Hobbies & Interests', 'Education industry', 'Education', 'Hobbies & Interests', 'Science']","[0.790463765, 0.757885062, 0.7322559270000001, 0.765366384, 0.737175809, 0.724646107, 0.704363393, 0.714247665, 0.715135418, 0.6836135170000001, 0.7094102959999999]"
+eating_house,36627,"['Food Industry', 'Malls & Shopping Centers', 'Bars & Restaurants', 'Food & Drink', 'World Cuisines', 'Cooking', 'Desserts and Baking', 'Dining Out']","[0.785636667, 0.72141469, 0.870533467, 0.818637886, 0.717774528, 0.7602281559999999, 0.7502017329999999, 0.91375805]"
+potpie,9579,"['Food Industry', 'Cooking']","[0.711417718, 0.7504219190000001]"
+carduelis_carduelis,11339,['Birds'],[0.752816313]
+clumber,889,['Dogs'],[0.7148551459999999]
+hourglass,839,"['Technology Industry', 'Technology & Computing', 'Hobbies & Interests']","[0.794074211, 0.734826512, 1.0]"
+fulica_americana,18797,['Birds'],[0.798484877]
+band_aid,1871,['Medical Health'],[0.715388713]
+red_wine,1859,"['Food Industry', 'Bars & Restaurants', 'Cooking']","[0.800226601, 0.718516486, 0.769199205]"
+strainer,6422,"['Cooking', 'Desserts and Baking']","[0.851181023, 0.759155262]"
+station_wagon,5001,"['Station Wagon', 'Travel']","[0.978162367, 1.0]"
+ambulance,9203,"['Commercial Trucks', 'Medical Health']","[0.76374592, 1.0]"
+cardigan,8763,"[""Men's Clothing"", 'Style & Fashion', ""Women's Clothing"", 'Shopping']","[0.791451859, 0.713826555, 0.795226667, 1.0]"
+hyena,6121,['Large Animals'],[0.783298845]
+tramcar,9836,['Rail Travel'],[0.786351885]
+teddy,10127,"[""Children's Games and Toys"", 'Birthday']","[0.72407991, 0.6937410559999999]"
+speaker_unit,7024,"['Music and Audio', 'Consumer Electronics']","[0.7500630690000001, 0.744803323]"
+soda_bottle,13617,"['Food Industry', 'Non-Alcoholic Beverages']","[0.741506456, 0.795078286]"
+saxophone,2663,"['Musical Instruments', 'Music and Audio']","[0.823355815, 1.0]"
+killer_whale,8358,['Large Animals'],[0.714841607]
+ring_armor,29967,"[""Men's Clothing"", ""Men's Formal Wear"", 'Events and Attractions', 'Television']","[0.732664642, 0.7297287579999999, 1.0, 1.0]"
+mileometer,9303,"['Automotive', 'Automotive Industry', 'Consumer Electronics']","[0.763510537, 0.715653414, 0.8099763440000001]"
+restaurant,1662,"['Food Industry', 'Malls & Shopping Centers', 'Bars & Restaurants', 'Food & Drink', 'World Cuisines', 'Cooking', 'Desserts and Baking', 'Dining Out']","[0.785636667, 0.72141469, 0.870533467, 0.818637886, 0.717774528, 0.7602281559999999, 0.7502017329999999, 0.91375805]"
+bull_mastiff,16819,"['Pets', 'Dogs']","[0.7158964720000001, 0.844269182]"
+airedale_terrier,30671,['Dogs'],[0.7652939940000001]
+norwich_terrier,10965,"['Pets', 'Dogs']","[0.7497786590000001, 0.8246157609999999]"
+waggon,2392,"['Station Wagon', 'Travel']","[0.978162367, 1.0]"
+cauliflower,3983,"['Cooking', 'Healthy Living']","[0.747242628, 1.0]"
+dust_cover,4137,['Books and Literature'],[0.7260051270000001]
+basset_hound,6485,['Dogs'],[0.8099861420000001]
+bowtie,12985,"[""Men's Formal Wear"", 'Events and Attractions', 'Business and Finance']","[0.739764438, 1.0, 1.0]"
+irish_terrier,48995,"['Pets', 'Dogs']","[0.7345051290000001, 0.8329578529999999]"
+dining_table,496,"['Events and Attractions', 'Style & Fashion']","[1.0, 1.0]"
+sweatshirt,5142,"[""Men's Casual Wear""]",[0.7790930640000001]
+leonberg,6379,['Large Animals'],[0.7449910359999999]
+head_cabbage,14150,"['Cooking', 'Healthy Living']","[0.749214565, 1.0]"
+fire_engine,7563,"['Commercial Trucks', 'Road-Side Assistance', 'Medical Health']","[0.8067062859999999, 0.73494511, 1.0]"
+hen_of_the_woods,117069,"['Food & Drink', 'Healthy Living']","[1.0, 1.0]"
+iguana_iguana,34026,['Reptiles'],[0.7899185120000001]
+old_english_sheepdog,2166,['Dogs'],[0.79385823]
+abaya,38435,"[""Women's Clothing"", ""Women's Formal Wear"", 'Shopping']","[0.763932053, 0.7196716590000001, 1.0]"
+half_track,8664,['Technology & Computing'],[1.0]
+cloak,1478,"['Apparel Industry', ""Women's Clothing"", ""Men's Clothing"", 'Religion & Spirituality']","[0.711229459, 0.8006217109999999, 0.8070956770000001, 1.0]"
+membranophone,11779,"['Musical Instruments', 'Music and Audio']","[0.8500715670000001, 0.716434389]"
+computer_keyboard,12367,"['Technology & Computing', 'Laptops', 'Consumer Electronics', 'Desktops']","[0.740856262, 0.771642487, 0.78100591, 0.686775554]"
+european_gallinule,22307,"['Birds', 'Large Animals', 'Africa Travel', 'Asia Travel', 'Europe Travel', 'North America Travel', 'South America Travel']","[0.811811882, 0.733309175, 0.7497513579999999, 0.746147962, 0.7557602440000001, 0.746066789, 0.750125261]"
+baseball,486,"['Sports', 'Events and Attractions']","[0.755034015, 1.0]"
+thatch,2304,['Houses'],[0.7478936759999999]
+white_stork,37377,['Birds'],[0.769790394]
+t-shirt,91924,"[""Men's Clothing"", 'Apparel Industry', ""Women's Clothing"", ""Men's Casual Wear""]","[0.81443486, 0.716709973, 0.790229062, 0.808359747]"
+confectionary,28465,"['Food Industry', 'Retail Industry', 'Desserts and Baking', 'Shopping', 'Events and Attractions']","[0.744507027, 0.737122307, 0.7668528370000001, 0.7126039390000001, 1.0]"
+thatched_roof,13945,['Houses'],[0.7478936759999999]
+drumstick,5974,"['Musical Instruments', 'Music and Audio']","[0.754112124, 1.0]"
+essence,6075,"['Beauty', 'Perfume and Fragrance']","[0.7445197640000001, 0.972573569]"
+panthera_tigris,1294,['Cats'],[0.7462262590000001]
+dishwashing_machine,27575,"['Home Appliances', 'Consumer Electronics', 'Food & Drink']","[0.776695323, 0.7198272370000001, 1.0]"
+flat-coated_retriever,1309,['Pets'],[0.732223693]
+wire-haired_fox_terrier,108413,"['Pets', 'Dogs']","[0.7351981329999999, 0.824044016]"
+hockey_puck,11632,['Sports'],[0.7598088959999999]
+chamaeleo_chamaeleon,26439,['Reptiles'],[0.742057746]
+prairie_chicken,18985,['Large Animals'],[0.7308066240000001]
+meat_cleaver,3574,['Cooking'],[0.78818102]
+passenger_car,11076,"['Logistics and Transportation Industry', 'Travel']","[0.7204749559999999, 0.699363825]"
+barbell,5246,"['Sports', 'Healthy Living', 'Home & Garden']","[0.808636465, 1.0, 1.0]"
+radio_telescope,1070,"['Technology Industry', 'Space and Astronomy']","[0.711560561, 0.748807625]"
+crane_(bird),94730,"['Large Animals', 'Travel']","[0.7263185440000001, 1.0]"
+bicycle-built-for-two,104687,"['Logistics and Transportation Industry', 'Travel']","[0.721923109, 1.0]"
+miniature_pinscher,7123,"['Pets', 'Dogs']","[0.722806737, 0.815551987]"
+butcher_shop,1212,"['Food Industry', 'Retail Industry', 'Malls & Shopping Centers', 'Food & Drink', 'Cooking', 'Shopping']","[0.81728151, 0.7884828509999999, 0.7268039470000001, 0.747506619, 0.7192150740000001, 0.737837471]"
+bloodhound,23386,"['Pets', 'Dogs']","[0.7239127679999999, 0.83707486]"
+scooter,1299,"['Auto Type', 'Motorcycles', 'Auto Rentals']","[0.740861338, 0.8380423379999999, 0.7240475690000001]"
+cairn,13452,['Dogs'],[0.7720369690000001]
+life,15108,"['Family and Relationships', 'Parenting', 'Single Life', 'Personal Celebrations & Life Events', 'Family and Relationships', 'Home & Garden', 'Parenting', 'Religion & Spirituality', 'Religious Events', 'Single Life', 'Education industry', 'Primary Education', 'Events and Attractions', 'Parks & Nature', 'Personal Celebrations & Life Events', 'Religious Events', 'Theater Venues and Events', 'Family and Relationships', 'Daycare and Pre-School', 'Single Life', 'Healthy Living', 'Pop Culture', 'Religion & Spirituality', 'Education', 'Hobbies & Interests', 'Parenting']","[0.769525186, 0.610232511, 0.5072360779999999, 0.826869552, 0.8765452770000001, 0.750064779, 0.682659602, 0.690972203, 0.709527233, 0.533438917, 0.7305022790000001, 0.7119860109999999, 0.716033225, 0.721101277, 0.81979775, 0.755230189, 0.7118126379999999, 0.8200355779999999, 0.722204669, 0.847658516, 0.827655068, 0.7235511290000001, 0.72966838, 0.709703924, 0.690710009, 0.616295797]"
+barracouta,6518,['Large Animals'],[0.757510432]
+standard_schnauzer,41282,"['Pets', 'Dogs']","[0.7548487690000001, 0.83561646]"
+reel,432,"['Entertainment Industry', 'Media Industry', 'Technology Industry', 'Consumer Electronics']","[0.7315224509999999, 0.736995052, 0.826625437, 0.7138707240000001]"
+hotpot,2575,"['Cooking', 'Healthy Living', 'Shopping']","[0.8543741509999999, 1.0, 1.0]"
+orcinus_orca,28719,['Large Animals'],[0.714841607]
+pajama,15615,"[""Women's Clothing"", ""Men's Clothing"", ""Men's Casual Wear""]","[0.718434212, 0.733496974, 0.72317541]"
+mike,1030,"['Music and Audio', 'Consumer Electronics']","[0.776573265, 0.767045135]"
+lynx,17494,['Cats'],[0.775467213]
+tile_roof,39110,['Home & Garden'],[0.748449818]
+silky_terrier,10832,['Dogs'],[0.7729215429999999]
+dog_sled,11875,"['Dogs', 'Sports']","[0.797075236, 1.0]"
+theater_curtain,10242,"['Movies', 'Theater Venues and Events', 'Cinemas and Events']","[0.77516416, 0.874227027, 0.767247703]"
+scottish_terrier,35626,['Dogs'],[0.791511972]
+stole,584,['Style & Fashion'],[1.0]
+slide_rule,2503,"['Technology Industry', 'Technology & Computing']","[0.812549704, 0.775690247]"
+cygnus_atratus,79115,['Birds'],[0.774529639]
+indigo_bird,3801,['Birds'],[0.776091247]
+blenheim_spaniel,37164,['Dogs'],[0.789311233]
+grocery_store,1015,"['Business and Finance', 'Food Industry', 'Retail Industry', 'Food & Drink', 'Desserts and Baking', 'Retail Property', 'Shopping', 'Grocery Shopping', 'Household Supplies']","[0.7733311140000001, 0.863967368, 0.8380571059999999, 0.775782028, 0.72015559, 0.81518876, 0.825216354, 0.960761628, 0.772538293]"
+sydney_silky,14001,['Dogs'],[0.7729215429999999]
+tripod,536,['Technology Industry'],[0.7840176870000001]
+ciconia_ciconia,81513,['Birds'],[0.769790394]
+snoek,31366,['Large Animals'],[0.757510432]
+egyptian_cat,52468,"['Pets', 'Large Animals', 'Style & Fashion']","[0.758004833, 0.720421825, 1.0]"
+irish_wolfhound,38185,['Dogs'],[0.785755434]
+joystick,3478,"['Consumer Electronics', 'Video Gaming']","[0.801401916, 1.0]"
+lakeshore,1781,['Parks & Nature'],[0.7553497659999999]
+dark_glasses,16632,['Style & Fashion'],[0.730989595]
+basset,8162,['Dogs'],[0.8099861420000001]
+panthera_onca,72250,['Cats'],[0.750924626]
+tibetan_mastiff,19551,['Dogs'],[0.8143598759999999]
+window_screen,8306,['Home & Garden'],[0.717750091]
+crossword,430,['Games and Puzzles'],[0.815313196]
+violin,773,['Musical Instruments'],[0.8336945570000001]
+bernese_mountain_dog,18970,"['Pets', 'Dogs']","[0.743382765, 0.840041486]"
+hip,56,"['Flower Shopping', 'Home & Garden']","[0.742494378, 1.0]"
+coast,25,"['Travel Locations', 'Beach Travel']","[0.719809281, 0.881203427]"
+tandem,2320,"['Logistics and Transportation Industry', 'Travel']","[0.721923109, 1.0]"
+back_pack,3841,"['Travel Accessories', 'Education']","[0.714945823, 1.0]"
+dust_wrapper,28356,['Books and Literature'],[0.7260051270000001]
+bullet,233,"['Rail Travel', 'Automotive']","[0.7972016479999999, 1.0]"
+deerhound,34883,"['Pets', 'Dogs']","[0.7409787409999999, 0.824139712]"
+staffordshire_bullterrier,7537,['Dogs'],[0.788951795]
+candy_store,22399,"['Food Industry', 'Retail Industry', 'Desserts and Baking', 'Shopping', 'Events and Attractions']","[0.744507027, 0.737122307, 0.7668528370000001, 0.7126039390000001, 1.0]"
+race_car,4217,"['Automotive', 'Auto Body Styles', 'Auto Type', 'Auto Shows', 'Auto Rentals']","[0.7396785640000001, 0.759071855, 0.744780995, 0.8086413840000001, 0.7529551459999999]"
+manhole_cover,8438,['Hobbies & Interests'],[1.0]
+eschrichtius_gibbosus,57853,['Large Animals'],[0.7262935159999999]
+landrover,6552,"['SUV', 'Pickup Trucks', 'Luxury Cars']","[0.853698727, 0.837920727, 0.7429566479999999]"
+economy,68874,"['Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Food Industry', 'Healthcare Industry', 'Hospitality Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Apparel Industry', 'Retail Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Education', 'Real Estate', 'Retail Property', 'Consumer Electronics', 'Hobbies & Interests', 'Business and Finance', 'Education industry', 'Entertainment Industry', 'Financial Industry', 'Food Industry', 'Healthcare Industry', 'Hospitality Industry', 'Logistics and Transportation Industry', 'Media Industry', 'Apparel Industry', 'Retail Industry', 'Technology Industry', 'Telecommunications Industry', 'Automotive Industry', 'Aviation Industry', 'Education', 'Primary Education', 'Smart Home', 'Home Improvement', 'Home Security', 'Real Estate', 'Retail Property', 'Technology & Computing', 'Consumer Electronics', 'Hobbies & Interests', 'Education', 'Travel']","[0.872321282, 0.822669806, 0.7912380459999999, 0.861005085, 0.7973897609999999, 0.817363662, 0.801290026, 0.815426943, 0.795165281, 0.764943501, 0.8216292959999999, 0.796288113, 0.792479121, 0.79052473, 0.791886196, 0.724525269, 0.73318791, 0.7543288909999999, 0.737168017, 0.6678926239999999, 0.872321282, 0.822669806, 0.7912380459999999, 0.861005085, 0.7973897609999999, 0.817363662, 0.801290026, 0.815426943, 0.795165281, 0.764943501, 0.8216292959999999, 0.796288113, 0.792479121, 0.79052473, 0.791886196, 0.724525269, 0.72063179, 0.71872605, 0.732110523, 0.714253535, 0.73318791, 0.7543288909999999, 0.710985647, 0.737168017, 0.6678926239999999, 1.0, 1.0]"
+mud_hen,23770,['Birds'],[0.798484877]
+pole,411,['Outdoor Activities'],[0.765808455]
+lhasa_apso,43672,['Dogs'],[0.713497685]
+entlebucher,9146,['Large Animals'],[0.7449910359999999]
+caldron,38062,"['Cooking', 'Events and Attractions', 'Religion & Spirituality']","[0.781694887, 1.0, 1.0]"
+board,1064,"['Events and Attractions', 'Style & Fashion']","[1.0, 1.0]"
+marsh_hen,53424,['Birds'],[0.798484877]
+plate,3374,"['Barbecues and Grilling', 'Cooking', 'Desserts and Baking']","[0.7439921140000001, 0.89593346, 0.814089233]"
+overskirt,19297,"['Fashion Events', ""Women's Clothing"", ""Women's Formal Wear""]","[0.759504871, 0.8581309970000001, 0.815730845]"
+seashore,12884,"['Travel Locations', 'Beach Travel']","[0.719809281, 0.881203427]"
+book_jacket,4136,['Books and Literature'],[0.7260051270000001]
+magpie,7881,['Birds'],[0.843591636]
+health,34204,"['Medical Health', 'Business and Finance', 'Education industry', 'Financial Industry', 'Food Industry', 'Healthcare Industry', 'Education', 'Healthy Living', 'Fitness and Exercise', 'Wellness', 'Medical Health', 'Oral care']","[0.587833033, 0.712640998, 0.778279982, 0.7305688570000001, 0.751951822, 0.8196545890000001, 0.7811954659999999, 0.770429648, 0.763960578, 0.82957525, 0.905571057, 0.7806219329999999]"
+jeep,2943,"['SUV', 'Pickup Trucks', 'Luxury Cars']","[0.853698727, 0.837920727, 0.7429566479999999]"
+aramus_pictus,14177,['Birds'],[0.78989697]
+bullet_train,223,"['Rail Travel', 'Automotive']","[0.7972016479999999, 1.0]"
+espresso,1580,"['Food Industry', 'Bars & Restaurants', 'Dining Out', 'World Cuisines']","[0.800257377, 0.720088388, 0.760425213, 0.692527738]"
+komodo_lizard,29874,['Reptiles'],[0.7850878370000001]
+mouse,656,['Desktops'],[0.630952587]
+vestment,5465,"[""Men's Clothing""]",[0.731566939]
+entertainment_center,13566,"['Shopping', 'Television', 'Video Gaming', 'Education']","[0.740587494, 0.6771926620000001, 1.0, 1.0]"
+notecase,11064,"[""Women's Handbags and Wallets""]",[0.747856986]
+washer,3544,"['Home Appliances', 'Consumer Electronics']","[0.784225498, 0.717050335]"
+king_of_beasts,47823,['Cats'],[0.773798323]
+xylophone,7571,"['Musical Instruments', 'Music and Audio']","[0.7998789059999999, 1.0]"
+meat_loaf,3485,"['Food Industry', 'Food & Drink', 'Cooking']","[0.750858641, 0.7596203009999999, 0.8097347420000001]"
+cinema,5202,"['Movies', 'Entertainment Industry', 'Theater Venues and Events', 'Cinemas and Events', 'Music and Audio', 'Television']","[0.8371503370000001, 0.7162231579999999, 0.8268268670000001, 0.875171853, 0.742720568, 0.7164709509999999]"
+shetland_sheepdog,18213,['Dogs'],[0.7831943029999999]
+bear_cat,26358,['Large Animals'],[0.773266625]
+stage,3359,"['Entertainment Industry', 'Theater Venues and Events']","[0.7269772809999999, 0.769896644]"
+iguana,3449,['Reptiles'],[0.7899185120000001]
+meat_market,1211,"['Food Industry', 'Retail Industry', 'Malls & Shopping Centers', 'Food & Drink', 'Cooking', 'Shopping']","[0.81728151, 0.7884828509999999, 0.7268039470000001, 0.747506619, 0.7192150740000001, 0.737837471]"
+terrace,537,"['Outdoor Activities', 'Home & Garden', 'Remodeling & Construction', 'Landscaping', 'Apartments', 'Hotel Properties', 'Houses']","[0.7422736259999999, 0.8512880709999999, 0.718400288, 0.829477989, 0.747647866, 0.7139366629999999, 0.756513344]"
+goblet,269,['Style & Fashion'],[1.0]
+plough,1518,['Commercial Trucks'],[0.718073333]
+cellular_phone,2798,"['Telecommunications Industry', 'Consumer Electronics', 'Smartphones', 'Travel', 'Family and Relationships', 'Shopping', 'Television', 'Sports', 'Movies', 'Science', 'Video Gaming']","[0.71513848, 0.7396869620000001, 0.772696085, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+lens_cover,26647,['Cameras and Camcorders'],[0.718516917]
+drum,53,"['Musical Instruments', 'Music and Audio']","[0.8500715670000001, 0.716434389]"
+tractor_trailer,16993,"['Commercial Trucks', 'Logistics and Transportation Industry']","[0.920690529, 0.722615795]"
+race,5667,"['Pop Culture', 'Books and Literature', 'Education industry', 'Religious Events', 'Family and Relationships', 'World Cuisines', 'Pop Culture', 'Religion & Spirituality', 'South America Travel']","[0.684878543, 0.717812751, 0.733027558, 0.79559341, 0.7603110259999999, 0.74036823, 0.8082786059999999, 0.73231751, 0.711102441]"
+giant_lizard,48238,['Reptiles'],[0.7850878370000001]
+refrigerator,2385,['Home Appliances'],[0.7761051609999999]
+zucchini,716,['Desserts and Baking'],[0.740220221]
+bars,1249,"['Sports', 'Outdoor Activities', 'Fitness and Exercise']","[0.771649038, 0.734361011, 0.75452302]"
+dust_jacket,8654,['Books and Literature'],[0.7260051270000001]
+letter_box,3788,['Office Property'],[0.738089792]
+tandem_bicycle,26115,"['Logistics and Transportation Industry', 'Travel']","[0.721923109, 1.0]"
+african_chameleon,2692,['Reptiles'],[0.742057746]
+frypan,14823,"['Cooking', 'Desserts and Baking']","[0.833810913, 0.7496542909999999]"
+lorikeet,4314,['Birds'],[0.810693129]
+tympan,17691,"['Musical Instruments', 'Music and Audio']","[0.8500715670000001, 0.716434389]"
+ounce,488,['Large Animals'],[0.751361462]
+mail,2302,"[""Men's Clothing"", ""Men's Formal Wear"", 'Events and Attractions', 'Television']","[0.732664642, 0.7297287579999999, 1.0, 1.0]"
+saltshaker,1570,['Desserts and Baking'],[0.719830623]
+disc_brake,3738,['Auto Parts'],[0.751509564]
+cocktail_shaker,23987,['Cooking'],[0.819960021]
+siamese,6944,"['Pets', 'Cats']","[0.746036329, 0.856637106]"
+fig,2470,"['Desserts and Baking', 'Home & Garden']","[0.724338895, 1.0]"
+theatre_curtain,45210,"['Movies', 'Theater Venues and Events', 'Cinemas and Events']","[0.77516416, 0.874227027, 0.767247703]"
+perfume,271,"['Beauty', 'Perfume and Fragrance']","[0.7445197640000001, 0.972573569]"
+doberman,12926,['Dogs'],[0.779710784]
+paddle,6235,"['Sports', 'Outdoor Activities', 'Beach Travel', 'Camping']","[0.763829891, 0.7493414759999999, 0.742320553, 0.713586029]"
+alopex_lagopus,9547,['Travel'],[1.0]
+r.v.,99118,"['Auto Type', 'Auto Rentals']","[0.71514365, 0.758220254]"
+bald_eagle,1037,['Birds'],[0.7857245340000001]
+model_t,13341,['Auto Type'],[0.777338775]
+glasshouse,5789,"['Gardening', 'Landscaping']","[0.76103887, 0.74655118]"
+garden_cart,87514,"['Home & Garden', 'Gardening', 'Landscaping']","[0.737058219, 0.75148269, 0.732089512]"
+tabby,8020,"['Pets', 'Cats']","[0.7246589790000001, 0.8790887909999999]"
+wagon,996,"['Station Wagon', 'Travel']","[0.978162367, 1.0]"
+drop,1502,"['Real Estate', 'Travel']","[1.0, 1.0]"
+sealyham_terrier,35690,"['Pets', 'Dogs']","[0.7778794309999999, 0.8674643670000001]"
+warplane,24669,"['Aviation Industry', 'Air Travel']","[0.7569222409999999, 0.739623114]"
+jersey,15293,"[""Men's Clothing"", 'Apparel Industry', ""Women's Clothing"", ""Men's Casual Wear""]","[0.81443486, 0.716709973, 0.790229062, 0.808359747]"
+ring_mail,17571,"[""Men's Clothing"", ""Men's Formal Wear"", 'Events and Attractions', 'Television']","[0.732664642, 0.7297287579999999, 1.0, 1.0]"
+mousetrap,3961,"['Technology Industry', 'Home & Garden']","[0.794790925, 1.0]"
+china_cabinet,1991,"['Makeup and Accessories', 'Bath and Shower', 'Travel Accessories', 'Asia Travel', 'Australia and Oceania Travel', 'Style & Fashion']","[0.720683049, 0.727186055, 0.716546309, 0.67252889, 0.688375218, 1.0]"
+panthera_leo,70953,['Cats'],[0.773798323]
+tobacconist_shop,1355,"['Retail Industry', 'Retail Property']","[0.718103893, 0.722374673]"
+streetcar,12595,['Rail Travel'],[0.786351885]
+alaskan_malamute,25303,['Dogs'],[0.7490479729999999]
+apiary,2673,['Pets'],[1.0]
