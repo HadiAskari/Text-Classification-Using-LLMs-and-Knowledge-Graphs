@@ -120,7 +120,7 @@ def openAI_similarity(maf_embeddings,iab_embeddings,TopN,upper,lower,parent_bool
 
         
         #low initial threshold
-        similarities=[x for x in similarities if x[2]>=0.765]
+        similarities=[x for x in similarities if x[2]>=0.7]
         new_similarities=[]
 
         # new_similarities=[x for x in similarities if x[2]>=0.8065]
