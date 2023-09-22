@@ -1,6 +1,6 @@
 # Improving-Mappings-via-Embeddings-and-tSNE-Clustering
 
-Experimental code is in the FINAL ipynb's.
+Detailed Notebooks with images, statistics and evaluation metrics are in the FINAL ipynb's.
 
 To run script.py use the following command:
 
