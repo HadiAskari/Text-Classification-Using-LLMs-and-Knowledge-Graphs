@@ -1,0 +1,1877 @@
+crane
+disk brake
+auto_factory
+cab
+car mirror
+racer
+Motorbike
+Wheel
+convertible
+Acoustic guitar
+auto_showroom
+passenger car
+pickup
+Truck
+Car
+Tire
+trailer truck
+Vehicle registration plate
+car wheel
+limousine
+minivan
+Air brake
+gas_station
+jeep
+Vehicle
+police van
+moving van
+Van
+car_interior
+Air horn, truck horn
+garbage truck
+Land vehicle
+Auto part
+Aircraft
+Aircraft engine
+seat belt
+Ambient music
+sports car
+repair_shop
+moped
+motor scooter
+Helmet
+crash helmet
+Angry music
+ambulance
+highway
+Cell phone
+tow truck
+Animal
+bookcase
+book jacket
+library
+bookshop
+comic book
+Bookcase
+archive
+bookstore
+Book
+Pen
+Office building
+Office supplies
+office_cubicles
+Building
+wardrobe
+assembly_line
+bib
+apron
+cardigan
+cowboy boot
+Clothing
+clothing_store
+bullet train
+Helicopter
+Baby cry
+Baby laughter
+aircraft carrier
+space shuttle
+airplane_cabin
+airliner
+warplane
+Airplane
+laptop
+abacus
+biology_laboratory
+campus
+classroom
+Laptop
+Microphone
+arena/rodeo
+amusement_arcade
+arena/performance
+entertainment center
+amusement_park
+movie_theater/indoor
+cinema
+Television
+envelope
+cash machine
+Basketball bounce
+bank_vault
+Convenience store
+confectionery
+bakery/shop
+Bass drum
+Food
+Dutch oven
+stethoscope
+drugstore
+Chair
+Bus
+electric locomotive
+Bass guitar
+bus_interior
+freight car
+Bathtub (filling or washing)
+Bicycle
+Bird
+Box
+jewelry_shop
+butcher shop
+candy_store
+department_store
+dial telephone
+coil
+Computer keyboard
+computer keyboard
+cellular telephone
+Clock
+Bird flight, flapping wings
+Bird vocalization, bird call, bird song
+modem
+notebook
+Human body
+Girl
+kindergarden_classroom
+Glasses
+paintbrush
+Human eye
+art_school
+mortarboard
+snorkel
+basketball
+Horse
+stage
+ball_pit
+Baked goods
+Cake stand
+Muffin
+microphone
+Donut
+Balloon
+balloon
+Cake
+academic gown
+ballroom
+Tie
+Suit
+bow tie
+suit
+gown
+Dress
+banquet_hall
+groom
+Boat, Water vehicle
+restaurant_patio
+Table
+sushi_bar
+Dining table
+bar
+restaurant
+Human hair
+auditorium
+Boiling
+conference_center
+Bowed string instrument
+Brass instrument
+discotheque
+electric guitar
+Burst, pop
+Camera
+Canidae, dogs, wolves
+dressing_room
+sarong
+runway
+Backpack
+toyshop
+plaza
+downtown
+shopping_mall/indoor
+Human mouth
+Picture frame
+science_museum
+museum/indoor
+natural_history_museum
+museum/outdoor
+art_gallery
+Canoe
+Umbrella
+Frisbee
+croquet ball
+parachute
+bicycle-built-for-two
+canoe
+bazaar/outdoor
+diner/outdoor
+Boat
+cliff
+Butterfly
+valley
+water_park
+park
+Bench
+forest_path
+Tree
+church
+mosque
+altar
+prayer rug
+amphitheater
+entrance_hall
+theater curtain
+lion
+sea slug
+king penguin
+coral reef
+sturgeon
+Snake
+Starfish
+Panda
+Penguin
+Monkey
+starfish
+hammerhead
+Fish
+Zebra
+tiger
+Bear
+Tiger
+koala
+Lion
+sea lion
+hippopotamus
+Giraffe
+giant panda
+Elephant
+aquarium
+brass
+artists_loft
+Bronze sculpture
+Sculpture
+art_studio
+ice cream
+delicatessen
+Sandwich
+Bottle
+Wine glass
+cheeseburger
+Drinking straw
+corn
+eggnog
+espresso
+Fast food
+pop bottle
+wine bottle
+beer glass
+Drink
+beer bottle
+Coffee cup
+Bowl
+Cocktail
+cocktail shaker
+beer_hall
+Refrigerator
+beer_garden
+Wine rack
+red wine
+Beer
+Wine
+shopping cart
+Hot dog
+Boy
+hotdog
+butchers_shop
+ladle
+wok
+frying pan
+Crock Pot
+microwave
+ice_cream_parlor
+trifle
+tray
+bakery
+pretzel
+Candy
+dough
+custard apple
+Cookie
+chocolate sauce
+Dessert
+dining table
+restaurant_kitchen
+water jug
+water bottle
+Juice
+Tea
+coffee mug
+Coffee
+tricycle
+dumbbell
+ice_skating_rink/indoor
+ice_skating_rink/outdoor
+Treadmill
+Sports equipment
+Stationary bicycle
+barbell
+gymnasium/indoor
+Surfboard
+Apple
+Broccoli
+Hiking equipment
+Human leg
+Training bench
+Snowboard
+jigsaw puzzle
+playroom
+crossword puzzle
+upright
+maraca
+cornet
+harp
+drum
+banjo
+Car alarm
+Musical instrument
+sax
+acoustic guitar
+Violin
+violin
+Guitar
+pot
+dining_room
+patio
+Houseplant
+greenhouse
+Vase
+greenhouse/outdoor
+Flower
+acorn
+tree_farm
+formal_garden
+barrow
+japanese_garden
+botanical_garden
+roof_garden
+vegetable_garden
+coffeepot
+refrigerator
+washer
+Washing machine
+Kitchen appliance
+Toaster
+Dishwasher
+dishwasher
+Oven
+House
+house
+beach_house
+garage/indoor
+construction_site
+garage/outdoor
+Window
+Car passing by
+lawn
+gasmask
+Carnatic music
+Cash register
+loudspeaker
+Headphones
+CD player
+Cat
+Cattle, bovinae
+Cello
+Chicken, rooster
+music_studio
+Pembroke
+bluetick
+French bulldog
+Polar bear
+English setter
+Tibetan terrier
+Saint Bernard
+schipperke
+Samoyed
+Angora
+Rabbit
+whippet
+Cow
+American Staffordshire terrier
+pug
+Owl
+Maltese dog
+West Highland white terrier
+beagle
+toy terrier
+toy poodle
+Chihuahua
+Dandie Dinmont
+Sealyham terrier
+dalmatian
+Leonberg
+kuvasz
+groenendael
+Appenzeller
+EntleBucher
+veterinarians_office
+Dog
+partridge
+prairie chicken
+drake
+Falcon
+toucan
+Sparrow
+Parrot
+pelican
+macaw
+hen
+peacock
+Child singing
+Siamese cat
+tabby
+Egyptian cat
+Persian cat
+kelpie
+standard poodle
+Border collie
+Kerry blue terrier
+Dog bed
+flat-coated retriever
+Yorkshire terrier
+Norwegian elkhound
+Pomeranian
+chow
+Great Dane
+Weimaraner
+Labrador retriever
+Eskimo dog
+Pig
+Ostrich
+Bouvier des Flandres
+ram
+Goat
+ostrich
+Rhinoceros
+llama
+Cattle
+Sheep
+ox
+snow leopard
+tiger cat
+common newt
+hognose snake
+green snake
+sea snake
+Tortoise
+African crocodile
+Crocodile
+Reptile
+African chameleon
+whiptail
+Gila monster
+American chameleon
+agama
+common iguana
+green lizard
+banded gecko
+frilled lizard
+Lizard
+Child speech, kid speaking
+Countertop
+Bed
+apartment_building/outdoor
+Studio couch
+studio couch
+balcony/exterior
+Swimming pool
+dining_hall
+bannister
+gazebo/exterior
+barn
+driveway
+Children playing
+corn_field
+farm
+pasture
+wheat_field
+worm fence
+office_building
+coffee_shop
+vestment
+Marine invertebrates
+lab coat
+Petri dish
+beaker
+chemistry_lab
+physics_laboratory
+Jeans
+Cart
+supermarket
+grocery store
+Footwear
+hardware_store
+fabric_store
+gift_shop
+Teddy bear
+Kite
+swing
+Toy
+Sunflower
+Rose
+hip
+Lily
+cardoon
+daisy
+florist_shop/indoor
+fur coat
+Christmas tree
+Christmas stocking
+Scissors
+Bathroom cabinet
+Children shouting
+Trousers
+Jacket
+abaya
+trench coat
+Handbag
+Coat
+Wardrobe
+Fashion accessory
+Cowboy hat
+jean
+jersey
+cowboy hat
+Windsor tie
+Chopping (food)
+miniskirt
+Woman
+buckle
+Briefcase
+Luggage and bags
+wallet
+purse
+necklace
+Earrings
+Necklace
+bathroom
+Bathtub
+Towel
+Soap dispenser
+soap dispenser
+bathtub
+bath towel
+shower
+sunscreen
+Perfume
+perfume
+Christian music
+wig
+hair slide
+Hair dryer
+hair spray
+Hair spray
+beauty_salon
+Cosmetics
+Face powder
+face powder
+lipstick
+Lipstick
+Nail
+Toothbrush
+Scarf
+stole
+sweatshirt
+bikini
+bonnet
+brassiere
+Remote control
+hand-held computer
+digital clock
+typewriter keyboard
+Computer mouse
+Computer monitor
+desktop computer
+Tripod
+tripod
+lens cap
+reflex camera
+Polaroid camera
+printer
+monitor
+computer_room
+server_room
+Tablet computer
+Sewing machine
+remote control
+Digital clock
+projector
+iPod
+digital watch
+radio
+home theater
+television_room
+home_theater
+screen
+television_studio
+television
+Palm tree
+Suitcase
+airport_terminal
+subway_station/platform
+school bus
+Taxi
+train_station/platform
+Train
+seashore
+watering_hole
+African elephant
+desert/sand
+African grey
+Christmas music
+Church bell
+Clarinet
+Classical music
+temple/asia
+umbrella
+swimming_pool/outdoor
+lagoon
+beach
+walking stick
+sleeping bag
+Tent
+campsite
+paddlewheel
+catamaran
+Gondola
+triumphal arch
+European gallinule
+gondola
+four-poster
+chalet
+hotel/outdoor
+hotel_room
+motel
+ski mask
+tundra
+dogsled
+iceberg
+steel arch bridge
+viaduct
+streetcar
+railroad_track
+steam locomotive
+Country
+megalith
+Alpaca
+backpack
+geyser
+joystick
+Human hand
+'groom'
+'bridegroom'
+Dance music
+'Life'
+'Family'
+'Relationship'
+'Love'
+carrying baby
+baby waking up
+Dental drill, dentist's drill
+Dishes, pots, and pans
+'People'
+Banana
+tennis ball
+strawberry
+massaging person's head
+riding or walking with horse
+exercising arm
+yoga
+exercising with an exercise ball
+Carrot
+Orange
+pill bottle
+operating_room
+oxygen mask
+Ambulance
+'medicine chest'
+'medicine cabinet'
+Medical equipment
+hospital_room
+hospital
+'television'
+'television system'
+'Entertainment'
+'Showbiz'
+'Film'
+'home theater'
+'home theatre'
+'theater curtain'
+'theatre curtain'
+'cinema'
+'movie theater'
+'movie theatre'
+'movie house'
+'picture palace'
+'Race'
+'Culture'
+Domestic animals, pets
+stadium/soccer
+racket
+Baseball bat
+Football helmet
+soccer ball
+ski
+'ski'
+football helmet
+'football helmet'
+ballplayer
+rugby ball
+Tennis racket
+'paddle'
+'boat paddle'
+'parallel bars'
+'bars'
+Sports uniform
+hurling (sport)
+athletic_field/outdoor
+'sports car'
+'sport car'
+scoreboard
+'Sports'
+Shorts
+'sandal'
+'running shoe'
+'cardigan'
+'jersey'
+'T-shirt'
+'tee shirt'
+'suit'
+'suit of clothes'
+sandal
+'Fashion'
+'Lifestyle'
+Sandal
+'Loafer'
+'shoe shop'
+'shoe-shop'
+'shoe store'
+High heels
+outdoor
+arcade
+hockey
+performance
+shop
+baseball_field
+indoor
+bedroom
+building_facade
+canyon
+childs_room
+clean_room
+coast
+conference_room
+cottage
+fastfood_restaurant
+food_court
+football_field
+exterior
+golf_course
+industrial_area
+kitchen
+mansion
+manufactured_home
+mountain
+mountain_path
+nursery
+orchestra_pit
+parking_lot
+pet_shop
+picnic_area
+recreation_room
+residential_neighborhood
+sauna
+soccer_field
+baseball
+football
+platform
+tree_house
+village
+yard
+zen_garden
+Drum
+Drum and bass
+Duck
+Electric guitar
+Electric piano
+Electric shaver, electric razor
+Electronic dance music
+Electronic music
+Electronic organ
+Electronic tuner
+Emergency vehicle
+Engine
+Engine knocking
+Engine starting
+Environmental noise
+Exciting music
+Fire alarm
+Fixed-wing aircraft, airplane
+Flute
+Folk music
+Fowl
+Frying (food)
+Funny music
+Gospel music
+Happy music
+Harmonica
+Harp
+Hip hop music
+House music
+Ice cream truck, ice cream van
+Independent music
+Inside, large room or hall
+Inside, public space
+Jazz
+Jingle (music)
+Keyboard (musical)
+Lawn mower
+Livestock, farm animals, working animals
+Mallet percussion
+Marimba, xylophone
+Microwave oven
+Middle Eastern music
+Motor vehicle (road)
+Motorcycle
+Music
+Music for children
+Music of Africa
+Music of Asia
+Music of Bollywood
+Music of Latin America
+New-age music
+Opera
+Orchestra
+Organ
+Outside, rural or natural
+Outside, urban or manmade
+Percussion
+Piano
+Pigeon, dove
+Plucked string instrument
+Pop music
+Power windows, electric windows
+Progressive rock
+Psychedelic rock
+Punk rock
+Race car, auto racing
+Radio
+Rail transport
+Railroad car, train wagon
+Rattle (instrument)
+Reggae
+Rhythm and blues
+Roaring cats (lions, tigers)
+Rock and roll
+Rock music
+Sad music
+Saxophone
+Scary music
+Ship
+Single-lens reflex camera
+Song
+Soul music
+Soundtrack music
+Speech synthesizer
+Steel guitar, slide guitar
+Subway, metro, underground
+Swing music
+Tapping (guitar technique)
+Tender music
+Theme music
+Tools
+Traditional music
+Train whistle
+Trance music
+Turkey
+Vehicle horn, car horn, honking
+Video game music
+giving or receiving award
+playing poker
+driving car
+playing clarinet
+playing cricket
+dining
+reading book
+playing ice hockey
+tasting beer
+motorcycling
+celebrating
+tasting food
+trimming or shaving beard
+playing harmonica
+playing cymbals
+washing feet
+shaving head
+recording music
+playing saxophone
+passing American football (in game)
+using computer
+golf putting
+writing
+barbequing
+playing accordion
+playing organ
+taking a shower
+dying hair
+grooming horse
+playing volleyball
+assembling computer
+playing tennis
+jogging
+riding elephant
+playing violin
+playing keyboard
+applying cream
+arranging flowers
+playing ukulele
+playing chess
+catching or throwing baseball
+playing bagpipes
+playing harp
+golf driving
+counting money
+playing guitar
+unloading truck
+hitting baseball
+waxing legs
+trimming trees
+curling hair
+playing drums
+playing trombone
+playing trumpet
+grooming dog
+making bed
+playing xylophone
+walking the dog
+playing cards
+sled dog racing
+tapping guitar
+mowing lawn
+country line dancing
+playing monopoly
+baking cookies
+playing squash or racquetball
+biking through snow
+blowing glass
+playing cello
+playing flute
+canoeing or kayaking
+building shed
+eating burger
+playing bass guitar
+playing basketball
+playing piano
+juggling soccer ball
+building cabinet
+playing controller
+waxing chest
+watering plants
+strumming guitar
+braiding hair
+brush painting
+eating hotdog
+passing American football (not in game)
+moving furniture
+playing recorder
+training dog
+brushing hair
+clay pottery making
+cleaning floor
+feeding birds
+cooking on campfire
+drawing
+drinking beer
+waxing back
+cleaning pool
+tossing salad
+surfing water
+changing wheel
+dribbling basketball
+making pizza
+doing nails
+shooting basketball
+cutting nails
+cooking chicken
+running on treadmill
+feeding goats
+waxing eyebrows
+eating watermelon
+cooking egg
+eating doughnuts
+hockey stop
+making tea
+eating chips
+snatch weight lifting
+eating cake
+grinding meat
+getting a haircut
+petting cat
+water skiing
+Person
+Baseball glove
+Pizza
+'Politics'
+'World'
+'International'
+'Holiday'
+'Vacation'
+'Business'
+'Economy'
+'News'
+'Health'
+'Government'
+'Policy'
+'Automobile'
+'Road'
+'Literature'
+'Pets'
+'Education'
+'Shopping'
+'Living'
+'Travel'
+'Transportation'
+'Home'
+'Residence'
+'Music'
+'Technology'
+'Science'
+'Food'
+'Public'
+Sea turtle
+Football
+Home appliance
+Boot
+Limousine
+Cheese
+Dairy
+Shower
+Volleyball
+Slow cooker
+Personal care
+Sun hat
+Tree house
+Gas stove
+Salt and pepper shakers
+Fruit
+Tart
+Human foot
+Egg
+Mixing bowl
+Kitchen utensil
+Food processor
+Wood-burning stove
+Golf ball
+Human head
+Frying pan
+Milk
+Table tennis racket
+Musical keyboard
+Kitchen knife
+Tennis ball
+Potato
+Pasta
+Seafood
+Cooking spray
+Bowling equipment
+Wok
+Bread
+Chicken
+Deer
+Furniture
+Ice cream
+Vegetable
+Sea lion
+Watch
+Salad
+Cat furniture
+Bathroom accessory
+Pressure cooker
+Pastry
+Rugby ball
+'cock'
+'house finch'
+'linnet'
+'Carpodacus mexicanus'
+'common iguana'
+'iguana'
+'Iguana iguana'
+'American chameleon'
+'anole'
+'Anolis carolinensis'
+'frilled lizard'
+'Chlamydosaurus kingi'
+'African chameleon'
+'Chamaeleo chamaeleon'
+'quail'
+'African grey'
+'African gray'
+'Psittacus erithacus'
+'sulphur-crested cockatoo'
+'Kakatoe galerita'
+'Cacatua galerita'
+'goose'
+'Japanese spaniel'
+'Maltese dog'
+'Maltese terrier'
+'Maltese'
+'Pekinese'
+'Pekingese'
+'Peke'
+'Shih-Tzu'
+'Blenheim spaniel'
+'papillon'
+'Rhodesian ridgeback'
+'Afghan hound'
+'Afghan'
+'basset'
+'basset hound'
+'bloodhound'
+'sleuthhound'
+'bluetick'
+'black-and-tan coonhound'
+'Walker hound'
+'Walker foxhound'
+'English foxhound'
+'redbone'
+'borzoi'
+'Russian wolfhound'
+'Irish wolfhound'
+'Italian greyhound'
+'whippet'
+'otterhound'
+'otter hound'
+'Saluki'
+'gazelle hound'
+'Scottish deerhound'
+'deerhound'
+'Weimaraner'
+'Staffordshire bullterrier'
+'Staffordshire bull terrier'
+'American Staffordshire terrier'
+'Staffordshire terrier'
+'American pit bull terrier'
+'pit bull terrier'
+'Bedlington terrier'
+'Border terrier'
+'Kerry blue terrier'
+'Irish terrier'
+'Norfolk terrier'
+'Norwich terrier'
+'Yorkshire terrier'
+'wire-haired fox terrier'
+'Lakeland terrier'
+'Sealyham terrier'
+'Sealyham'
+'Airedale'
+'Airedale terrier'
+'cairn'
+'cairn terrier'
+'Australian terrier'
+'Dandie Dinmont'
+'Dandie Dinmont terrier'
+'Boston bull'
+'Boston terrier'
+'miniature schnauzer'
+'giant schnauzer'
+'standard schnauzer'
+'Scotch terrier'
+'Scottish terrier'
+'Scottie'
+'Tibetan terrier'
+'chrysanthemum dog'
+'silky terrier'
+'Sydney silky'
+'soft-coated wheaten terrier'
+'West Highland white terrier'
+'Lhasa'
+'Lhasa apso'
+'flat-coated retriever'
+'curly-coated retriever'
+'golden retriever'
+'Labrador retriever'
+'Chesapeake Bay retriever'
+'German short-haired pointer'
+'vizsla'
+'Hungarian pointer'
+'English setter'
+'Irish setter'
+'red setter'
+'Gordon setter'
+'Brittany spaniel'
+'clumber'
+'clumber spaniel'
+'English springer'
+'English springer spaniel'
+'Welsh springer spaniel'
+'cocker spaniel'
+'English cocker spaniel'
+'cocker'
+'Sussex spaniel'
+'Irish water spaniel'
+'kuvasz'
+'schipperke'
+'malinois'
+'briard'
+'komondor'
+'Old English sheepdog'
+'bobtail'
+'Shetland sheepdog'
+'Shetland sheep dog'
+'Shetland'
+'collie'
+'Border collie'
+'Rottweiler'
+'German shepherd'
+'German shepherd dog'
+'German police dog'
+'alsatian'
+'Doberman'
+'Doberman pinscher'
+'miniature pinscher'
+'Greater Swiss Mountain dog'
+'Bernese mountain dog'
+'Appenzeller'
+'boxer'
+'bull mastiff'
+'Tibetan mastiff'
+'French bulldog'
+'Great Dane'
+'Eskimo dog'
+'husky'
+'malamute'
+'malemute'
+'Alaskan malamute'
+'Siberian husky'
+'dalmatian'
+'coach dog'
+'carriage dog'
+'affenpinscher'
+'monkey pinscher'
+'monkey dog'
+'basenji'
+'pug'
+'pug-dog'
+'Leonberg'
+'Newfoundland'
+'Newfoundland dog'
+'Great Pyrenees'
+'Samoyed'
+'Samoyede'
+'Pomeranian'
+'chow'
+'chow chow'
+'keeshond'
+'Brabancon griffon'
+'Pembroke'
+'Pembroke Welsh corgi'
+'miniature poodle'
+'standard poodle'
+'Mexican hairless'
+'tabby'
+'tabby cat'
+'tiger cat'
+'Persian cat'
+'Siamese cat'
+'Siamese'
+'Egyptian cat'
+'tiger'
+'Panthera tigris'
+'ice bear'
+'polar bear'
+'Ursus Maritimus'
+'Thalarctos maritimus'
+'abacus'
+'abaya'
+'academic gown'
+'academic robe'
+"""judge's robe"""
+'accordion'
+'piano accordion'
+'squeeze box'
+'acoustic guitar'
+'ambulance'
+'backpack'
+'back pack'
+'knapsack'
+'packsack'
+'rucksack'
+'haversack'
+'bakery'
+'bakeshop'
+'bakehouse'
+'balance beam'
+'beam'
+'balloon'
+'Band Aid'
+'barbell'
+'barometer'
+'barrow'
+'garden cart'
+'lawn cart'
+'wheelbarrow'
+'baseball'
+'basketball'
+'bassoon'
+'bathtub'
+'bathing tub'
+'bath'
+'tub'
+'beach wagon'
+'station wagon'
+'wagon'
+'estate car'
+'beach waggon'
+'station waggon'
+'waggon'
+'beer bottle'
+'beer glass'
+'bikini'
+'two-piece'
+'birdhouse'
+'bow tie'
+'bow-tie'
+'bowtie'
+'bulletproof vest'
+'bullet train'
+'bullet'
+'butcher shop'
+'meat market'
+'caldron'
+'cauldron'
+'car wheel'
+'cassette'
+'cassette player'
+'cello'
+'violoncello'
+'cellular telephone'
+'cellular phone'
+'cellphone'
+'cell'
+'mobile phone'
+'chime'
+'bell'
+'gong'
+'china cabinet'
+'china closet'
+'church'
+'church building'
+'cleaver'
+'meat cleaver'
+'chopper'
+'cloak'
+'cocktail shaker'
+'coffee mug'
+'combination lock'
+'computer keyboard'
+'keypad'
+'confectionery'
+'confectionary'
+'candy store'
+'convertible'
+'corkscrew'
+'bottle screw'
+'cornet'
+'horn'
+'trumpet'
+'trump'
+'cowboy boot'
+'desktop computer'
+'digital clock'
+'digital watch'
+'dishwasher'
+'dish washer'
+'dishwashing machine'
+'disk brake'
+'disc brake'
+'drum'
+'membranophone'
+'tympan'
+'drumstick'
+'electric fan'
+'blower'
+'electric guitar'
+'entertainment center'
+'espresso maker'
+'fire engine'
+'fire truck'
+'flute'
+'transverse flute'
+'French horn'
+'frying pan'
+'frypan'
+'skillet'
+'fur coat'
+'garbage truck'
+'dustcart'
+'goblet'
+'gown'
+'grand piano'
+'grand'
+'greenhouse'
+'nursery'
+'glasshouse'
+'grille'
+'radiator grille'
+'grocery store'
+'grocery'
+'food market'
+'market'
+'hair slide'
+'hand blower'
+'blow dryer'
+'blow drier'
+'hair dryer'
+'hair drier'
+'hand-held computer'
+'hand-held microcomputer'
+'harmonica'
+'mouth organ'
+'harp'
+'mouth harp'
+'hoopskirt'
+'crinoline'
+'horizontal bar'
+'high bar'
+'hourglass'
+'iPod'
+'jean'
+'blue jean'
+'denim'
+'jeep'
+'landrover'
+'joystick'
+'kimono'
+'lab coat'
+'laboratory coat'
+'laptop'
+'laptop computer'
+'lawn mower'
+'mower'
+'lens cap'
+'lens cover'
+'limousine'
+'limo'
+'lipstick'
+'lip rouge'
+'loudspeaker'
+'speaker'
+'speaker unit'
+'loudspeaker system'
+'speaker system'
+'maillot'
+'tank suit'
+'marimba'
+'xylophone'
+'mask'
+'maypole'
+'maze'
+'labyrinth'
+'measuring cup'
+'microphone'
+'mike'
+'microwave'
+'microwave oven'
+'military uniform'
+'milk can'
+'miniskirt'
+'mini'
+'minivan'
+'mitten'
+'mixing bowl'
+'mobile home'
+'manufactured home'
+'Model T'
+'modem'
+'monitor'
+'mortar'
+'motor scooter'
+'scooter'
+'mountain bike'
+'all-terrain bike'
+'off-roader'
+'mountain tent'
+'mousetrap'
+'moving van'
+'notebook'
+'notebook computer'
+'oboe'
+'hautboy'
+'hautbois'
+'ocarina'
+'sweet potato'
+'odometer'
+'hodometer'
+'mileometer'
+'milometer'
+'oil filter'
+'organ'
+'pipe organ'
+'overskirt'
+'padlock'
+'pajama'
+'pyjama'
+"""pj's"""
+'jammies'
+'park bench'
+'passenger car'
+'coach'
+'carriage'
+'patio'
+'terrace'
+'perfume'
+'essence'
+'photocopier'
+'pick'
+'plectrum'
+'plectron'
+'pickup'
+'pickup truck'
+'pier'
+'pitcher'
+'ewer'
+'planetarium'
+'plow'
+'plough'
+'Polaroid camera'
+'Polaroid Land camera'
+'poncho'
+'pop bottle'
+'soda bottle'
+'pot'
+'flowerpot'
+'power drill'
+'printer'
+'puck'
+'hockey puck'
+'racer'
+'race car'
+'racing car'
+'racket'
+'racquet'
+'radiator'
+'radio'
+'wireless'
+'radio telescope'
+'radio reflector'
+'recreational vehicle'
+'RV'
+'R.V.'
+'reel'
+'refrigerator'
+'icebox'
+'remote control'
+'remote'
+'restaurant'
+'eating house'
+'eating place'
+'eatery'
+'rotisserie'
+'sarong'
+'sax'
+'saxophone'
+'scale'
+'weighing machine'
+'school bus'
+'sewing machine'
+'shopping basket'
+'shower cap'
+'shower curtain'
+'ski mask'
+'slide rule'
+'slipstick'
+'sliding door'
+'slot'
+'one-armed bandit'
+'snorkel'
+'snowmobile'
+'sock'
+'solar dish'
+'solar collector'
+'solar furnace'
+'soup bowl'
+'space bar'
+'space heater'
+'spatula'
+'spider web'
+"""spider's web"""
+'spotlight'
+'spot'
+'stage'
+'steel drum'
+'stopwatch'
+'stop watch'
+'stove'
+'strainer'
+'streetcar'
+'tram'
+'tramcar'
+'trolley'
+'trolley car'
+'sunglasses'
+'dark glasses'
+'shades'
+'sweatshirt'
+'swimming trunks'
+'bathing trunks'
+'switch'
+'electric switch'
+'electrical switch'
+'tape player'
+'teapot'
+'teddy'
+'teddy bear'
+'tennis ball'
+'thatch'
+'thatched roof'
+'toaster'
+'tobacco shop'
+'tobacconist shop'
+'tobacconist'
+'toilet seat'
+'tow truck'
+'tow car'
+'wrecker'
+'tractor'
+'trailer truck'
+'tractor trailer'
+'trucking rig'
+'rig'
+'articulated lorry'
+'semi'
+'trench coat'
+'tripod'
+'trombone'
+'vat'
+'turnstile'
+'typewriter keyboard'
+'umbrella'
+'upright'
+'upright piano'
+'vacuum'
+'vacuum cleaner'
+'velvet'
+'vending machine'
+'vestment'
+'violin'
+'fiddle'
+'volleyball'
+'waffle iron'
+'wall clock'
+'wallet'
+'billfold'
+'notecase'
+'pocketbook'
+'wardrobe'
+'closet'
+'press'
+'warplane'
+'military plane'
+'washer'
+'automatic washer'
+'washing machine'
+'water bottle'
+'wig'
+'window screen'
+'window shade'
+'wine bottle'
+'wooden spoon'
+'yurt'
+'crossword puzzle'
+'crossword'
+'street sign'
+'book jacket'
+'dust cover'
+'dust jacket'
+'dust wrapper'
+'menu'
+'plate'
+'guacamole'
+'consomme'
+'hot pot'
+'hotpot'
+'trifle'
+'ice cream'
+'icecream'
+'ice lolly'
+'lolly'
+'lollipop'
+'popsicle'
+'French loaf'
+'bagel'
+'beigel'
+'pretzel'
+'cheeseburger'
+'hotdog'
+'hot dog'
+'red hot'
+'mashed potato'
+'head cabbage'
+'broccoli'
+'cauliflower'
+'spaghetti squash'
+'acorn squash'
+'butternut squash'
+'artichoke'
+'globe artichoke'
+'bell pepper'
+'strawberry'
+'orange'
+'lemon'
+'banana'
+'custard apple'
+'carbonara'
+'chocolate sauce'
+'chocolate syrup'
+'dough'
+'meat loaf'
+'meatloaf'
+'pizza'
+'pizza pie'
+'potpie'
+'burrito'
+'red wine'
+'espresso'
+'eggnog'
+'bubble'
+'lakeside'
+'lakeshore'
+'sandbar'
+'sand bar'
+'seashore'
+'coast'
+'seacoast'
+'sea-coast'
+'ballplayer'
+'baseball player'
+"""yellow lady's slipper"""
+'yellow lady-slipper'
+'Cypripedium calceolus'
+'Cypripedium parviflorum'
+'corn'
+'hip'
+'rose hip'
+'rosehip'
+Violin, fiddle
+Vocal music
+'hair spray'
+Water
+kissing
+'screen'
+'CRT screen'
+'mouse'
+'computer mouse'
+Wedding music
+Whimper (dog)
+Wild animals
+ice fishing
+Wind instrument, woodwind instrument
+Wind noise (microphone)
+Wood block
+Writing
+texting
+Traffic light
+Traffic sign
+Zipper (clothing)
+Marine mammal
+'anemone fish'
+'apiary'
+'bee house'
+'Arctic fox'
+'white fox'
+'Alopex lagopus'
+'bathing cap'
+'swimming cap'
+'bicycle-built-for-two'
+'tandem bicycle'
+'tandem'
+'bittern'
+'black grouse'
+'black stork'
+'Ciconia nigra'
+'buckle'
+'cab'
+'hack'
+'taxi'
+'taxicab'
+'can opener'
+'tin opener'
+'canoe'
+'castle'
+'CD player'
+'chain mail'
+'ring mail'
+'mail'
+'chain armor'
+'chain armour'
+'ring armor'
+'ring armour'
+'cheetah'
+'chetah'
+'Acinonyx jubatus'
+'cliff dwelling'
+'cliff'
+'drop'
+'drop-off'
+'cougar'
+'puma'
+'catamount'
+'mountain lion'
+'painter'
+'panther'
+'Felis concolor'
+'crane (bird)'
+'cup'
+'desk'
+'dining table'
+'board'
+'dock'
+'dockage'
+'docking facility'
+'dogsled'
+'dog sled'
+'dog sleigh'
+'dome'
+'drilling platform'
+'offshore rig'
+'fig'
+'file'
+'file cabinet'
+'filing cabinet'
+'flagpole'
+'flagstaff'
+'four-poster'
+'freight car'
+'geyser'
+'giant panda'
+'panda'
+'panda bear'
+'coon bear'
+'Ailuropoda melanoleuca'
+'go-kart'
+'half track'
+'hay'
+'hen-of-the-woods'
+'hen of the woods'
+'Polyporus frondosus'
+'Grifola frondosa'
+'horse cart'
+'horse-cart'
+'manhole cover'
+'Marine'
+'mosque'
+'oxygen mask'
+'steel arch bridge'
+'stole'
+'stone wall'
+Cutting board
+electric ray
+infant cry
