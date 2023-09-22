@@ -1,6 +1,6 @@
 # Improving-Mappings-via-Embeddings-and-tSNE-Clustering
 
-Detailed Notebooks with images, statistics and evaluation metrics are in the FINAL ipynb's.
+Detailed Notebooks with images, statistics and evaluation metrics are in the FINAL ipynb's in OpenAI Mapping and RAM Mapping.
 
 To run script.py use the following command:
 
